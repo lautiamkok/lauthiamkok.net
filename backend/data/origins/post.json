@@ -1,0 +1,204 @@
+{
+  "app": {
+    "name": "post",
+    "cwd": "./",
+    "src": "data/",
+    "filePattern": "posts/**/*.md",
+    "ignore": "**/*(drafts|archive)/**",
+    "dist": "data/posts/post.json",
+    "version": "1.4.1"
+  },
+  "data": [
+    {
+      "title": "After you have exhausted what there is in...",
+      "excerpt": "After you have exhausted what there is in business, politics, conviviality, love, and so on — have found that none of these finally satisfy, or permanently wear — what remains?\n",
+      "createdOn": "2020-05-01T01:20:00.000Z",
+      "tags": [
+        "gastonbachelard",
+        "thepoeticsofspace"
+      ],
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode",
+        "cellClass": "large-6",
+        "bgImage": null,
+        "bgStyle": "background: #fc00ff; background: -webkit-radial-gradient(circle at top left, #00dbde, #fc00ff); background: radial-gradient(circle at top left, #00dbde, #fc00ff);\n"
+      },
+      "contents": "<blockquote>\n<p>After you have exhausted what there is in business, politics, conviviality, love, and so on — have found that none of these finally satisfy, or permanently wear — what remains? Nature remains; to bring out from their torpid recesses, the affinities of a man or woman with the open air, the trees, fields, the changes of seasons — the sun by day and the stars of heaven by night.</p>\n</blockquote>\n<p>Walt Whitman</p>\n",
+      "id": "posts__quote__published__After you have exhausted what there is in...__index"
+    },
+    {
+      "title": "Scientists should never claim...",
+      "createdOn": "2020-05-01T01:50:00.000Z",
+      "tags": [
+        "gastonbachelard",
+        "thepoeticsofspace"
+      ],
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode",
+        "cellClass": "large-6",
+        "bgImage": null,
+        "bgStyle": "background: #fc00ff; background: -webkit-radial-gradient(circle at top left, #00dbde, #fc00ff); background: radial-gradient(circle at top left, #00dbde, #fc00ff);\n"
+      },
+      "contents": "<blockquote>\n<p>Scientists should never claim that something is absolutely true. You should never claim perfect or total or 100%, because you never, ever get there. If we assume we have arrived, we stop searching. We stop developing.</p>\n</blockquote>\n<p>Jocelyn Bell Burnell, BBC Beautiful Minds, 2010.</p>\n",
+      "excerpt": "<p>Scientists should never claim that something is absolutely true. You should never claim perfect or total or 100%, because you never, ever get there. If we assume we have arrived, we stop searching. We stop developing.</p>",
+      "id": "posts__quote__published__Scientists should never claim...__index"
+    },
+    {
+      "title": "We are unable to relive duration that...",
+      "excerpt": "We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n",
+      "createdOn": "2019-05-01T01:20:00.000Z",
+      "tags": [
+        "gastonbachelard",
+        "hello"
+      ],
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode",
+        "cellClass": "large-6",
+        "bgImage": null,
+        "bgStyle": "background: #fc00ff; background: -webkit-radial-gradient(circle at top left, #00dbde, #fc00ff); background: radial-gradient(circle at top left, #00dbde, #fc00ff);\n"
+      },
+      "adImage": {
+        "file": "book-cover.jpg",
+        "title": "The best search engine for privacy",
+        "link": "/local/0735227934?linkCode=gs2&tag=braipick-21",
+        "caption": "We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n",
+        "cellClass": "medium-4",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "relatedPages": [
+        {
+          "link": "/art/place",
+          "title": "We are unable to relive duration that..."
+        },
+        {
+          "link": "/poetic/ghost",
+          "title": "The poetic image is not subject to an inner thrust..."
+        },
+        {
+          "link": "/art/place",
+          "title": "Our past is situated elsewhere..."
+        },
+        {
+          "link": "/poetic/ghost",
+          "title": "A house that has been experienced..."
+        },
+        {
+          "link": "/poetic/ghost",
+          "title": "A house..."
+        }
+      ],
+      "contents": "<blockquote>\n<p>We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.</p>\n</blockquote>\n<blockquote>\n<p>I only read and re-read what I like, with a bit of reader&#39;s pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.</p>\n</blockquote>\n<p>Gaston Bachelard (1958), <a href=\"/local/0735227934?linkCode=gs2&amp;tag=braipick-21\" title=\"The best search engine for privacy\">The Poetics of Space</a></p>\n",
+      "id": "posts__quote__published__we-are-unable-to-relive-duration-that...__index"
+    },
+    {
+      "title": "Dreams find you...",
+      "createdOn": "2017-07-24T01:57:00.000Z",
+      "tags": [
+        "hello",
+        "world",
+        "dreams"
+      ],
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode",
+        "cellClass": "large-4",
+        "bgImage": null,
+        "bgStyle": "background: #fc00ff; background: -webkit-radial-gradient(circle at top left, #00dbde, #fc00ff); background: radial-gradient(circle at top left, #00dbde, #fc00ff);\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "contents": "<p>Dreams find you even at the end of the world.</p>\n",
+      "excerpt": "<p>Dreams find you even at the end of the world.</p>",
+      "id": "posts__ruminant__published__Dreams find you...__index"
+    },
+    {
+      "title": "All viruses want to...",
+      "createdOn": "2020-03-19T19:22:00.000Z",
+      "tags": [
+        "world"
+      ],
+      "coverImage": {
+        "file": "1.jpg",
+        "title": "Sample Title"
+      },
+      "fontSizes": {
+        "headExcerpt": null
+      },
+      "layout": "single",
+      "hide": [
+        "contents"
+      ],
+      "contents": "<p>All viruses want to live too. They once were happily living with the animals in the wilderness.</p>\n",
+      "excerpt": "<p>All viruses want to live too. They once were happily living with the animals in the wilderness.</p>",
+      "id": "posts__ruminant__published__all-viruses-want-to...__index"
+    },
+    {
+      "title": "When you sleep...",
+      "createdOn": "2017-09-29T22:27:00.000Z",
+      "coverImage": {
+        "file": "4.jpg",
+        "title": "Sample Title"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode",
+        "cellClass": "large-4",
+        "bgImage": null,
+        "bgStyle": "background: #fc00ff; background: -webkit-radial-gradient(circle at top left, #00dbde, #fc00ff); background: radial-gradient(circle at top left, #00dbde, #fc00ff);\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "contents": "<p>When you sleep, all dreams eventually come true.</p>\n",
+      "excerpt": "<p>When you sleep, all dreams eventually come true.</p>",
+      "id": "posts__ruminant__published__when-you-sleep...__index"
+    },
+    {
+      "title": "原来，无论藏到任何...",
+      "createdOn": "2019-12-17T12:51:00.000Z",
+      "coverImage": {
+        "file": "2.jpg",
+        "title": "Sample Title"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode",
+        "cellClass": "large-4",
+        "bgImage": null,
+        "bgStyle": "background: #fc00ff; background: -webkit-radial-gradient(circle at top left, #00dbde, #fc00ff); background: radial-gradient(circle at top left, #00dbde, #fc00ff);\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "contents": "<p>原来，无论藏到任何最不闪亮的城市，你仍然不饶人，爱在人海中偶尔浮现，重复再重复的提醒，你曾经是曾那么痛苦的思念和活着</p>\n",
+      "excerpt": "<p>&#x539F;&#x6765;&#xFF0C;&#x65E0;&#x8BBA;&#x85CF;&#x5230;&#x4EFB;&#x4F55;&#x6700;&#x4E0D;&#x95EA;&#x4EAE;&#x7684;&#x57CE;&#x5E02;&#xFF0C;&#x4F60;&#x4ECD;&#x7136;&#x4E0D;&#x9976;&#x4EBA;&#xFF0C;&#x7231;&#x5728;&#x4EBA;&#x6D77;&#x4E2D;&#x5076;&#x5C14;&#x6D6E;&#x73B0;&#xFF0C;&#x91CD;&#x590D;&#x518D;&#x91CD;&#x590D;&#x7684;&#x63D0;&#x9192;&#xFF0C;&#x4F60;&#x66FE;&#x7ECF;&#x662F;&#x66FE;&#x90A3;&#x4E48;&#x75DB;&#x82E6;&#x7684;&#x601D;&#x5FF5;&#x548C;&#x6D3B;&#x7740;</p>",
+      "id": "posts__ruminant__published__原来，无论藏到任何...__index"
+    },
+    {
+      "title": "青春是一本...",
+      "createdOn": "2018-12-19T00:28:00.000Z",
+      "coverImage": {
+        "file": "3.jpg",
+        "title": "Sample Title"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode",
+        "cellClass": "large-4",
+        "bgImage": null,
+        "bgStyle": "background: #fc00ff; background: -webkit-radial-gradient(circle at top left, #00dbde, #fc00ff); background: radial-gradient(circle at top left, #00dbde, #fc00ff);\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "contents": "<p>青春是一本太薄的书。</p>\n",
+      "excerpt": "<p>&#x9752;&#x6625;&#x662F;&#x4E00;&#x672C;&#x592A;&#x8584;&#x7684;&#x4E66;&#x3002;</p>",
+      "id": "posts__ruminant__published__青春是一本...__index"
+    }
+  ]
+}

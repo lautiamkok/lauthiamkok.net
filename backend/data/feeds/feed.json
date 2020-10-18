@@ -1,0 +1,315 @@
+{
+  "app": {
+    "name": "feed",
+    "cwd": "./",
+    "src": "data/",
+    "filePattern": "feeds/**/*.md",
+    "ignore": "**/*(drafts|archive)/**",
+    "dist": "data/feeds/feed.json",
+    "version": "1.4.1"
+  },
+  "data": [
+    {
+      "title": "Hands-on Nuxt.js Web Development",
+      "createdOn": "2020-08-15T12:00:00.000Z",
+      "excerpt": "Build universal and static-generated Vue.js applications using Nuxt.js...\n",
+      "coverImage": {
+        "file": "iStock-913275422-feed.jpg",
+        "title": "Hands-on Nuxt.js Web Development"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "iStock-913275422-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/digital/hands-on-nuxtjs-web-development",
+      "contents": "",
+      "id": "feeds__digital__published__hands-on-nuxtjs-web-development__index"
+    },
+    {
+      "title": "A Cat From My Next Door",
+      "createdOn": "2020-08-09T14:24:00.000Z",
+      "excerpt": "You are not my pet\nBut you live in my house more...\n",
+      "coverImage": {
+        "file": "christian-stahl-8S96OpxSlvg-unsplash-feed.jpg",
+        "title": "A Cat From My Next Door"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "christian-stahl-8S96OpxSlvg-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/a-cat-from-my-next-door",
+      "contents": "",
+      "id": "feeds__poetic__published__a-cat-from-my-next-door__index"
+    },
+    {
+      "title": "半生",
+      "createdOn": "2020-08-13T14:24:00.000Z",
+      "excerpt": "此生堪惊 为了那群银河\n为了那颗死去的星星\n为了天长地久...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "vincent-guth-ISI5DlnYvuY-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/半生",
+      "contents": "",
+      "id": "feeds__poetic__published__半生__index"
+    },
+    {
+      "title": "山海記",
+      "createdOn": "2020-08-09T14:24:00.000Z",
+      "excerpt": "曾經你是山   我是海\n你曾經住在   那故鄉深山\n我曾經住在   那他鄉海港...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "heiswayi-nrird-K3Pcz4kk63o-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/山海記",
+      "contents": "",
+      "id": "feeds__poetic__published__山海記__index"
+    },
+    {
+      "title": "发现诗",
+      "createdOn": "2020-09-08T15:43:00.000Z",
+      "excerpt": "宇宙是一首诗\n所以不断的发现诗\n就能慢慢的发现\n整个宇宙...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "phuc-nguyen-g9mMhEFS0_c-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/发现诗",
+      "contents": "",
+      "id": "feeds__poetic__published__发现诗__index"
+    },
+    {
+      "title": "浪者",
+      "createdOn": "2020-03-31T14:24:00.000Z",
+      "excerpt": "我所思念的\n和我所未谋面的\n都是我故乡...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "vincent-guth-NUiQpGnj9rI-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/浪者",
+      "contents": "",
+      "id": "feeds__poetic__published__浪者__index"
+    },
+    {
+      "title": "蟑螂",
+      "createdOn": "2020-08-09T14:24:00.000Z",
+      "excerpt": "也許你已轉世\n長成一朵紅花\n在庭院裡等我走過...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "ehud-neuhaus-m04m3xDE1Ho-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/蟑螂",
+      "contents": "",
+      "id": "feeds__poetic__published__蟑螂__index"
+    },
+    {
+      "title": "追殺一隻叫做現實的野獸",
+      "createdOn": "2020-08-09T14:24:00.000Z",
+      "excerpt": "如果夢比清醒真實 是否有一隻叫做現實的野獸\n在天亮之前 一定要把它追殺...\n",
+      "coverImage": {
+        "file": "kym-mackinnon-f3ITqoZOP6E-unsplash.jpg",
+        "title": "追殺一隻叫做現實的野獸"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "kym-mackinnon-f3ITqoZOP6E-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/追殺一隻叫做現實的野獸",
+      "contents": "",
+      "id": "feeds__poetic__published__追殺一隻叫做現實的野獸__index"
+    },
+    {
+      "title": "Humans",
+      "createdOn": "2020-08-09T15:57:00.000Z",
+      "excerpt": "\"All that\nexploration, all that progress, all those dreams and grand notions...\n",
+      "coverImage": {
+        "file": "collins-lesulie--OZcGk5lD7U-unsplash-cover.jpg",
+        "title": "Humans"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "collins-lesulie--OZcGk5lD7U-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/and-thats-where-we-end-up-trapped-on-our-planet",
+      "contents": "",
+      "id": "feeds__quotes__published__and-thats-where-we-end-up-trapped-on-our-planet__index"
+    },
+    {
+      "title": "Until the End of Time",
+      "createdOn": "2020-08-05T19:57:00.000Z",
+      "excerpt": "\"Eternity itself may forever lie beyond the reach of our equations, but\nour analyses...\n",
+      "coverImage": {
+        "file": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash-cover.jpg",
+        "title": "Until the End of Time"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations",
+      "contents": "",
+      "id": "feeds__quotes__published__eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations__index"
+    },
+    {
+      "title": "The Magic Furnace",
+      "createdOn": "2020-07-31T12:03:00.000Z",
+      "excerpt": "\"Every breath you take contains atoms forged in the blistering furnaces deep inside stars...\n",
+      "coverImage": {
+        "file": "patrick-mcmanaman-LN_g3qA8ohg-unsplash-cover.jpg",
+        "title": "The Magic Furnace"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "patrick-mcmanaman-LN_g3qA8ohg-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars",
+      "contents": "",
+      "id": "feeds__quotes__published__every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars__index"
+    },
+    {
+      "title": "Cosmos",
+      "createdOn": "2020-08-02T12:30:00.000Z",
+      "excerpt": "\"Exploration is in our nature. We began as wanderers, and we are wanderers still...\n",
+      "coverImage": {
+        "file": "hamish-weir-cuO6_mnbgPE-unsplash-cover.jpg",
+        "title": "Cosmos"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "hamish-weir-cuO6_mnbgPE-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/exploration-is-in-our-nature",
+      "contents": "",
+      "id": "feeds__quotes__published__exploration-is-in-our-nature__index"
+    },
+    {
+      "title": "End Times",
+      "createdOn": "2020-08-09T14:24:00.000Z",
+      "excerpt": "\"It is easier to imagine the end of the world than to imagine the end of capitalism...\n",
+      "coverImage": {
+        "file": "neil-thomas-NjvkwbzYrew-unsplash-feed.jpg",
+        "title": "End Times: A Brief Guide to the End of the World"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "neil-thomas-NjvkwbzYrew-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/it-is-easier-to-imagine-the-end-of-the-world-than-to-imagine-the-end-of-capitalism",
+      "contents": "",
+      "id": "feeds__quotes__published__it-is-easier-to-imagine-the-end-of-the-world-than-to-imagine-the-end-of-capitalism__index"
+    },
+    {
+      "title": "The Order of Time",
+      "createdOn": "2020-08-05T20:51:00.000Z",
+      "excerpt": "\"This is time, familiar and intimate. We are taken by it. The rush of seconds, hours, years that hurls us...\n",
+      "coverImage": {
+        "file": "jean-wimmerlin-eB6D0Wks7jA-unsplash-feed.jpg",
+        "title": "End Times: A Brief Guide to the End of the World"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "jean-wimmerlin-eB6D0Wks7jA-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/this-is-time-familiar-and-intimate",
+      "contents": "",
+      "id": "feeds__quotes__published__this-is-time-familiar-and-intimate__index"
+    },
+    {
+      "title": "Starry Nights",
+      "createdOn": "2012-12-26T17:33:00.000Z",
+      "excerpt": "I know everything ends the same: I still try to remember your face...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "jake-weirick-Zu6wtAvLWgE-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/posts/starry-nights",
+      "contents": "",
+      "id": "feeds__posts__published__starry-nights__index"
+    },
+    {
+      "title": "The Most Beautiful Place",
+      "createdOn": "2007-06-06T22:12:00.000Z",
+      "excerpt": "The most beautiful place is never in the sky nor is too far away, it is the face where...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/posts/the-most-beautiful-place",
+      "contents": "",
+      "id": "feeds__posts__published__the-most-beautiful-place__index"
+    },
+    {
+      "title": "Virus",
+      "createdOn": "2020-03-19T19:22:00.000Z",
+      "excerpt": "All viruses want to live too. They once were happily...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "isaac-quesada-3afJNfKkbH8-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/posts/virus",
+      "contents": "",
+      "id": "feeds__posts__published__virus__index"
+    },
+    {
+      "title": "太阳都会老",
+      "createdOn": "2020-05-25T09:42:00.000Z",
+      "excerpt": "太阳都会老，莫说凡人。月亮也会老，莫说青春...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "ingmar-aNeAaXWr2fg-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'center center'\n"
+      },
+      "link": "/origins/posts/太阳都会老",
+      "contents": "",
+      "id": "feeds__posts__published__太阳都会老__index"
+    },
+    {
+      "title": "饶人",
+      "createdOn": "2019-12-17T12:51:00.000Z",
+      "excerpt": "原来，无论藏到任何最不闪亮的城市，你仍然不饶人...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "pic-03-feed.jpg",
+        "bgStyle": "'background-position': 'center center'\n"
+      },
+      "link": "/origins/posts/饶人",
+      "contents": "",
+      "id": "feeds__posts__published__饶人__index"
+    }
+  ]
+}

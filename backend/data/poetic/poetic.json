@@ -1,0 +1,1422 @@
+{
+  "app": {
+    "name": "poetic",
+    "cwd": "./",
+    "src": "data/",
+    "filePattern": "poetic/**/*.md",
+    "ignore": "**/*(drafts|archive)/**",
+    "dist": "data/poetic/poetic.json",
+    "version": "1.4.1"
+  },
+  "data": [
+    {
+      "title": "A Cat From My Next Door",
+      "excerpt": "You are not my pet\nBut you live in my house more\nThan the one that feeds you so big.\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "A Cat From My Next Door.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "christian-stahl-8S96OpxSlvg-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@woodpecker65?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Christian Stahl</a> on <a href=\"https://unsplash.com/s/photos/doors-london?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-8"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "christian-stahl-8S96OpxSlvg-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__A Cat From My Next Door__index"
+    },
+    {
+      "title": "A Few Winters Ago",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "A Few Winters Ago.txt",
+      "meta": {
+        "title": null,
+        "description": "A few winters ago in the cold and misty air, I heard the wind howled like a storm coming to strike, and I heard your voice, fighting through the wind, laboriously reaching my ears, say my name kindly, kindly, before we say goodbye, goodbye.\n",
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": "A few winters ago in the cold and misty air, I heard the wind howled like a storm coming to strike, and I heard your voice, fighting through the wind, laboriously reaching my ears, say my name kindly, kindly, before we say goodbye, goodbye.\n",
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "excerpt": "",
+      "id": "poetic__published__A Few Winters Ago__index"
+    },
+    {
+      "title": "A Hunch And a Dog",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "A Hunch And A Dog.txt",
+      "layout": "flat",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "excerpt": "",
+      "id": "poetic__published__A Hunch And a Dog__index"
+    },
+    {
+      "title": "Beautiful Creatures",
+      "excerpt": "From time to time I miss the wild chickens that I used to keep in the garden of my parent house.",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Beautiful Creatures.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__Beautiful Creatures__index"
+    },
+    {
+      "title": "Epilogue",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Poetic.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "excerpt": "",
+      "id": "poetic__published__Epilogue__index"
+    },
+    {
+      "title": "Finding Eternity",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Finding Eternity.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "excerpt": "",
+      "id": "poetic__published__Finding Eternity__index"
+    },
+    {
+      "title": "Ghost",
+      "excerpt": "The teaching and effort of all, of all, Philosophies, Science, Technologies, Arts, And Poetry, Is to return us to our origins. But, we can't go back as we were, We only can become, Merely become... Ghosts.\n",
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "gridClass": "font-classic",
+        "cellClass": "large-6"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "ghost.jpg",
+        "bgStyle": "'background-position': 'center center'\n"
+      },
+      "contentClass": "large-5",
+      "include": "Ghost.txt",
+      "relatedPages": [
+        {
+          "link": "/art/dust",
+          "title": "Dust (book)"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "ghost.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__Ghost__index"
+    },
+    {
+      "title": "Growing Pains",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Growing Pains.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "excerpt": "",
+      "id": "poetic__published__Growing Pains__index"
+    },
+    {
+      "title": "Hold",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Hold.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "excerpt": "",
+      "id": "poetic__published__Hold__index"
+    },
+    {
+      "title": "Home",
+      "excerpt": "All scientists, philosophers, poets, politicians and everyone else perhaps, are wrong.",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Home.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__Home__index"
+    },
+    {
+      "title": "Humming",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Humming.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__Humming__index"
+    },
+    {
+      "title": "How Do You Live",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "How Do You Live.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__How Do You Live__index"
+    },
+    {
+      "title": "I Am a Poem",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "I Am A Poem.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__I Am a Poem__index"
+    },
+    {
+      "title": "I Cannot Live With You",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "I Cannot Live With You.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__I Cannot Live with You__index"
+    },
+    {
+      "title": "I Will Keep a Dog",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "I Will Keep A Dog.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__I Will Keep a Dog__index"
+    },
+    {
+      "title": "If You Can Wait",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "If You Can Wait.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__If You Can Wait__index"
+    },
+    {
+      "title": "In Ruin",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "In Ruin.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__In Ruin__index"
+    },
+    {
+      "title": "Legacy",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Legacy.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__Legacy__index"
+    },
+    {
+      "title": "Maybe I Was a Cat",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Maybe I Was A Cat.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "29717936_184204618863821_2747959821608157184_n.jpg",
+        "alt": "Maybe I Was a Cat",
+        "caption": null,
+        "cellClass": null
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "29717936_184204618863821_2747959821608157184_n_OG.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__Maybe I Was a Cat__index"
+    },
+    {
+      "title": "Mollusc",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Mollusc.txt",
+      "contents": "",
+      "id": "poetic__published__Mollusc__index"
+    },
+    {
+      "title": "Place",
+      "excerpt": "and all these distances become the place I run to when the dark rises, when I want your ghost to come to warm my winter sky and watch my summer stars.\n",
+      "relatedPages": [
+        {
+          "link": "/art/place",
+          "title": "A Place (book)"
+        }
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "gridClass": "font-classic",
+        "cellClass": "large-6"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "place.jpg",
+        "bgStyle": "'background-position': 'center center'\n"
+      },
+      "contentClass": "large-5",
+      "include": "Place.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "place.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__Place__index"
+    },
+    {
+      "title": "Prologue",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Poetic.txt",
+      "contents": "",
+      "id": "poetic__published__Prologue__index"
+    },
+    {
+      "title": "Remember My Name",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Remember My Name.txt",
+      "contents": "",
+      "id": "poetic__published__Remember My Name__index"
+    },
+    {
+      "title": "Rose",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Rose.txt",
+      "contents": "",
+      "id": "poetic__published__Rose__index"
+    },
+    {
+      "title": "Run",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Run.txt",
+      "contents": "",
+      "id": "poetic__published__Run__index"
+    },
+    {
+      "title": "Somewhere",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Somewhere.txt",
+      "contents": "",
+      "id": "poetic__published__Somewhere__index"
+    },
+    {
+      "title": "The Dust in The House",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "The Dust In The House.txt",
+      "contents": "",
+      "id": "poetic__published__The Dust in The House__index"
+    },
+    {
+      "title": "The Little Mermaid",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "The Little Mermaid.txt",
+      "contents": "",
+      "id": "poetic__published__The Little Mermaid__index"
+    },
+    {
+      "title": "Think of Me",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Think Of Me.txt",
+      "contents": "",
+      "id": "poetic__published__Think of Me__index"
+    },
+    {
+      "title": "Twenties",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Twenties.txt",
+      "contents": "",
+      "id": "poetic__published__Twenties__index"
+    },
+    {
+      "title": "Unwanted",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Unwanted.txt",
+      "contents": "",
+      "id": "poetic__published__Unwanted__index"
+    },
+    {
+      "title": "Waiting",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Waiting.txt",
+      "contents": "",
+      "id": "poetic__published__Waiting__index"
+    },
+    {
+      "title": "When I Am Old",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "When I Am Old.txt",
+      "contents": "",
+      "id": "poetic__published__When I Am Old__index"
+    },
+    {
+      "title": "一本詩集",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "一本詩集.txt",
+      "contents": "",
+      "id": "poetic__published__一本詩集__index"
+    },
+    {
+      "title": "不關風月",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "不關風月.txt",
+      "contents": "",
+      "id": "poetic__published__不關風月__index"
+    },
+    {
+      "title": "之前",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "之前.txt",
+      "contents": "",
+      "id": "poetic__published__之前__index"
+    },
+    {
+      "title": "几首短诗",
+      "excerpt": "宇宙再长\n思念再疯狂\n或是再大的是非成败\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "几首短诗.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.jpg",
+        "alt": "几首短诗",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@eberhardgross?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">eberhard grossgasteiger</a> on <a href=\"https://unsplash.com/s/photos/nebula?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-10"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__几首短诗__index"
+    },
+    {
+      "title": "半生",
+      "excerpt": "此生堪惊 为了那群银河\n为了那颗死去的星星\n为了天长地久\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "半生.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "vincent-guth-ISI5DlnYvuY-unsplash.jpg",
+        "alt": "半生",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@vingtcent?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Vincent Guth</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-10"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "vincent-guth-ISI5DlnYvuY-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__半生__index"
+    },
+    {
+      "title": "发现诗",
+      "excerpt": "宇宙是一首诗\n所以不断的发现诗\n就能慢慢的发现\n整个宇宙\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "发现诗.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "phuc-nguyen-g9mMhEFS0_c-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@phucnv9985?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">phuc nguyen</a> on <a href=\"https://unsplash.com/collections/11645368/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-8"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "phuc-nguyen-g9mMhEFS0_c-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__发现诗__index"
+    },
+    {
+      "title": "回云",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "回云.txt",
+      "contents": "",
+      "id": "poetic__published__回云__index"
+    },
+    {
+      "title": "壁画",
+      "excerpt": "我们曾在那最古老的深洞\n刻下我们的故事 涂上\n我们的记忆\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "壁画.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "cave-1024963_1920.jpg",
+        "alt": "壁画",
+        "caption": "Image by <a href=\"https://pixabay.com/users/EstudioWebDoce-1605998/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1024963\">EstudioWebDoce</a> from <a href=\"https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1024963\">Pixabay</a>\n",
+        "cellClass": "large-8"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "cave-1024963_1920.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__壁画__index"
+    },
+    {
+      "title": "夏語",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "夏語.txt",
+      "contents": "",
+      "id": "poetic__published__夏語__index"
+    },
+    {
+      "title": "如一首歌",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "如一首歌.txt",
+      "contents": "",
+      "id": "poetic__published__如一首歌__index"
+    },
+    {
+      "title": "山士",
+      "excerpt": "如果你問我\n為什麼世間會有詩\n其實 我也不知道\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "山士.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "neil-thomas-aDjw7Uqmz2Y-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@neilmarkthomas?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Neil Thomas</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-10"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "neil-thomas-aDjw7Uqmz2Y-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__山士__index"
+    },
+    {
+      "title": "山海記",
+      "excerpt": "曾經你是山   我是海\n你曾經住在   那故鄉深山\n我曾經住在   那他鄉海港\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "山海記.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "heiswayi-nrird-K3Pcz4kk63o-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@heiswayi_nrird?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Heiswayi Nrird</a> on <a href=\"https://unsplash.com/collections/11758504/city?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-12"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "heiswayi-nrird-K3Pcz4kk63o-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__山海記__index"
+    },
+    {
+      "title": "开花的树",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "开花的树.txt",
+      "contents": "",
+      "id": "poetic__published__开花的树__index"
+    },
+    {
+      "title": "引我向你",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "引我向你.txt",
+      "contents": "",
+      "id": "poetic__published__引我向你__index"
+    },
+    {
+      "title": "旅途",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "旅途.txt",
+      "contents": "",
+      "id": "poetic__published__旅途__index"
+    },
+    {
+      "title": "时光",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "时光.txt",
+      "contents": "",
+      "id": "poetic__published__时光__index"
+    },
+    {
+      "title": "月下读诗",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "月下读诗.txt",
+      "contents": "",
+      "id": "poetic__published__月下读诗__index"
+    },
+    {
+      "title": "来世",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "来世.txt",
+      "contents": "",
+      "id": "poetic__published__来世__index"
+    },
+    {
+      "title": "枝椏",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "枝椏.txt",
+      "contents": "",
+      "id": "poetic__published__枝椏__index"
+    },
+    {
+      "title": "櫻花",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "櫻花.txt",
+      "contents": "",
+      "id": "poetic__published__櫻花__index"
+    },
+    {
+      "title": "浪者",
+      "excerpt": "我所思念的\n和我所未谋面的\n都是我故乡\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "浪者.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "vincent-guth-NUiQpGnj9rI-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@vingtcent?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Vincent Guth</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-8"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "vincent-guth-NUiQpGnj9rI-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__浪者__index"
+    },
+    {
+      "title": "浮萍",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "浮萍.txt",
+      "contents": "",
+      "id": "poetic__published__浮萍__index"
+    },
+    {
+      "title": "源頭",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "源頭.txt",
+      "contents": "",
+      "id": "poetic__published__源頭__index"
+    },
+    {
+      "title": "灯下",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "灯下.txt",
+      "contents": "",
+      "id": "poetic__published__灯下__index"
+    },
+    {
+      "title": "炼",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "炼.txt",
+      "contents": "",
+      "id": "poetic__published__炼__index"
+    },
+    {
+      "title": "生命的詩集",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "生命的詩集.txt",
+      "contents": "",
+      "id": "poetic__published__生命的詩集__index"
+    },
+    {
+      "title": "等你",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "等你.txt",
+      "contents": "",
+      "id": "poetic__published__等你__index"
+    },
+    {
+      "title": "等待诗人",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "等待诗人.txt",
+      "contents": "",
+      "id": "poetic__published__等待诗人__index"
+    },
+    {
+      "title": "紅葉",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "紅葉.txt",
+      "contents": "",
+      "id": "poetic__published__紅葉__index"
+    },
+    {
+      "title": "絕筆",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "絕筆.txt",
+      "contents": "",
+      "id": "poetic__published__絕筆__index"
+    },
+    {
+      "title": "蟑螂",
+      "excerpt": "也許你已轉世\n長成一朵紅花\n在庭院裡等我走過\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "蟑螂.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "ehud-neuhaus-m04m3xDE1Ho-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@vixenly?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Kym MacKinnon</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-7"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "ehud-neuhaus-m04m3xDE1Ho-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__蟑螂__index"
+    },
+    {
+      "title": "許望",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "許望.txt",
+      "contents": "",
+      "id": "poetic__published__許望__index"
+    },
+    {
+      "title": "诗的成因",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "诗的成因.txt",
+      "contents": "",
+      "id": "poetic__published__诗的成因__index"
+    },
+    {
+      "title": "車票",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "車票.txt",
+      "contents": "",
+      "id": "poetic__published__車票__index"
+    },
+    {
+      "title": "逃亡",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "逃亡.txt",
+      "contents": "",
+      "id": "poetic__published__逃亡__index"
+    },
+    {
+      "title": "追殺一隻叫做現實的野獸",
+      "excerpt": "如果夢比清醒真實 是否有一隻叫做現實的野獸\n在天亮之前 一定要把它追殺\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "追殺一隻叫做現實的野獸.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "kym-mackinnon-f3ITqoZOP6E-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@vixenly?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Kym MacKinnon</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-10"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "kym-mackinnon-f3ITqoZOP6E-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "poetic__published__追殺一隻叫做現實的野獸__index"
+    },
+    {
+      "title": "雨城",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "雨城.txt",
+      "contents": "",
+      "id": "poetic__published__雨城__index"
+    },
+    {
+      "title": "香茅",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "香茅.txt",
+      "contents": "",
+      "id": "poetic__published__香茅__index"
+    }
+  ]
+}

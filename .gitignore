@@ -1,0 +1,9 @@
+node_modules
+build
+npm-debug.log
+vendor
+.nuxt
+_nuxt
+dist
+drafts
+frontend/assets/images

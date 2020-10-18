@@ -1,0 +1,166 @@
+{
+  "app": {
+    "name": "page",
+    "cwd": "./",
+    "src": "data/",
+    "filePattern": "pages/**/*.md",
+    "ignore": "**/*(drafts|archive)/**",
+    "dist": "data/pages/page.json",
+    "version": "1.4.1"
+  },
+  "data": [
+    {
+      "title": "About",
+      "subtitle": "A Brief History of ...",
+      "order": 2,
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "headImages": [
+        {
+          "file": "about-01.jpg",
+          "gridClass": null,
+          "cellClass": null
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "<p>Born in Penang, Malaysia. Studied Bachelor of Applied Arts at University Malaysia Sarawak. Post-graduate MSc Digital Futures at Institute of Digital Art and Technology, University of Plymouth, United Kingdom. A minimalist designer and a full-stack web developer who has a thing for science, technology, art and philosophy. A wonderer searching for a theory of everything.</p>\n<p><strong>2004 - Present</strong><br>Works as a Web Developer/Designer, Data Analyst, either as a freelancer, a contractor, a collaborator, or as an employee, for various individuals, companies, organisations and universities across Malaysia and Europe.</p>\n<p><strong>1999 - 2002</strong><br>Worked as a Web Designer and Multimedia Designer/Developer for various local and multinational companies from Penang to Kuala Lumpur in Malaysia. Also worked as a Web Application Developer in Kuala Lumpur from June 2015 to August 2016.</p>\n<p><strong>Currently focus in</strong>:<br>PHP, R, JavaScript<br>Vue.js, Nuxt.js, Koa.js, Express.js, Socket.IO<br>R Shiny, Plotly, WordPress<br>GraphGL, MySQL, PostgreSQL, MariaDB, MongoDB, RethinkDB<br>HTML5, CSS3, LESS, Markdown, Zurb Foundation<br>jQuery, ES6, ES7, webpack<br>Apache, Node.js, Shiny Server<br>PSRs (PHP Standards Recommendations), Standard JS (JavaScript Standard Style)<br>Linux (Ubuntu/ Kubuntu), Git, PHP Adminer<br>Pencil Project (prototyping tool)</p>\n<p><strong>Experience in</strong>:<br>PHPUnit, Slim Framework, Magento, Shopify<br>Twitter Bootstrap 3, Twig, Pug<br>Gulp, Prototype JavaScript, Require.js, Angular, React<br>Adobe Products: Photoshop, Illustrator, InDesign, Flash, Director, Page Maker<br>SQLite, phpMyAdmin, MySQL Workbench<br>JIRA, Confluence<br>Linux (Arch)</p>\n<p><strong>Credits in</strong>:<br><a href=\"http://www.gold.ac.uk/news/deptford-dustboxes/\">Goldsmiths University of London: How dirty is Deptford’s air?</a><br><a href=\"http://datastories.citizensense.net/2016/03/bridgewater-n-56/\">Citizen Sense: Bridgewater</a><br><a href=\"http://www.citizensense.net/psresources/about-airsift/\">Citizen Sense: Airsift Data Analysis</a></p>\n<p><strong>Interviews in</strong>:<br><a href=\"http://www.isendyouthis.com/artdiary.aspx?id=124\">isendyouthis artdiary</a><br><a href=\"http://www.littlesongfilms.com/newsletter/newsletter06.pdf\">Little Song Films</a></p>\n",
+      "excerpt": "<p>Born in Penang, Malaysia. Studied Bachelor of Applied Arts at University Malaysia Sarawak. Post-graduate MSc Digital Futures at Institute of Digital Art and Technology, University of Plymouth, United Kingdom. A minimalist designer and a full-stack web developer who has a thing for science, technology, art and philosophy. A wonderer searching for a theory of everything.</p>",
+      "id": "pages__published__about__index"
+    },
+    {
+      "title": "Art",
+      "order": 4,
+      "slideItems": null,
+      "darkModeBgStyle": "background: #4EBBED; background: -webkit-radial-gradient(circle at top left, #4EBBED, #76073B); background: -moz-radial-gradient(circle at top left, #4EBBED, #76073B); background: radial-gradient(circle at top left, #4EBBED, #76073B);\n",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "<p>A collection of art stuff I make from sketching, photography, to moving images.</p>\n",
+      "excerpt": "<p>A collection of art stuff I make from sketching, photography, to moving images.</p>",
+      "id": "pages__published__art__index"
+    },
+    {
+      "title": "Digital",
+      "order": 3,
+      "slideItems": null,
+      "darkModeBgStyle": "background: #4568DC; background: -webkit-radial-gradient(circle at top left, #B06AB3, #4568DC); background: -moz-radial-gradient(circle at top left, #B06AB3, #4568DC); background: radial-gradient(circle at top left, #B06AB3, #4568DC);\n",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "<p>A collection of digital stuff I make from designing to coding.</p>\n",
+      "excerpt": "<p>A collection of digital stuff I make from designing to coding.</p>",
+      "id": "pages__published__digital__index"
+    },
+    {
+      "title": "Home",
+      "meta": {
+        "title": "aaa",
+        "description": "bbb",
+        "keywords": "ccc"
+      },
+      "metaSocial": {
+        "title": "xxx",
+        "description": "yyy",
+        "image": "1.jpg"
+      },
+      "order": 1,
+      "slideItems": [
+        {
+          "bgImage": "1.jpg",
+          "gridClass": "text-center font-rounded dark-mode",
+          "cellClass": "medium-12 large-6",
+          "title": "Ghost",
+          "content": "The teaching and effort of all, of all, Philosophies, Science, Technologies, Arts, And Poetry, Is to return us to our origins. But, we can't go back as we were, We only can become, Merely become... Ghosts.\n",
+          "link": "poetic/ghost"
+        },
+        {
+          "bgImage": "2.jpg",
+          "gridClass": "text-center font-rounded dark-mode",
+          "cellClass": "medium-12 large-6",
+          "title": "Wonderer",
+          "content": "All will pass: our achievements and failures, loves and hatred, religions and science, but this will remain: the wonderer looking into the distance, the mist rising over the horizon.\n",
+          "link": "origins/posts/wonderer"
+        },
+        {
+          "bgImage": "3.jpg",
+          "gridClass": "text-center font-rounded dark-mode",
+          "cellClass": "medium-12 large-6",
+          "title": "Place",
+          "content": "...and all these distances become the place I run to when the dark rises, when I want your ghost to come to warm my winter sky and watch my summer stars.\n",
+          "link": "poetic/place"
+        }
+      ],
+      "contents": "",
+      "excerpt": "",
+      "id": "pages__published__home__index"
+    },
+    {
+      "title": "Origins",
+      "subtitle": "Origins of Things",
+      "order": 6,
+      "slideItems": null,
+      "darkModeBgStyle": "background: #E53E87; background: -webkit-radial-gradient(circle at top left, #E53E87, #0B06C1); background: -moz-radial-gradient(circle at top left, #E53E87, #0B06C1); background: radial-gradient(circle at top left, #E53E87, #0B06C1);\n",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "<p>A collection of things — ideas, thoughts, quotes, books, posts, skills, and more, that I found, or made, and locked them in time — that have contributed to the things I create and could benefit you too.</p>\n",
+      "excerpt": "<p>A collection of things &#x2014; ideas, thoughts, quotes, books, posts, skills, and more, that I found, or made, and locked them in time &#x2014; that have contributed to the things I create and could benefit you too.</p>",
+      "id": "pages__published__origins__index"
+    },
+    {
+      "title": "Poetic",
+      "order": 5,
+      "slideItems": null,
+      "darkModeBgStyle": "background: #007FF3; background: -webkit-radial-gradient(circle at top left, #007FF3, #CE51C2); background: -moz-radial-gradient(circle at top left, #007FF3, #CE51C2); background: radial-gradient(circle at top left, #007FF3, #CE51C2);\n",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "<p>A collection of poetic notions I come up with — in words.</p>\n",
+      "excerpt": "<p>A collection of poetic notions I come up with &#x2014; in words.</p>",
+      "id": "pages__published__poetic__index"
+    }
+  ]
+}

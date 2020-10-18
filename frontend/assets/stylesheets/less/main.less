@@ -1,0 +1,1262 @@
+/**
+ * ===============================================================
+ * Guide
+ * ===============================================================
+ */
+
+// .grid-x {
+//   border:1px solid red;
+// }
+
+// .cell {
+//   border: 1px solid blue;
+// }
+
+// .row {
+//   border: 4px solid orange;
+// }
+
+/**
+ * ===============================================================
+ * Variables
+ * ===============================================================
+ */
+
+/**
+ * Paths
+ */
+@path-dist-image: "images";
+@path-dist-font: "fonts";
+@path-node-modules: "./../../../node_modules";
+@path-css-modules: "./../css";
+
+/**
+ * Fonts
+ */
+@font-modern: 'Open Sans', sans-serif;
+@font-rounded: 'Sura', serif;
+@font-classic: 'Lora', serif;
+
+/**
+ * Texts
+ */
+// 1em -> 16px
+// 1rem -> 16px
+// 100% -> 16px
+// 1.375rem -> 22px
+// http://pxtoem.com/
+@text-size: calc(0.125rem + 1vw); // 18px
+@font-size-base: 1.375rem;
+@text-color: #000000;
+@link-color: #000000;
+
+/**
+ * Grey shades
+ * https://www.w3schools.com/colors/colors_shades.asp
+ */
+@grey-xdark: #1d1d1b;
+@grey-dark: #666666;
+@grey-medium: #A9A9A9;
+@grey-light: #DCDCDC;
+@grey-xlight: #F0F0F0;
+@grey-xxlight: #F8F8F8;
+
+// https://www.rapidtables.com/web/color/orange-color.html
+// https://encycolorpedia.com/ffd700
+@gold-regular: #ffd700;
+@gold-dark: #ffcc00;
+@orange-regular: #ffa500;
+
+/**
+ * ===============================================================
+ * Common functions
+ * ===============================================================
+ */
+
+// Fade in and out an element.
+.fadeInOut (@speed: 0.5s;) {
+  -webkit-transition-duration: @speed;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease-in-out;
+}
+
+/**
+ * ===============================================================
+ * Helpers
+ * ===============================================================
+ */
+
+.height-100vh {
+  height: 100vh;
+}
+
+.min-height-100vh {
+  min-height: 100vh;
+}
+
+// Disable links.
+.disabled {
+  pointer-events: none;
+  cursor: not-allowed;
+  opacity: 0;
+}
+
+/**
+ * ===============================================================
+ * Common classes: general
+ * ===============================================================
+ */
+
+.dark-mode {
+  i, h1, h2, h3, h4, p, span {
+    color: #ffffff !important;
+  }
+
+  p {
+    a {
+      color: @gold-regular !important;
+      &:hover {
+        color: #ffffff !important;
+        border-bottom: 1px solid #ffffff;
+      }
+    }
+  }
+
+  .swiper-pagination {
+    color: #ffffff !important;
+  }
+
+  .link-menu,
+  .link-menu * {
+    color: #ffffff !important;
+
+    &:hover {
+      color: @gold-regular !important;
+    }
+  }
+}
+
+.h1-head,
+.h1-title,
+.h2-title,
+.h3-title {
+  &.shadow-hard {
+    // Hard shadow.
+    // https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.2);
+  }
+}
+
+.h2-link {
+  a {
+    font-family: @font-rounded;
+    color: #ffffff;
+
+    &:hover {
+      color: @grey-xlight;
+    }
+  }
+}
+
+.margin-y-xsmall {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.margin-y-small {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.margin-y-medium {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.padding-y-small {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.padding-y-medium {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.padding-y-large {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.padding-y-xlarge {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.padding-y-xxlarge {
+  padding-top: 160px;
+  padding-bottom: 160px;
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  .padding-y-xlarge,
+  .padding-y-xxlarge {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+  .padding-y-xlarge,
+  .padding-y-xxlarge {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+
+.background-xlight {
+  background-color: @grey-xlight;
+}
+
+.background-xxlight {
+  background-color: @grey-xxlight;
+}
+
+// Layers with flexbox.
+// https://stackoverflow.com/questions/36366048/how-can-i-layer-two-divs-in-a-flexbox-container
+.indexes-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+  .index-0 {
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .index-1 {
+    z-index: 1;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 40px;
+  }
+}
+
+/* Large and up */
+@media screen and (min-width: 64em) {
+  .large-only-padding-collapse {
+    .cell {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+}
+
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  .medium-only-padding-collapse {
+    .cell {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+}
+
+/**
+ * ===============================================================
+ * Common classes: font classes
+ * ===============================================================
+ */
+
+.font-size-base {
+  font-size: 1em; // 22px;
+}
+
+.font-size-medium {
+  font-size: 1.364rem; // 30px;
+}
+
+.font-size-large {
+  font-size: 1.818rem; // 40px;
+}
+
+.font-size-xlarge {
+  font-size: 2.273rem; // 50px;
+}
+
+.font-white {
+  color: #ffffff;
+}
+
+/* XLarge only */
+@media screen and (min-width: 75em) and (max-width: 90.9375em) {
+  .font-size-large {
+    font-size: 1.4rem;
+  }
+
+  .font-size-xlarge {
+    font-size: 1.4rem;
+  }
+}
+
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
+  .font-size-large {
+    font-size: 1.4rem;
+  }
+
+  .font-size-xlarge {
+    font-size: 1.4rem;
+  }
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  .font-size-large {
+    font-size: 1.4rem;
+  }
+
+  .font-size-xlarge {
+    font-size: 1.4rem;
+  }
+}
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+  .font-size-large {
+    font-size: 1.4rem;
+  }
+
+  .font-size-xlarge {
+    font-size: 1.4rem;
+  }
+}
+
+.padding-icon () {
+  padding: 0.364rem; // 8px;
+
+  @media screen and (max-width: 39.9375em)  {
+    padding: 8px;
+  }
+}
+
+.icon {
+  &.circle {
+    font-size: 1.2rem; // 26px;
+    display: inline-block;
+    border-radius: 50%;
+    background: @gold-regular;
+    background: rgb(255,215,0);
+    box-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+
+    .padding-icon ();
+  }
+}
+
+.font-size-large () {
+  font-size: 1.25rem;
+
+  /* XLarge only */
+  @media screen and (min-width: 75em) and (max-width: 90.9375em) {
+    font-size: 0.9rem;
+  }
+
+  /* Large only */
+  @media screen and (min-width: 64em) and (max-width: 74.9375em) {
+    font-size: 0.8rem;
+  }
+
+  /* small only */ // does not work
+  // @media screen and (max-width: 39.9375em)  {
+  //   font-size: 1.5rem;
+  // }
+
+  /* xsmall only */ // does not work
+  // @media screen and (min-width: 40em) and (max-width: 19.9375em)  {
+  //   font-size: 1.5rem;
+  // }
+}
+
+.font-size-default () {
+  font-size: 0.818rem; // 18px
+
+  /* XLarge only */
+  @media screen and (min-width: 75em) and (max-width: 90.9375em) {
+    font-size: 0.8rem;
+  }
+
+  /* Large only */
+  @media screen and (min-width: 64em) and (max-width: 74.9375em) {
+    font-size: 0.7rem;
+  }
+
+  /* Medium only */
+  @media screen and (min-width: 40em) and (max-width: 63.9375em) {
+    font-size: 1rem; // 16px
+  }
+
+  /* small only */
+  @media screen and (max-width: 39.9375em)  {
+    font-size: 1rem; // 16px
+  }
+}
+
+/**
+ * ===============================================================
+ * Common classes: flex utilities
+ * https://www.sketchingwithcss.com/samplechapter/cheatsheet.html
+ * https://thoughtbot.com/blog/positioning
+ * https://yoksel.github.io/flex-cheatsheet/
+ * ===============================================================
+ */
+
+.flexCentered () {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+
+  flex-direction: row; // default
+}
+
+.flex-center {
+  // Default.
+  .flexCentered ();
+
+  &.direction-column {
+    flex-direction: column;
+  }
+
+  &.justify-top {
+    -webkit-box-pack: flex-start;
+    -ms-flex-pack: flex-start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+  }
+
+  &.align-left {
+    align-self: flex-start;
+  }
+
+  &.align-right {
+    align-self: flex-end;
+  }
+
+  &.wrap {
+    flex-wrap: wrap;
+  }
+}
+
+/**
+ * ===============================================================
+ * Common tags
+ * ===============================================================
+ */
+
+html {
+  font-family: @font-modern;
+  font-size: @text-size;
+  font-weight: normal; // regular
+  font-style: normal;
+}
+
+html, body {
+  scroll-behavior: smooth;
+}
+
+// Disable all outline on click.
+// https://stackoverflow.com/questions/3397113/how-to-remove-focus-border-outline-around-text-input-boxes-chrome
+a {
+  color: @grey-dark;
+}
+
+p {
+  a:hover {
+    color: @grey-xdark;
+
+    // border-bottom: 1px solid @orange-regular;
+    border-bottom-style: solid;
+    border-bottom-color: initial;
+    border-bottom-width: 1px;
+  }
+}
+
+a, i {
+  .fadeInOut ();
+  outline: none;
+}
+
+picture {
+  width: 100%;
+  img {
+    width: 100%;
+  }
+}
+
+figcaption {
+  padding-top: 5px;
+  text-align: left;
+  color: @grey-dark;
+
+  .font-size-default ();
+}
+
+// https://stackoverflow.com/questions/2717127/gradient-borders
+// hr {
+//   border-image: linear-gradient(45deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
+//   border-image-slice: 1;
+//   border-style: solid;
+// }
+
+/* XLarge only */
+@media screen and (min-width: 75em) and (max-width: 90.9375em) {
+  html {
+    font-size: 1rem;
+  }
+}
+
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
+  html {
+    font-size: 1rem;
+  }
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  html {
+    font-size: 1.125rem;
+  }
+}
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+  html {
+    font-size: 1rem;
+  }
+}
+
+/**
+ * ===============================================================
+ * Row overlay slide
+ * ===============================================================
+ */
+
+.row-overlay-slide {
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  height: 100%;
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  // border: 1px solid red;
+
+  .nav-container {
+    z-index: 11;
+    top: 15px;
+    right: 5px;
+  }
+
+  &.is-open {
+    display: block;
+  }
+}
+
+/**
+ * ===============================================================
+ * Contact me
+ * ===============================================================
+ */
+
+.row-get-in-touch {
+  display: block;
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  z-index: 9;
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.5);
+
+  .contact-container {
+    padding-top: 30px;
+    padding-bottom: 40px;
+    background-color: @gold-regular;
+
+    .nav-container {
+      top: 15px;
+      right: 5px;
+    }
+  }
+}
+
+/**
+ * ===============================================================
+ * Footer
+ * ===============================================================
+ */
+
+.copyright {
+  padding: 0;
+  margin: 0;
+}
+
+.row-footer {
+  background-color: @grey-xlight;
+}
+
+/**
+ * ===============================================================
+ * Nav/ Menu
+ * ===============================================================
+ */
+
+.row-nav-main {
+  display: block;
+  position: fixed;
+  top: 15px;
+  right: 5px;
+  z-index: 9;
+}
+
+.row-nav-sub  {
+  display: block;
+  position: fixed;
+  top: 15px;
+  left: 5px;
+  z-index: 9;
+}
+
+.makeLogo () {
+  font-size: 9.091rem; // 200px;
+  line-height: 65px;
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+  i {
+    color: @link-color; /* Fallback */
+    text-align: center;
+
+    // transition on hover.
+    -webkit-transition: all 0.5s; /* Safari */
+    transition: all 0.5s;
+
+    // Hard shadow.
+    // https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.2);
+  }
+
+  &:hover {
+    text-decoration: none;
+
+    i {
+      color: grey;
+      color: rgba(0, 0, 0, .5);
+    }
+  }
+}
+
+.link-logo {
+  // border: 1px solid red;
+  .makeLogo ();
+
+  &.logo-medium {
+    font-size: 6.818rem; // 150px;
+    line-height: 60px;
+  }
+}
+
+.ul-menu {
+  list-style: none;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; // default
+
+  &.flex-wrap {
+    flex-wrap: wrap;
+  }
+
+  &.flex-column {
+    flex-direction: column;
+
+    li {
+      margin-bottom: 10px;
+    }
+  }
+
+  &.flex-start {
+    justify-content: flex-start;
+  }
+
+  &.flex-end {
+    justify-content: flex-end;
+  }
+
+  &.flex-align-items-center {
+    align-items: center;
+  }
+
+  &.flex-space-between {
+    justify-content: space-between;
+  }
+
+  .link-menu {
+    line-height: 1;
+    color: @link-color;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    &.link-align-left {
+      font-size: 1.4em;
+      padding: 3px;
+    }
+
+    &:hover {
+      color: grey;
+      color: rgba(0, 0, 0, .5);
+
+      .icon {
+        color: grey;
+        color: rgba(0, 0, 0, .5);
+      }
+    }
+  }
+
+  .current {
+    .link-menu {
+      color: @grey-medium;
+    }
+  }
+
+  .active:not(.link-exit, .link-logo, .link-category, .link-home) {
+    .icon, span {
+      color: grey;
+      color: rgba(0, 0, 0, .4);
+    }
+  }
+
+  .icon {
+    color: @link-color;
+  }
+
+  &.collapse-padding {
+    .link-menu {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  &.uppercase {
+    .link-menu {
+      text-transform: uppercase;
+    }
+  }
+
+  &.grey-dark {
+    .icon {
+      color: @grey-dark;
+    }
+
+    .link-menu {
+      color: @grey-dark;
+
+      &:hover {
+        color: #000000;
+
+        .icon {
+          color: #000000;
+        }
+      }
+    }
+  }
+
+  &.micro {
+    .link-menu {
+      .font-size-default ();
+    }
+  }
+}
+
+.nav-categories {
+  .link-menu {
+    color: @grey-medium;
+
+    .icon {
+      color: @grey-medium;
+    }
+
+    &:hover,
+    &.active {
+      color: #000;
+
+      .icon {
+        color: #000 !important;
+      }
+    }
+  }
+}
+
+/**
+ * ===============================================================
+ * Fonts
+ * ===============================================================
+ */
+
+.fontRoundedRegular () {
+  font-family: @font-rounded;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fontClassicRegular () {
+  font-family: @font-classic;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.text-container {
+  &.font-rounded {
+    .fontRoundedRegular ();
+
+    .h1-head,
+    .h1-title,
+    .h2-title,
+    .h3-title {
+      .fontRoundedRegular ();
+    }
+  }
+
+  &.font-classic {
+    .fontClassicRegular ();
+
+    .h1-head,
+    .h1-title,
+    .h2-title,
+    .h3-title {
+      .fontClassicRegular ();
+    }
+  }
+}
+
+/**
+ * ===============================================================
+ * Row media
+ * ===============================================================
+ */
+
+// http://stackoverflow.com/questions/40317404/less-potentially-unhandled-rejection-2-no-matching-definition-was-found
+// http://lesscss.org/features/#mixins-parametric-feature-mixins-with-multiple-parameters
+.boxShadow(@h-shadow: 0; @v-shadow: 0; @blur: 0; @spread: 0; @rgba: 0, 0, 0, 1) {
+  @r: extract(@rgba, 1);
+  @g: extract(@rgba, 2);
+  @b: extract(@rgba, 3);
+  @a: extract(@rgba, 4);
+  -moz-box-shadow: @h-shadow @v-shadow @blur @spread rgba(@r, @g, @b, @a);
+  -webkit-box-shadow: @h-shadow @v-shadow @blur @spread rgba(@r, @g, @b, @a);
+  box-shadow: @h-shadow @v-shadow @blur @spread rgba(@r, @g, @b, @a);
+}
+
+.box-shadow-blur {
+  // http://www.css3.info/preview/box-shadow/
+  // https://css-tricks.com/almanac/properties/b/box-shadow/
+  box-shadow:
+    0 1px 5.3px rgba(0, 0, 0, 0.05),
+    0 5px 10px rgba(0, 0, 0, 0.06),
+    0 10px 17.9px rgba(0, 0, 0, 0.072),
+    0 10px 33.4px rgba(0, 0, 0, 0.086),
+    // 0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.box-shadow-hard {
+  box-shadow: 4px 4px 0px rgba(0,0,0,0.2);
+}
+
+.overlay-shadow {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 2;
+
+  .fadeInOut ();
+}
+
+.link-image {
+  display: block;
+  position: relative;
+  background-color: @grey-xdark;
+
+  &:hover {
+    .overlay-shadow {
+      // Add box shadow - transparent.
+      .boxShadow(@h-shadow: inset; @spread: 200px; @rgba:0, 0, 0, 0.25);
+    }
+  }
+}
+
+// Make a square background image or container.
+.square-container {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+    .square-content {
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+}
+
+.square-container:before {
+  content: "";
+  display: block;
+  padding-top: 100%;
+  float: left;
+}
+
+.row-media {
+  .item-group {
+    margin-bottom: 40px;
+  }
+
+  .item-caption {
+    margin-top: 10px;
+    margin-bottom: 0;
+    padding-right:20px;
+    padding-left: 20px;
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .item-media {
+    margin-bottom: 40px;
+  }
+}
+
+/**
+ * ===============================================================
+ * Origin index page
+ * ===============================================================
+ */
+
+.card {
+  border: none;
+  background-color: @grey-xxlight;
+
+  .border-y {
+    border-top: 1px solid @grey-light;
+    border-bottom: 1px solid @grey-light;
+  }
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  .grid-margin-overflow-hide {
+    overflow: hidden;
+  }
+}
+
+/**
+ * ===============================================================
+ * Gold inline heading
+ * ===============================================================
+ */
+
+.header-medium {
+  margin: 0;
+  padding: 0;
+
+  .font-size-large ();
+
+  // The trick to remove the white space under inline-block in the a tag.
+  // https://css-tricks.com/fighting-the-space-between-inline-block-elements/
+  // font-size: 0;
+
+  // Default:
+  a {
+    color: #000000;
+
+    &:hover {
+      color: @grey-dark;
+    }
+  }
+
+  // Dark mode:
+  &.dark-mode {
+    a {
+      color: #ffffff;
+
+      &:hover {
+        color: @gold-regular;
+      }
+    }
+  }
+}
+
+// https://makandracards.com/makandra/48165-css-giving-text-lines-a-background-color-with-configurable-line-padding-and-margin
+.inline-gold {
+  >* {
+    display: inline;
+    box-shadow: 6px 0 0 6px @gold-regular,
+                // 10px 6px 0 6px @grey-dark
+                ;
+    padding-left: 10px;
+    background-color: @gold-regular;
+    line-height: 1;
+
+    // https://css-tricks.com/multi-line-padded-text/
+    // Needs prefixing
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+
+    // border: 1px solid red;
+  }
+}
+
+.micro-item {
+  display: inline-block;
+  color: #000000;
+
+  .font-size-default ();
+}
+
+.micro-link {
+  display: inline-block;
+  color: #000000;
+
+  .font-size-default ();
+
+  &.grey-dark {
+    color: @grey-dark;
+
+    &:hover {
+      color: #000000;
+    }
+  }
+}
+
+/**
+ * ===============================================================
+ * Blockquote block
+ * ===============================================================
+ */
+blockquote {
+  padding-left: 0;
+  padding-right: 0;
+  border-left: none;
+
+  &:before {
+    color: gold;
+    content: "\201C";
+    overflow: hidden;
+    display: block;
+    float: left;
+
+    font-size: 13.636rem; // 300px;
+    line-height: 11.364rem; // 250px;
+    height: 4.545rem; // 100px;
+    width: 5.455rem; // 120px;
+
+    // border: 1px solid red;
+    // font-size: 300px;
+    // line-height: 250px;
+    // height: 90px;
+    // width: 120px;
+  }
+
+  p {
+    display: block;
+    margin-bottom: 0;
+    color: #000;
+
+    font-size: 1.5rem;
+  }
+}
+
+.link-underline {
+  a {
+    // border-bottom: 1px solid @orange-regular;
+    border-bottom-style: solid;
+    border-bottom-color: initial;
+    border-bottom-width: 1px;
+  }
+}
+
+.line-before:before {
+  /* https://stackoverflow.com/a/23610466/413225 */
+  // Drawing a middle line.
+  color: @gold-regular;
+  content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
+  text-decoration:line-through;
+  padding-right: 10px;
+}
+
+.box-shadow-onhover {
+  .fadeInOut (@speed: 1.5s;);
+
+  &:hover {
+    // Add box shadow - transparent.
+    .boxShadow(@h-shadow: inset; @spread: 200px; @rgba:0, 0, 0, 0.4);
+  }
+}
+
+/* XLarge only */
+@media screen and (min-width: 75em) and (max-width: 90.9375em) {
+  blockquote {
+    p {
+      font-size: 1.3rem;
+    }
+  }
+}
+
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
+  blockquote {
+    p {
+      font-size: 1.2rem;
+    }
+  }
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  blockquote {
+    p {
+      font-size: 1.3rem;
+    }
+  }
+}
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+  blockquote {
+    p {
+      font-size: 1.2rem;
+    }
+  }
+}
+
+/**
+ * ===============================================================
+ * Swiper
+ * ===============================================================
+ */
+
+// https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
+.backgroundImageCover () {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  // background-size: contain;
+  // background-size: 50%;
+}
+
+.image-background {
+  .backgroundImageCover ();
+}
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-container {
+  &.scrollbar {
+    .swiper-slide {
+      height: auto;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+      padding: 20px;
+    }
+  }
+}
+
+.swiper-container:not(.scrollbar) {
+  .swiper-slide {
+    .backgroundImageCover ();
+
+    /* Center slide text vertically */
+    // .flexCentered ();
+  }
+
+}
+
+/**
+ * Customise the arrow button.
+ * https://stackoverflow.com/questions/45381871/swiper-how-to-customise-arrow-buttons
+ */
+.swiper-button-next,
+.swiper-button-prev {
+    color: @grey-light;
+
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-property: all;
+    -webkit-transition-timing-function: ease-in-out;
+
+    &:hover {
+      color: #ffffff;
+    }
+}
+
+// .swiper-button-prev {
+//   background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E") !important;
+// }
+
+// .swiper-button-next {
+//   background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E") !important;
+// }
+
+/**
+ * Customise the pagination.
+ * https://github.com/nolimits4web/Swiper/blob/master/demos/070-pagination-custom.html
+ */
+.swiper-pagination-bullet {
+  width: 10px;
+  height: 10px;
+  opacity: 1;
+  background: rgba(255,255,255, 0.6);
+}
+
+.swiper-pagination-bullet-active {
+  background: #ffffff;
+}
+
+// https://github.com/nolimits4web/Swiper/blob/master/demos/070-pagination-custom.html
+.swiper-pagination.fraction-pagination {
+  font-size: 14px;
+}
+
+.swiper-pagination.right-pagination {
+  text-align: right;
+  padding-right: 40px;
+}
+
+// Make the addthis button centered.
+// https://stackoverflow.com/questions/49394475/center-addthis-inline-follow-buttons-div
+.addthis_default_style .addthis_separator,
+.addthis_default_style [class^="at"] {
+    float: none !important;
+    text-align: center !important;
+}

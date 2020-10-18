@@ -1,0 +1,1729 @@
+{
+  "app": {
+    "name": "origin",
+    "cwd": "./",
+    "src": "data/",
+    "filePattern": "origins/**/*.md",
+    "ignore": "**/*(drafts|archive)/**",
+    "dist": "data/origins/origin.json",
+    "version": "1.4.1"
+  },
+  "data": [
+    {
+      "title": "Hands-on Nuxt.js Web Development",
+      "subtitle": "Build universal and static-generated Vue.js applications using Nuxt.js",
+      "createdOn": "2020-08-14T12:00:00.000Z",
+      "excerpt": "Hands-on Nuxt.js Web Development: Build universal and static-generated Vue.js applications using Nuxt.js\n",
+      "tags": [
+        "nuxtjs",
+        "webdevelopment"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "gridClass": "font-rounded",
+        "cellClass": "large-8",
+        "content": "by Lau Tiam Kok {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "iStock-913275422.jpg",
+        "bgStyle": "'background-position': 'top center'\n",
+        "imgCaption": ""
+      },
+      "coverImage": {
+        "file": "cover-iStock-913275422.jpg",
+        "title": "Hands-on Nuxt.js Web Development"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "B12938_Cover_Prefinal_AM-1.jpg",
+        "title": "Hands-on Nuxt.js Web Development",
+        "link": "https://amzn.to/2ZHtvgh",
+        "caption": "Hands-on Nuxt.js Web Development: Build universal and static-generated Vue.js applications using Nuxt.js – by Lau Tiam Kok\n",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "",
+          "image": {
+            "file": "Hands_on_Nuxt_js_Web_Development_page-0001.jpg",
+            "title": "Hands-on Nuxt.js Web Development",
+            "alt": "Hands-on Nuxt.js Web Development",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "contents": "",
+          "image": {
+            "file": "Hands_on_Nuxt_js_Web_Development_page-0002.jpg",
+            "title": "Hands-on Nuxt.js Web Development",
+            "alt": "Hands-on Nuxt.js Web Development",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "image": {
+            "file": "Hands_on_Nuxt_js_Web_Development_page-0003.jpg",
+            "title": "Hands-on Nuxt.js Web Development",
+            "alt": "Hands-on Nuxt.js Web Development",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "image": {
+            "file": "Hands_on_Nuxt_js_Web_Development_page-0004.jpg",
+            "title": "Hands-on Nuxt.js Web Development",
+            "alt": "Hands-on Nuxt.js Web Development",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "image": {
+            "file": "Hands_on_Nuxt_js_Web_Development_page-0005.jpg",
+            "title": "Hands-on Nuxt.js Web Development",
+            "alt": "Hands-on Nuxt.js Web Development",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "contents": "",
+          "image": {
+            "file": "Hands_on_Nuxt_js_Web_Development_page-0006.jpg",
+            "title": "Hands-on Nuxt.js Web Development",
+            "alt": "Hands-on Nuxt.js Web Development",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "contents": "",
+          "image": {
+            "file": "Hands_on_Nuxt_js_Web_Development_page-0007.jpg",
+            "title": "Hands-on Nuxt.js Web Development",
+            "alt": "Hands-on Nuxt.js Web Development",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "image": {
+            "file": "Hands_on_Nuxt_js_Web_Development_page-0008.jpg",
+            "title": "Hands-on Nuxt.js Web Development",
+            "alt": "Hands-on Nuxt.js Web Development",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "image": {
+            "file": "Hands_on_Nuxt_js_Web_Development_page-0009.jpg",
+            "title": "Hands-on Nuxt.js Web Development",
+            "alt": "Hands-on Nuxt.js Web Development",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "image": {
+            "file": "Hands_on_Nuxt_js_Web_Development_page-0010.jpg",
+            "title": "Hands-on Nuxt.js Web Development",
+            "alt": "Hands-on Nuxt.js Web Development",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        }
+      ],
+      "sponsor": true,
+      "advert": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "iStock-913275422.jpg"
+      },
+      "contents": "",
+      "id": "origins__digital__published__hands-on-nuxtjs-web-development__index"
+    },
+    {
+      "title": "Butterflies' Wings",
+      "createdOn": "2009-07-23T19:48:00.000Z",
+      "excerpt": "I am Nature in butterflies' wings.\n",
+      "tags": [
+        "butterflyeffect",
+        "chaostheory"
+      ],
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "johannes-plenio-2QUvkQTBh5s-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@jplenio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Johannes Plenio</a> on <a href=\"https://unsplash.com/s/photos/storm?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "johannes-plenio-2QUvkQTBh5s-unsplash-cover.jpg",
+        "bgStyle": ""
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "johannes-plenio-2QUvkQTBh5s-unsplash.jpg"
+      },
+      "contents": "<p>I am Nature in butterflies&#39; wings.</p>\n",
+      "id": "origins__posts__published__butterflies-wings__index"
+    },
+    {
+      "title": "Dreamers",
+      "createdOn": "2008-07-23T19:48:00.000Z",
+      "excerpt": "We are dreams in dreamers' dreams.\n",
+      "tags": [
+        "dreams",
+        "dreamers"
+      ],
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "layout": "card",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "108301734_105972471130727_748282221037850867_n.jpg",
+        "bgStyle": ""
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "108301734_105972471130727_748282221037850867_n.jpg"
+      },
+      "contents": "<p>We are dreams in dreamers&#39; dreams.</p>\n",
+      "id": "origins__posts__published__dreamers__index"
+    },
+    {
+      "title": "Spark",
+      "createdOn": "2010-03-30T17:00:00.000Z",
+      "excerpt": "Stars don't spark forever, nor do our loves.\n",
+      "tags": [
+        "impermanence"
+      ],
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "orion-nebula-11001_1920.jpg",
+        "imgCaption": "Image by <a href=\"https://pixabay.com/users/WikiImages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11053\">WikiImages</a> from <a href=\"https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11053\">Pixabay</a>\n"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "orion-nebula-11001_1920-cover.jpg",
+        "bgStyle": ""
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "orion-nebula-11001_1920.jpg"
+      },
+      "contents": "<p>Stars don&#39;t spark forever, nor do our loves.</p>\n",
+      "id": "origins__posts__published__spark__index"
+    },
+    {
+      "title": "Starry Nights",
+      "createdOn": "2012-12-26T17:33:00.000Z",
+      "excerpt": "I know everything ends the same: I still try to remember your face that time has taken it away - I remember nothing but starry nights.\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "impermanence"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "jake-weirick-Zu6wtAvLWgE-unsplash-cover.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@weirick?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Jake Weirick</a> on <a href=\"https://unsplash.com/s/photos/starry-night?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "jake-weirick-Zu6wtAvLWgE-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@weirick?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Jake Weirick</a> on <a href=\"https://unsplash.com/s/photos/starry-night?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "jake-weirick-Zu6wtAvLWgE-unsplash.jpg"
+      },
+      "contents": "<p>I know everything ends the same: I still try to remember your face that time has taken it away - I remember nothing but starry nights.</p>\n",
+      "id": "origins__posts__published__starry-nights__index"
+    },
+    {
+      "title": "The Most Beautiful Place",
+      "createdOn": "2007-06-06T22:12:00.000Z",
+      "excerpt": "The most beautiful place is never in the sky nor is too far away, it is the face where you can see the shape of your happiness on that transient space.\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "permanency",
+        "impermanence"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash-cover.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@ihor_malytskyi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ihor Malytskyi</a> on <a href=\"https://unsplash.com/s/photos/mountain-far-away?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@ihor_malytskyi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ihor Malytskyi</a> on <a href=\"https://unsplash.com/s/photos/mountain-far-away?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "ihor-malytskyi-3SDi-7dKwR0-unsplash.jpg"
+      },
+      "contents": "<p>The most beautiful place is never in the sky nor is too far away, it is the face where you can see the shape of your happiness on that transient space.</p>\n",
+      "id": "origins__posts__published__the-most-beautiful-place__index"
+    },
+    {
+      "title": "Virus",
+      "createdOn": "2020-03-19T19:22:00.000Z",
+      "excerpt": "All viruses want to live too. They once were happily living with animals in the wilderness.\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "wilderness",
+        "animals"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "isaac-quesada-3afJNfKkbH8-unsplash.jpg",
+        "bgStyle": ""
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": null,
+        "bgImage": "isaac-quesada-3afJNfKkbH8-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@isaacquesada?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Isaac Quesada</a> on <a href=\"https://unsplash.com/s/photos/jungle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "isaac-quesada-3afJNfKkbH8-unsplash.jpg"
+      },
+      "contents": "<p>All viruses want to live too. They once were happily living with animals in the wilderness.</p>\n",
+      "id": "origins__posts__published__virus__index"
+    },
+    {
+      "title": "When You Sleep",
+      "createdOn": "2017-09-29T22:27:00.000Z",
+      "excerpt": "When you sleep, all dreams eventually come true.\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "dreams",
+        "dreamers"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "michael-liao-8Qr1ixi-rMU-unsplash-cover.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@mjliao?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Michael Liao</a> on <a href=\"https://unsplash.com/s/photos/galaxy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "michael-liao-8Qr1ixi-rMU-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@mjliao?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Michael Liao</a> on <a href=\"https://unsplash.com/s/photos/galaxy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "michael-liao-8Qr1ixi-rMU-unsplash.jpg"
+      },
+      "contents": "<p>When you sleep, all dreams eventually come true.</p>\n",
+      "id": "origins__posts__published__when-you-sleep__index"
+    },
+    {
+      "title": "Wonderer",
+      "createdOn": "2010-03-03T13:37:00.000Z",
+      "excerpt": "All will pass: our achievements and failures, loves and hatred, religions and science, but this will remain: the wonderer looking into the distance, the mist rising over the horizon.\n",
+      "tags": [
+        "impermanence"
+      ],
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "gridClass": "font-classic",
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "wonderer.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "wonderer.jpg"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "wonderer.jpg"
+      },
+      "contents": "<p>All will pass: our achievements and failures, loves and hatred, religions and science, but this will remain: the wonderer looking into the distance, the mist rising over the horizon.</p>\n",
+      "id": "origins__posts__published__wonderer__index"
+    },
+    {
+      "title": "World's End",
+      "createdOn": "2017-07-24T01:57:00.000Z",
+      "excerpt": "Dreams find you even at the end of the world.\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "dreams",
+        "dreamers"
+      ],
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "nasa--hI5dX2ObAs-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@nasa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">NASA</a> on <a href=\"https://unsplash.com/@nasa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "nasa--hI5dX2ObAs-unsplash-cover.jpg"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "nasa--hI5dX2ObAs-unsplash.jpg"
+      },
+      "contents": "<p>Dreams find you even at the end of the world.</p>\n",
+      "id": "origins__posts__published__worlds-end__index"
+    },
+    {
+      "title": "太阳都会老",
+      "createdOn": "2020-05-25T09:42:00.000Z",
+      "excerpt": "太阳都会老，莫说凡人。月亮也会老，莫说青春。星星也是会老，莫说沧海桑田，莫说莫说海誓山盟。\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "impermanence"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "ingmar-aNeAaXWr2fg-unsplash-cover.jpg",
+        "imgCaption": ""
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "ingmar-aNeAaXWr2fg-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@ingmarr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ingmar</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "ingmar-aNeAaXWr2fg-unsplash.jpg"
+      },
+      "contents": "<p>太阳都会老，莫说凡人。月亮也会老，莫说青春。星星也是会老，莫说沧海桑田，莫说莫说海誓山盟。</p>\n",
+      "id": "origins__posts__published__太阳都会老__index"
+    },
+    {
+      "title": "美好的事不须天长地久",
+      "createdOn": "2018-12-19T02:22:00.000Z",
+      "excerpt": "美好的事不须天长地久，能在别后的雪花中留下一首诗就够了。\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "impermanence"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "aleon3004-TYaqcic0-ck-unsplash-cover.jpg",
+        "imgCaption": ""
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "aleon3004-TYaqcic0-ck-unsplash.jpg",
+        "bgStyle": "'background-position': 'center center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@aleon3004?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ан Нет</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "aleon3004-TYaqcic0-ck-unsplash.jpg"
+      },
+      "contents": "<p>美好的事不须天长地久，能在别后的雪花中留下一首诗就够了。</p>\n",
+      "id": "origins__posts__published__美好的事不须天长地久__index"
+    },
+    {
+      "title": "苏醒",
+      "createdOn": "2018-01-07T13:41:00.000Z",
+      "excerpt": "世上多大的悲伤都会苏醒。\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "悲伤",
+        "impermanence"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "jon-flobrant-OR8IwXD-ASQ-unsplash-cover.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@jonflobrant?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Jon Flobrant</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "jon-flobrant-OR8IwXD-ASQ-unsplash.jpg",
+        "bgStyle": "'background-position': 'center center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@jonflobrant?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Jon Flobrant</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "jon-flobrant-OR8IwXD-ASQ-unsplash.jpg"
+      },
+      "contents": "<p>世上多大的悲伤都会苏醒。</p>\n",
+      "id": "origins__posts__published__苏醒__index"
+    },
+    {
+      "title": "青春",
+      "createdOn": "2018-12-19T00:28:00.000Z",
+      "excerpt": "青春是一本太薄的书。\n",
+      "tags": [
+        "青春",
+        "transience"
+      ],
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "layout": "card",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "青春.jpg",
+        "bgStyle": ""
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "青春.jpg"
+      },
+      "contents": "<p>青春是一本太薄的书。</p>\n",
+      "id": "origins__posts__published__青春__index"
+    },
+    {
+      "title": "饶人",
+      "createdOn": "2019-12-17T12:51:00.000Z",
+      "excerpt": "原来，无论藏到任何最不闪亮的城市，你仍然不饶人，爱在人海中偶尔浮现，重复再重复的提醒，你曾经是曾那么痛苦的思念和活着\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "pic-03.jpg",
+        "bgStyle": "'background-position': 'bottom center'\n"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "pic-03.jpg"
+      },
+      "listContents": [
+        {
+          "image": {
+            "file": "pic-01.jpg",
+            "title": "The ages of inflationary cosmology",
+            "alt": "The ages of inflationary cosmology",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "contents": "",
+          "image": {
+            "file": "pic-02.jpg",
+            "title": "A cyclic brane world cosmology",
+            "alt": "A cyclic brane world cosmology",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "image": {
+            "file": "pic-03.jpg",
+            "title": "Branes and cosmology",
+            "alt": "Branes and cosmology",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "image": {
+            "file": "pic-04.jpg",
+            "title": "Branes and cosmology",
+            "alt": "Branes and cosmology",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "image": {
+            "file": "pic-05.jpg",
+            "title": "Branes and cosmology",
+            "alt": "Branes and cosmology",
+            "caption": "",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        }
+      ],
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "pic-03.jpg"
+      },
+      "contents": "<p>原来，无论藏到任何最不闪亮的城市，你仍然不饶人，爱在人海中偶尔浮现，重复再重复的提醒，你曾经是曾那么痛苦的思念和活着</p>\n",
+      "id": "origins__posts__published__饶人__index"
+    },
+    {
+      "title": "Humanity: An Emotional History",
+      "createdOn": "2020-07-31T11:00:00.000Z",
+      "excerpt": "\"A better day will come, or might come, while the bad ones steal by in the interim...\n",
+      "tags": [
+        "stuartwalton",
+        "humanity",
+        "emotions"
+      ],
+      "coverImage": {
+        "file": "francesco-califano-RVBG82tVCKE-unsplash-cover.jpg",
+        "title": "Humanity: An Emotional History"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> A better day will come, or might come, while the bad ones steal by in the interim.\n\n Stuart Walton, [Humanity: An Emotional History](https://amzn.to/314dlNp \"Humanity: An Emotional History\"), 2004. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-5",
+        "bgImage": "francesco-califano-RVBG82tVCKE-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@fracali_?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Francesco Califano</a> on <a href=\"https://unsplash.com/s/photos/winter-tree?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "41V60SPV9EL._SX323_BO1,204,203,200_.jpg",
+        "title": "Humanity: An Emotional History",
+        "link": "https://amzn.to/314dlNp",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> A better day will come, or might come, while the bad ones steal by in the interim. In these spaces, we feel time's elasticity as acutely as one who, alone in the house in the late evening, awaits the return of his beloved, in a state in which all other spiritual activity has ceased. He is, as the Chinese say, 'looking at the door', trusting that soon the key will grate in the lock, the handle turn, an the waiting, which can now be forgotten, be at an end. The power that radiates from this moment illuminates for a time the whole perceptual world. It recompenses the the one who waited with the news that the waiting wasn't in vain, and it exercises its own untriumphal victory over the other emotions. A world glistening with joy is a world that can easily do without fear, without anger, disgust and jealousy, and a world that can do without these is a world worth living in.\n\nStuart Walton, [Humanity: An Emotional History](https://amzn.to/314dlNp \"Humanity: An Emotional History\"), 2004. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "francesco-califano-RVBG82tVCKE-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__a-better-day-will-come__index"
+    },
+    {
+      "title": "And Our Faces, My Heart, Brief as Photos",
+      "createdOn": "2020-06-18T15:46:00.000Z",
+      "excerpt": "\"According to whether we are in the same place or separated one from the other, I know you twice...\n",
+      "tags": [
+        "johnberger",
+        "ourfacesmyheart",
+        "briefasphotos"
+      ],
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> According to whether we are in the same place or separated one from the other, I know you twice. There are two of you.\n\nJohn Berger, [And Our Faces, My Heart, Brief as Photos](https://amzn.to/3039UpM \"And Our Faces, My Heart, Brief as Photos\"), 1984. {.line-before}\n",
+        "gridClass": "image-background",
+        "cellClass": "large-6",
+        "bgImage": "jehyun-sung-Tadh6l_pTpE-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@jaysung?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Jehyun Sung</a> on <a href=\"https://unsplash.com/s/photos/winter-hill-tree?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "coverImage": {
+        "file": "jehyun-sung-Tadh6l_pTpE-unsplash-cover.jpg",
+        "title": "And Our Faces, My Heart, Brief as Photos"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "book-and-our-faces-my-heart.jpg",
+        "title": "And Our Faces, My Heart, Brief as Photos",
+        "link": "https://amzn.to/3039UpM",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> According to whether we are in the same place or separated one from the other, I know you twice. There are two of you.\n\n>  When you are away, you are nevertheless present for me. This presence is multiform: it consists of countless images, passages, meanings, things known, landmarks, yet the whole remains marked by your absence, in that it is diffuse. It is as if your person becomes a place, your contours horizons. I live in you then like living in a country. You are everywhere. Yet in that country I can never meet you face to face.\n\nJohn Berger, [And Our Faces, My Heart, Brief as Photos](https://amzn.to/3039UpM \"And Our Faces, My Heart, Brief as Photos\"), 1984. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "jehyun-sung-Tadh6l_pTpE-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__according-to-whether-we-are-in-the-same-place-or-separated-one__index"
+    },
+    {
+      "title": "Poetics  (Penguin Classics)",
+      "createdOn": "2020-08-03T13:30:00.000Z",
+      "excerpt": "\"All human beings by nature desire knowledge - a fundamental premise of Aristotle’s understanding of what it is to be human...\n",
+      "tags": [
+        "malcolmheath",
+        "poetics",
+        "aristotle"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "mario-klassen-dYswqbzvopw-unsplash-cover.jpg",
+        "bgStyle": ""
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> All human beings by nature desire knowledge.\n\n Aristotle in [Poetics  (Penguin Classics)](https://amzn.to/31cX0WH \"Poetics  (Penguin Classics)\"), by Malcolm Heath, 1996. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-5",
+        "bgImage": "mario-klassen-dYswqbzvopw-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@marioklassen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Mario Klassen</a> on <a href=\"https://unsplash.com/s/photos/study-room?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "51rxDzC74yL._SX321_BO1,204,203,200_.jpg",
+        "title": "Poetics  (Penguin Classics)",
+        "link": "https://amzn.to/31cX0WH",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> ‘All human beings by nature desire knowledge.’ This, the opening sentence\nof the *Metaphysics* (980aI), states a fundamental premise of Aristotle’s\nunderstanding of what it is to be human. He points out as evidence for his\nclaim the pleasure we take in looking at things and assimilating information\nthrough our senses. Sensation is of course shared with many other animals,\nand the accretion of sensation through memory into experience is shared\nwith some. But humans are unique in their capacity to derive universal\njudgements from their experiences. Animals act by instinct or acquired\nhabit, but humans are capable of acting from understanding: they know (as\na dog might know) *that* this is the thing to do in a certain situation, but they\nmay also understand (as a dog cannot) *why* it is the thing to do. This is what\nAristotle calls in Greek *tekhnê*; the word is conventionally translated as\n‘craft’, ‘skill’ or ‘art’, but Aristotle defines *tekhnê* as a productive capacity\ninformed by an understanding of its intrinsic rationale (cf. *Nicomachean\nEthics*, 1140a20f,). For Aristotle, the evolution of human culture is in large\npart the evolution of *tekhnê*. The first arts which human beings developed\nwere those concerned with producing the necessities of their existence.\nThen came recreational arts - those which, while not necessary, enhance the\nquality of human life. In due course, activities arose which simply satisfy\nthe desire to know (Aristotle’s example is mathematics). Ultimately,\nphilosophy emerged. Philosophy is rooted in the basic human instinct to\nseek knowledge: the world puzzles us and arouses our sense of wonder, and\nso prompts us to look for explanations. Philosophy is therefore the\nsophisticated descendant of primitive myth-making responses to an\nastonishing world.\n\nMalcolm Heath, [Poetics  (Penguin Classics)](https://amzn.to/31cX0WH \"Poetics  (Penguin Classics)\"), 1996. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "mario-klassen-dYswqbzvopw-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__all-human-beings-by-nature-desire-knowledge__index"
+    },
+    {
+      "title": "Humans",
+      "createdOn": "2020-08-09T15:57:00.000Z",
+      "excerpt": "\"All that\nexploration, all that progress, all those dreams and grand notions, and that’s\nwhere we end up: trapped on our planet by a prison we’ve made from our\nown trash....\n",
+      "tags": [
+        "tomphillips",
+        "humans",
+        "climatechange"
+      ],
+      "coverImage": {
+        "file": "collins-lesulie--OZcGk5lD7U-unsplash-cover.jpg",
+        "title": "Humans: A Brief History of How We F*cked It All Up"
+      },
+      "coverTitle": {
+        "headerClass": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> All that\nexploration, all that progress, all those dreams and grand notions, and that’s\nwhere we end up: trapped on our planet by a prison we’ve made from our\nown trash.\n\nTom Phillips, [Humans](https://amzn.to/2DztVNm \"Humans: A Brief History of How We F*cked It All Up\"), 2018. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "collins-lesulie--OZcGk5lD7U-unsplash.jpg",
+        "bgStyle": "'background-position': 'center center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@clesulie?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Collins Lesulie</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "41H75UarOdL._SX325_BO1,204,203,200_.jpg",
+        "title": "Humans: A Brief History of How We F*cked It All Up",
+        "link": "https://amzn.to/2DztVNm",
+        "caption": "Humans: A Brief History of How We F*cked It All Up – by Tom Phillips\n",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> That man-made climate change is real, and potentially an existential\n  threat to many communities around the world and many aspects of\n  civilization, is so well established as a scientific fact by this point that it\n  seems kind of dull to run over the evidence again. We’re way beyond the\n  point where this might all be another polywater or N-ray-type situation that\n  everybody’s going to be embarrassed about in a few years’ time. And yet\n  apparently there are still plenty of people who have enough reasons to deny\n  it—financial, political, the sheer bloody-minded joy of being a contrarian\n  knobber—that we keep getting dragged back to the “debate about whether\n  it’s real” stage every time it looks like we might make some progress on the\n  “actually do something about it” stage. It’s pretty much the playbook the\n  manufacturers of leaded gasoline used back in the day: you don’t need to\n  disprove something, you just need to be able to claim the jury’s out long\n  enough to keep raking in that sweet, sweet profit.\n\n> In some ways, it feels like it would be a weirdly poetic end to the journey\n  that Lucy failed to begin all those millions of years ago. All that\n  exploration, all that progress, all those dreams and grand notions, and that’s\n  where we end up: trapped on our planet by a prison we’ve made from our\n  own trash.\n\n> Whatever our future holds, whatever baffling changes come along in the\n  next year, the next decade and the next century, it seems likely that we’ll\n  keep on doing basically the same things. We will blame other people for our\n  woes, and construct elaborate fantasy worlds so that we don’t have to think\n  about our sins. We will turn to populist leaders in the aftermath of economic\n  crises. We will scramble for money. We will succumb to groupthink and\n  manias and confirmation bias. We will tell ourselves that our plans are very\n  good plans and that nothing can possibly go wrong.\n\n> Or...maybe we won’t? Maybe this is the moment that we change, and\n  start learning from our history. Maybe all this is just being pessimistic, and\n  no matter how dumb and depressing the world today may sometimes seem,\n  in actuality humanity is getting wiser and more enlightened, and we are\n  lucky enough to live at the dawn of a new age of not fucking up. Maybe we\n  really do have the capacity to be better.\n\nTom Phillips, [Humans](https://amzn.to/2DztVNm \"Humans: A Brief History of How We F*cked It All Up\"), 2018. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "collins-lesulie--OZcGk5lD7U-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__and-thats-where-we-end-up-trapped-on-our-planet__index"
+    },
+    {
+      "title": "Why Look at Animals?",
+      "createdOn": "2020-07-14T01:28:00.000Z",
+      "excerpt": "\"Animals are born, are sentient and are mortal. In these things they resemble man...\n",
+      "tags": [
+        "johnberger",
+        "whylookatanimals",
+        "zoo"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "content": "> Animals are born, are sentient and are mortal. In these things they resemble man. In their superficial anatomy — less in their deep anatomy — in their habits, in their time, in their physical capacities, they differ from man. They are both like and unlike.\n\nJohn Berger, [Why Look at Animals?](https://amzn.to/3frSRE7 \"Why Look at Animals?\") 2009. {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "sarah-stockman-XRC-YQT46AU-unsplash.jpg",
+        "bgStyle": "'background-position': 'top center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@sarahslimpie?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">sarah stockman</a> on <a href=\"https://unsplash.com/s/photos/zoo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "coverImage": {
+        "file": "cover-sarah-stockman-XRC-YQT46AU-unsplash.jpg",
+        "title": "Why Look at Animals?"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "book-cover-why-look-at-animals.jpg",
+        "title": "Why Look at Animals?",
+        "link": "https://amzn.to/3frSRE7",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> Animals are born, are sentient and are mortal. In these things they resemble man. In their superficial anatomy — less in their deep anatomy — in their habits, in their time, in their physical capacities, they differ from man. They are both like and unlike.\n\n> The eyes of an animal when they consider a man are attentive and wary. The same animal may well look at other species in the same way. He does not reserve a special look for man. But by no other species except man will the animal’s look be recognised as familiar. Other animals are held by the look. Man becomes aware of himself returning the look.\n\n> Everywhere animals disappear. In zoos they constitute the living monument to their own disappearance. And in doing so, they provoked their last metaphor.\n\n> All sites of enforced marginalisation — ghettos, shanty towns, prisons, madhouses, concentration camps — have something in common with zoos. But it is both too easy and too evasive to use the zoo as a symbol. The zoo is a demonstration of the relations between man and animals; nothing else.\n\nJohn Berger, [Why Look at Animals?](https://amzn.to/3frSRE7 \"Why Look at Animals?\") 2009. {.line-before}\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "sarah-stockman-XRC-YQT46AU-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__animals-are-born-are-sentient-and-are-mortal-in-these-things-they-resemble-man__index"
+    },
+    {
+      "title": "Until the End of Time",
+      "createdOn": "2020-08-05T19:57:00.000Z",
+      "excerpt": "\"Eternity itself may forever lie beyond the reach of our equations, but\nour analyses have already revealed that the universe we have come to know is\ntransitory...\n",
+      "tags": [
+        "briangreene",
+        "untiltheendoftime",
+        "cosmology",
+        "time"
+      ],
+      "coverImage": {
+        "file": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash-cover.jpg",
+        "title": "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe"
+      },
+      "coverTitle": {
+        "headerClass": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> Eternity itself may forever lie beyond the reach of our equations, but\n  our analyses have already revealed that the universe we have come to know is\n  transitory.\n\nBrian Greene, [Until the End of Time](https://amzn.to/3idTQbU \"Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe\"), 2020. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash.jpg",
+        "bgStyle": "'background-position': 'top center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@sandalkuilang?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Hendra Yudha Pratama</a> on <a href=\"https://unsplash.com/s/photos/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "51keovPHkHL._SX321_BO1,204,203,200_.jpg",
+        "title": "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe",
+        "link": "https://amzn.to/3idTQbU",
+        "caption": "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe – by Brian Greene\n",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> Eternity itself may forever lie beyond the reach of our equations, but\nour analyses have already revealed that the universe we have come to know is\ntransitory. From planets to stars, solar systems to galaxies, black holes to\nswirling nebulae, nothing is everlasting. Indeed, as far as we can tell, not only\nis each individual life finite, but so too is life itself. Planet earth, which Carl Sagan described as a “mote of dust suspended on a sunbeam,” is an evanescent bloom in an exquisite cosmos that will ultimately be barren. Motes\nof dust, nearby or distant, dance on sunbeams for merely a moment.\n\n> Still, here on earth we have punctuated our moment with astonishing feats\nof insight, creativity, and ingenuity as each generation has built on the\nachievements of those who have gone before, seeking clarity on how it all\ncame to be, pursuing coherence in where it is all going, and longing for an\nanswer to why it all matters.\n\n> As we hurtle toward a cold and barren cosmos, we must accept that there\nis no grand design. Particles are not endowed with purpose. There is no final\nanswer hovering in the depths of space awaiting discovery. Instead, certain\nspecial collections of particles can think and feel and reflect, and within these\nsubjective worlds they can create purpose. And so, in our quest to fathom the\nhuman condition, the only direction to look is inward. That is the noble\ndirection to look. It is a direction that forgoes ready-made answers and turns\nto the highly personal journey of constructing our own meaning. It is a\ndirection that leads to the very heart of creative expression and the source of\nour most resonant narratives. Science is a powerful, exquisite tool for grasping\nan external reality. But within that rubric, within that understanding,\neverything else is the human species contemplating itself, grasping what it\nneeds to carry on, and telling a story that reverberates into the darkness, a\nstory carved of sound and etched into silence, a story that, at its best, stirs the\nsoul.\n\nBrian Greene, [Until the End of Time](https://amzn.to/3idTQbU \"Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe\"), 2020. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations__index"
+    },
+    {
+      "title": "The Magic Furnace",
+      "createdOn": "2020-07-31T12:03:00.000Z",
+      "excerpt": "\"Every breath you take contains atoms forged in the blistering furnaces deep inside stars...\n",
+      "tags": [
+        "marcuschown",
+        "themagicfurnace",
+        "cosmology",
+        "atom"
+      ],
+      "coverImage": {
+        "file": "patrick-mcmanaman-LN_g3qA8ohg-unsplash-cover.jpg",
+        "title": "The Magic Furnace"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> Every breath you take contains atoms forged in the blistering furnaces deep inside stars. Every flower you pick contains atoms blasted into space by stellar explosions that blazed brighter than a billion suns. Every book you read contains atoms blown across unimaginable gulfs of space and time by the wind between stars.\n\nMarcus Chown, [The Magic Furnace](https://amzn.to/33bpGlB \"The Magic Furnace\"), 1999. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "patrick-mcmanaman-LN_g3qA8ohg-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@patmcmanaman?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Patrick McManaman</a> on <a href=\"https://unsplash.com/s/photos/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "51JqHLZ80CL._SX321_BO1,204,203,200_.jpg",
+        "title": "The Magic Furnace",
+        "link": "https://amzn.to/33bpGlB",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> Every breath you take contains atoms forged in the blistering furnaces deep inside stars. Every flower you pick contains atoms blasted into space by stellar explosions that blazed brighter than a billion suns. Every book you read contains atoms blown across unimaginable gulfs of space and time by the wind between stars.\n\n> Finally, after millions of centuries, there arose creatures that thought, that speculated, that theorised about the world they inhabited and asked questions about how they had come to be in it. The atoms forged long ago in the fireball of the big bang, in countless stars across the length and breadth of the galaxy, became incorporated into human beings. They became, in short, the atoms of curiosity.\n\n> Now, why should the universe be constructed in such a way that atoms acquire the ability to be curious about themselves? That, surely, is one of the greatest unexplained puzzles of science.\n\nMarcus Chown, [The Magic Furnace](https://amzn.to/33bpGlB \"The Magic Furnace\"), 1999. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "patrick-mcmanaman-LN_g3qA8ohg-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars__index"
+    },
+    {
+      "title": "Cosmos",
+      "createdOn": "2020-08-02T12:30:00.000Z",
+      "excerpt": "\"Exploration is in our nature. We began as wanderers, and we are wanderers still...\n",
+      "tags": [
+        "carlsagan",
+        "cosmos",
+        "cosmology"
+      ],
+      "coverImage": {
+        "file": "hamish-weir-cuO6_mnbgPE-unsplash-cover.jpg",
+        "title": "Cosmos"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.\n\nCarl Sagan, [Cosmos](https://amzn.to/3fg2RiR \"Cosmos\"), 1980. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "hamish-weir-cuO6_mnbgPE-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@el_ham?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Hamish Weir</a> on <a href=\"https://unsplash.com/s/photos/stars-moon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "31VLvt9VyAL._SX317_BO1,204,203,200_.jpg",
+        "title": "Cosmos",
+        "link": "https://amzn.to/3fg2RiR",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> The size and age of the Cosmos are beyond ordinary human understanding. Lost somewhere between immensity and eternity is our tiny planetary home. In a cosmic perspective, most human concerns seem insignificant, even petty. And yet our species is young and curious and brave and shows much promise. In the last few millennia we have made the most astonishing and unexpected discoveries about the Cosmos and our place within it, explorations that are exhilarating to consider. They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival. I believe our future depends on how well we know this Cosmos in which we float like a mote of dust in the morning sky.\n\n> Those explorations required skepticism and imagination both. Imagination will often carry us to worlds that never were. But without it, we go nowhere. Skepticism enables us to distinguish fancy from fact, to test our speculations. The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, in the subtle machinery of awe.\n\n> As long as there have been humans, we have searched for our place in the Cosmos. In the childhood of our species (when our ancestors gazed a little idly at the stars), among the Ionian scientists of ancient Greece, and in our own age, we have been transfixed by this question: Where are we? Who are we? We find that we live on an insignificant planet of a humdrum star lost between two spiral arms in the outskirts of a galaxy which is a member of a sparse cluster of galaxies, tucked away in some forgotten corner of a universe in which there are far more galaxies than people. This perspective is a courageous continuation of our penchant for constructing and testing mental models of the skies; the Sun as a red-hot stone, the stars as celestial flame, the Galaxy as the backbone of night.\n\n> We embarked on our cosmic voyage with a question first framed in the childhood of our species and in each generation asked anew with undiminished wonder: What are the stars? Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.\n\n> For we are the local embodiment of a Cosmos grown to self-\nawareness. We have begun to contemplate our origins: starstuff\npondering the stars; organized assemblages of ten billion billion\nbillion atoms considering the evolution of atoms; tracing the long\njourney by which, here at least, consciousness arose. Our loyal­\nties are to the species and the planet. We speak for Earth. Our\nobligation to survive is owed not just to ourselves but also to that\nCosmos, ancient and vast, from which we spring.\n\nCarl Sagan, [Cosmos](https://amzn.to/3fg2RiR \"Cosmos\"), 1980. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "hamish-weir-cuO6_mnbgPE-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__exploration-is-in-our-nature__index"
+    },
+    {
+      "title": "A Short History of Nearly Everything",
+      "createdOn": "2020-08-07T15:43:00.000Z",
+      "excerpt": "\"For all their devoted attention,\nyour atoms don't actually care about you—indeed, don't even know that you\nare there...\n",
+      "tags": [
+        "billbryson",
+        "ashorthistoryofnearlyeverything",
+        "cosmology",
+        "atom"
+      ],
+      "coverImage": {
+        "file": "dennys-hess-Gt_4iMB7hY0-unsplash-cover.jpg",
+        "title": "A Short History of Nearly Everything"
+      },
+      "coverTitle": {
+        "headerClass": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> For all their devoted attention,\nyour atoms don't actually care about you—indeed, don't even know that you\nare there. They don't even know that they are there. They are mindless\nparticles, after all, and not even themselves alive.\n\nBill Bryson, [A Short History of Nearly Everything](https://amzn.to/3gxzKsS \"A Short History of Nearly Everything\"), 2003. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "dennys-hess-Gt_4iMB7hY0-unsplash.jpg",
+        "bgStyle": "'background-position': 'top center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@dennyshess?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Dennys Hess</a> on <a href=\"https://unsplash.com/collections/11645368/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "51Jo717gJrL._SX319_BO1,204,203,200_.jpg",
+        "title": "A Short History of Nearly Everything",
+        "link": "https://amzn.to/3gxzKsS",
+        "caption": "A Short History of Nearly Everything – by Bill Bryson\n",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> To begin with, for you to be here now trillions of drifting atoms had\nsomehow to assemble in an intricate and intriguingly obliging manner to\ncreate you. It's an arrangement so specialized and particular that it has never\nbeen tried before and will only exist this once.\n\n> Why atoms take this trouble is a bit of a puzzle. Being you is not a\ngratifying experience at the atomic level. For all their devoted attention,\nyour atoms don't actually care about you—indeed, don't even know that you\nare there. They don't even know that they are there. They are mindless\nparticles, after all, and not even themselves alive.\n\n> [...] And when that modest milestone flashes past, or at some\nother point thereabouts, for reasons unknown your atoms will shut you\ndown, silently disassemble, and go off to be other things. And that's it for\nyou.\n\n> Still, you may rejoice that it happens at all. Generally speaking in the\nuniverse it doesn't, so far as we can tell. This is decidedly odd because the\natoms that so liberally and congenially flock together to form living things\non Earth are exactly the same atoms that decline to do it elsewhere.\nWhatever else it may be, at the level of chemistry life is curiously mundane:\ncarbon, hydrogen, oxygen, and nitrogen, a little calcium, a dash of sulfur, a\nlight dusting of other very ordinary elements—nothing you wouldn't find in\nany ordinary drugstore—and that's all you need. The only thing special\nabout the atoms that make you is that they make you. That is of course the\nmiracle of life.\n\n> So thank goodness for atoms. But the fact that you have atoms and that\nthey assemble in such a willing manner is only part of what got you here.\nTo be here now, alive in the twenty-first century and smart enough to know\nit, you also had to be the beneficiary of an extraordinary string of biological\ngood fortune [...] Life on Earth,\nyou see, is not only brief but dismayingly tenuous. It is a curious feature of\nour existence that we come from a planet that is very good at promoting life\nbut even better at extinguishing it.\n\n> If this book has a lesson, it is that we are awfully lucky to be here—and\nby “we” I mean every living thing. To attain any kind of life in this universe\nof ours appears to be quite an achievement. As humans we are doubly\nlucky, of course: We enjoy not only the privilege of existence but also the\nsingular ability to appreciate it and even, in a multitude of ways, to make it\nbetter. It is a talent we have only barely begun to grasp.\n\n> We have arrived at this position of eminence in a stunningly short time.\nBehaviorally modern human beings—that is, people who can speak and\nmake art and organize complex activities—have existed for only about\n0.0001 percent of Earth's history. But surviving for even that little while has\nrequired a nearly endless string of good fortune.\n\n> We really are at the beginning of it all. The trick, of course, is to make\nsure we never find the end. And that, almost certainly, will require a good\ndeal more than lucky breaks.\n\nBill Bryson, [A Short History of Nearly Everything](https://amzn.to/3gxzKsS \"A Short History of Nearly Everything\"), 2003. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "dennys-hess-Gt_4iMB7hY0-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__for-you-to-be-here-now-trillions-of-drifting-atoms-had-somehow-to-assemble__index"
+    },
+    {
+      "title": "End Times",
+      "createdOn": "2020-08-09T14:24:00.000Z",
+      "excerpt": "\"It is easier to imagine the end of the world than to imagine the end of capitalism...\n",
+      "tags": [
+        "bryanwalsh",
+        "endtimes",
+        "climatechange"
+      ],
+      "coverImage": {
+        "file": "neil-thomas-NjvkwbzYrew-unsplash-cover.jpg",
+        "title": "End Times: A Brief Guide to the End of the World"
+      },
+      "coverTitle": {
+        "headerClass": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> It is easier to imagine the end of the world than to imagine the end of capitalism.\n\nBryan Walsh, [End Times](https://amzn.to/2XIfiOC \"End Times: A Brief Guide to the End of the World\"), 2019. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "neil-thomas-NjvkwbzYrew-unsplash.jpg",
+        "bgStyle": "'background-position': 'center center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@neilmarkthomas?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Neil Thomas</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "514Dw3K8TKL._SX324_BO1,204,203,200_.jpg",
+        "title": "End Times: A Brief Guide to the End of the World",
+        "link": "https://amzn.to/2XIfiOC",
+        "caption": "End Times: A Brief Guide to the End of the World – by Bryan Walsh\n",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> [...]  Parfit disagreed, writing the following in his 1984 book Reasons\nand Persons: “Civilization began only a few thousand years ago. If we do\nnot destroy mankind, these few thousand years may be only a tiny fraction\nof the whole of civilized human history. The difference between\n[possibilities] 2 and 3 may thus be the difference between this tiny fraction\nand all of the rest of history.”\n\n> Extinction, as the environmental slogan goes, is forever.19 The true\nhorror of the end of the world is measured not by our own deaths, and the\ndeaths of everyone we know and love, not just by the deaths of our children\nand grandchildren, but by the nullification of all who would come after\nthem, all those who would live and love and carry this species forward. An\nexistential risk realized is the death of the future.\n\n> People have changed, of course. We’ve largely abandoned hideous\npractices like slavery, expanded the circle of human rights, and fought for\nthe power to rule ourselves. But those changes mostly fed the engine of\ngrowth, and put more power in the hands of individuals, to be used for good\nor ill. Short of a fundamental political or even spiritual revolution, what I\ncan’t see changing is that primal human drive to expand.\n\n> Perhaps I’m suffering from a failure of imagination. The Marxist\npolitical theorist and literary critic Fredric Jameson, after all, once wrote\nthat it is “easier to imagine the end of the world than to imagine the end of\ncapitalism.” But everywhere I’ve traveled on this planet, I’ve seen people\nwho want more. More for themselves, and more for their children. Who will\ntell them they can’t have it, even if it may cost the world?\n\n> So we must run faster, as if we’re running for our lives.\n\nBryan Walsh, [End Times](https://amzn.to/2XIfiOC \"End Times: A Brief Guide to the End of the World\"), 2019. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "neil-thomas-NjvkwbzYrew-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__it-is-easier-to-imagine-the-end-of-the-world-than-to-imagine-the-end-of-capitalism__index"
+    },
+    {
+      "title": "A Brief History of Time",
+      "createdOn": "2020-08-07T14:00:00.000Z",
+      "excerpt": "\"Just as an infinite tower of tortoises supporting the flat earth is such a picture, so is\nthe theory of superstrings. Both are theories of the universe...\n",
+      "tags": [
+        "stephenhawking",
+        "abriefhistoryoftime",
+        "cosmology"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "content": "> Just as\nan infinite tower of tortoises supporting the flat earth is such a picture, so is\nthe theory of superstrings. Both are theories of the universe, though the\nlatter is much more mathematical and precise than the former. Both theories\nlack observational evidence: no one has ever seen a giant tortoise with the\nearth on its back, but then, no one has seen a superstring either.\n\nStephen Hawking, [A Brief History of Time](https://amzn.to/3kqoiSq \"A Brief History of Time\"), 1988. {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "john-fowler-7Ym9rpYtSdA-unsplash.jpg",
+        "bgStyle": "'background-position': 'top center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@wildhoney?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">John Fowler</a> on <a href=\"https://unsplash.com/collections/11645368/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "coverImage": {
+        "file": "john-fowler-7Ym9rpYtSdA-unsplash-cover.jpg",
+        "title": "A Brief History of Time"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "51OzG5OkrxL._SX303_BO1,204,203,200_.jpg",
+        "title": "A Brief History of Time",
+        "link": "https://amzn.to/3kqoiSq",
+        "caption": "A Brief History of Time : From the Big Bang to Black Holes – by Stephen Hawking\n",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> Just as\nan infinite tower of tortoises supporting the flat earth is such a picture, so is\nthe theory of superstrings. Both are theories of the universe, though the\nlatter is much more mathematical and precise than the former. Both theories\nlack observational evidence: no one has ever seen a giant tortoise with the\nearth on its back, but then, no one has seen a superstring either. However,\nthe tortoise theory fails to be a good scientific theory because it predicts that\npeople should be able to fall off the edge of the world. This has not been\nfound to agree with experience, unless that turns out to be the explanation\nfor the people who are supposed to have disappeared in the Bermuda\nTriangle!\n\n\n> [...] if we do discover a complete theory, it should in time be\nunderstandable in broad principle by everyone, not just a few scientists.\nThen we shall all, philosophers, scientists, and just ordinary people, be able\nto take part in the discussion of the question of why it is that we and the\nuniverse exist. If we find the answer to that, it would be the ultimate\ntriumph of human reason—for then we would know the mind of God.\n\n\nStephen Hawking, [A Brief History of Time](https://amzn.to/3kqoiSq \"A Brief History of Time\"), 1988. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "john-fowler-7Ym9rpYtSdA-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__just-as-an-infinite-tower-of-tortoises-supporting-the-flat-earth__index"
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "createdOn": "2020-08-03T14:30:00.000Z",
+      "excerpt": "\"No live organism can continue for long to exist sanely under conditions of absolute reality; even larks and katydids are supposed, by some, to dream...\n",
+      "tags": [
+        "shirleyjackson",
+        "thehauntingofhillhouse",
+        "fiction"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "ddp-shwqFcBJ9VM-unsplash-cover.jpg",
+        "bgStyle": ""
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> No live organism can continue for long to exist sanely under conditions of absolute reality; even larks and katydids are supposed, by some, to dream.\n\nShirley Jackson, [The Haunting of Hill House](https://amzn.to/3i3acnK \"The Haunting of Hill House\"), 1959. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-5",
+        "bgImage": "ddp-shwqFcBJ9VM-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@moino007?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">DDP</a> on <a href=\"https://unsplash.com/s/photos/haunted-house?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "51fVXztE8vL._SX324_BO1,204,203,200_.jpg",
+        "title": "The Haunting of Hill House",
+        "link": "https://amzn.to/3i3acnK",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> No live organism can continue for long to exist sanely under conditions of\nabsolute reality; even larks and katydids are supposed, by some, to dream.\nHill House, not sane, stood by itself against its hills, holding darkness\nwithin; it had stood so for eighty years and might stand for eighty more.\nWithin, walls continued upright, bricks met neatly, floors were firm, and\ndoors were sensibly shut; silence lay steadily against the wood and stone of\nHill House, and whatever walked there, walked alone.\n\nShirley Jackson, [The Haunting of Hill House](https://amzn.to/3i3acnK \"The Haunting of Hill House\"), 1959. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "ddp-shwqFcBJ9VM-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__no-live-organism-can-continue-for-long-to-exist-sanely__index"
+    },
+    {
+      "title": "The Order of Time",
+      "createdOn": "2020-08-05T20:51:00.000Z",
+      "excerpt": "\"This is time, familiar and intimate. We are taken by it. The rush of seconds, hours, years that hurls us toward life then drags us toward nothingness...\n",
+      "tags": [
+        "carlorovelli",
+        "theorderoftime",
+        "cosmology",
+        "time"
+      ],
+      "coverImage": {
+        "file": "jean-wimmerlin-eB6D0Wks7jA-unsplash-cover.jpg",
+        "title": "The Order of Time"
+      },
+      "coverTitle": {
+        "headerClass": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> This is time, familiar and intimate. We are taken by it. The rush of\n  seconds, hours, years that hurls us toward life then drags us toward\n  nothingness...\n\nCarlo Rovelli, [The Order of Time](https://amzn.to/31qX2u4 \"The Order of Time\"), 2017. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "jean-wimmerlin-eB6D0Wks7jA-unsplash.jpg",
+        "bgStyle": "'background-position': 'center center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@jwimmerli?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">jean wimmerlin</a> on <a href=\"https://unsplash.com/s/photos/ruin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "51qOa+wz2nL._SX323_BO1,204,203,200_.jpg",
+        "title": "The Order of Time",
+        "link": "https://amzn.to/31qX2u4",
+        "caption": "The Order of Time – by Carlo Rovelli\n",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> This is time, familiar and intimate. We are taken by it. The rush of\nseconds, hours, years that hurls us toward life then drags us toward\nnothingness... We inhabit time as fish live in water. Our being is\nbeing in time. Its solemn music nurtures us, opens the world to us,\ntroubles us, frightens and lulls us. The universe unfolds into the\nfuture, dragged by time, and exists according to the order of time.\n\n> Wonder is the source of our desire for knowledge, and the\ndiscovery that time is not what we thought it was opens up a\nthousand questions [...]\n\n> And it seems to me that life, this brief life, is nothing other than\nthis: the incessant cry of these emotions that drive us, that we\nsometimes attempt to channel in the name of a god, a political faith,\nin a ritual that reassures us that, fundamentally, everything is in\norder, in a great and boundless love—and the cry is beautiful.\nSometimes it is a cry of pain. Sometimes it is a song.\n\n> And song, as Augustine observed, is the awareness of time. It is\ntime. It is the hymn of the Vedas that is itself the flowering of time.\nIn the Benedictus of Beethoven’s Missa Solemnis, the song of the\nviolin is pure beauty, pure desperation, pure joy. We are suspended,\nholding our breath, feeling mysteriously that this must be the source\nof meaning. That this is the source of time.\n\n> Then the song fades and ceases. “The silver thread is broken, the\ngolden bowl is shattered, the amphora at the fountain breaks, the\nbucket falls into the well, the earth returns to dust.” And it is fine\nlike this. We can close our eyes, rest. This all seems fair and beautiful\nto me. This is time.\n\nCarlo Rovelli, [The Order of Time](https://amzn.to/31qX2u4 \"The Order of Time\"), . {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "jean-wimmerlin-eB6D0Wks7jA-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__this-is-time-familiar-and-intimate__index"
+    },
+    {
+      "title": "About Time",
+      "createdOn": "2020-06-18T06:04:00.000Z",
+      "excerpt": "\"Time after time, we have never been anything other than collaborators with the universe...\n",
+      "tags": [
+        "adamfrank",
+        "abouttime",
+        "cosmology",
+        "time"
+      ],
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> Time after time, we have never been anything other than collaborators with the universe. Always and again we have been the co-creators of a time and a cosmos that exist together with us.\n\nAdam Frank, [About Time](https://amzn.to/311KNp1 \"About Time\"), 2011. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "casey-horner-j0ZPSFuybvg-unsplash.jpg",
+        "bgStyle": "'background-position': 'center center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@mischievous_penguins?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Casey Horner</a> on <a href=\"https://unsplash.com/collections/11645368/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "coverImage": {
+        "file": "casey-horner-j0ZPSFuybvg-unsplash-cover.jpg",
+        "title": "About Time"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "51DgXiQqMNL._SX310_BO1,204,203,200_.jpg",
+        "title": "About Time",
+        "link": "https://amzn.to/311KNp1",
+        "caption": "About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes Our Lives Paperback – by Adam Frank\n",
+        "cellClass": "medium-4",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "image": {
+            "file": "about-time-big-bang.png",
+            "title": "The ages of inflationary cosmology",
+            "alt": "The ages of inflationary cosmology",
+            "caption": "The ages of inflationary cosmology\n",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "contents": "> Time after time, we have never been anything other than collaborators with the universe. Always and again we have been the co-creators of a time and a cosmos that exist together with us. That is what makes our story anything but insignificant and makes our universes anything but meaningless. We have always been weaving the fabric of our experience into a culturally shared time and, in the process, have become ever more intimate with a universe that has always invited our participation. With each step we gain a new perspective, even if it will never be the final perspective. That is just fine. With each step we gain a deeper sense of the awe and beauty that suffuse the universe’s essential mystery. If we can trace our steps from the past and see our way clearly into the future, then certainly there is time enough for that great effort to continue with renewed clarity and purpose.\n\nAdam Frank, [About Time](https://amzn.to/311KNp1 \"About Time\"), 2011. {.line-before}\n",
+          "image": {
+            "file": "about-time-cyclic-universe.png",
+            "title": "A cyclic brane world cosmology",
+            "alt": "A cyclic brane world cosmology",
+            "caption": "A cyclic brane world cosmology\n",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        },
+        {
+          "image": {
+            "file": "about-time-branes-and-cosmology.png",
+            "title": "Branes and cosmology",
+            "alt": "Branes and cosmology",
+            "caption": "Branes and cosmology\n",
+            "cellClass": "medium-8 large-4",
+            "figcaptionGridClass": "small-padding-collapse",
+            "figcaptioncellClass": null
+          }
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "casey-horner-j0ZPSFuybvg-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__time-after-time__index"
+    },
+    {
+      "title": "The Poetics of Space",
+      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
+      "createdOn": "2019-05-01T01:20:00.000Z",
+      "tags": [
+        "gastonbachelard",
+        "thepoeticsofspace"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "bgStyle": "'background-position': 'bottom center'\n"
+      },
+      "coverImage": {
+        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "title": "Sample Title"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "book-the-poetics-of-space.jpg",
+        "title": "The best search engine for privacy",
+        "link": "https://amzn.to/307aen8",
+        "caption": "",
+        "cellClass": "medium-4",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index"
+    },
+    {
+      "title": "Big Bang",
+      "createdOn": "2020-08-02T12:29:00.000Z",
+      "excerpt": "\"What was God doing before He created the Universe? Before He created Heaven and Earth...\n",
+      "tags": [
+        "simonsingh",
+        "bigbang",
+        "cosmology"
+      ],
+      "coverImage": {
+        "file": "volcano-4493461_1920-cover.jpg",
+        "title": "Big Bang"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> What was God doing before He created the Universe? Before He created Heaven and Earth, God created hell to be used for people such as you who ask this kind of question.\n\n St Augustine in [Big Bang](https://amzn.to/2BSY3m4 \"Big Bang\"), by Simon Singh, 2004. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "volcano-4493461_1920.jpg",
+        "bgStyle": "'background-position': 'top center'\n",
+        "imgCaption": "Image by <a href=\"https://pixabay.com/users/enriquelopezgarre-3764790/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4493461\">enriquelopezgarre</a> from <a href=\"https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4493461\">Pixabay</a>\n"
+      },
+      "adImage": {
+        "file": "51GZTPV701L._SX311_BO1,204,203,200_.jpg",
+        "title": "Big Bang",
+        "link": "https://amzn.to/2BSY3m4",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> Our universe is dotted ‘with over 100 billion galaxies, and each one\ncontains roughly 100 billion stars. It is unclear how many planets are\norbiting these stars, but it is certain that at least one of them has evolved\nlife. In particular, there is a life form that has had the capacity and audacity\nto speculate about the origin of this vast universe.\n\n> Humans have been staring up into space for thousands of generations,\nbut we are privileged to be part of the first generation who can claim to\nhave a respectable, rational and coherent description for the creation and\nevolution of the universe. The Big Bang model offers an elegant\nexplanation of the origin of everything we see in the night sky, making it\none of the greatest achievements of the human intellect and spirit. It is the\nconsequence of an insatiable curiosity, a fabulous imagination, acute\nobservation and ruthless logic.\n\n> According to a Chinese creation myth that dates to 600 BC, Phan Ku the\nGiant Creator emerged from an egg and proceeded to create the world by\nusing a chisel to carve valleys and mountains from the landscape. Next, he\nset the Sun, Moon and stars in the sky; he died as soon as these tasks were\nfinished. The death of the Giant Creator was an essential part of the creation\nprocess, because fragments of his own body helped to complete the world.\nPhan Ku’s skull formed the dome of sky, his flesh formed the soil, his bones\nbecame rocks and his blood created rivers and seas. The last of his breath\nforged the wind and clouds, while his sweat became rain. His hair fell to\nEarth, creating plant life, and the fleas that had lodged in his hair provided\nthe basis for the human race. As our birth required the death of our creator,\nwe were to be cursed with sorrow forever after.\n\n> Unfortunately, the scientific community has to admit that all these possible answers, from rebounding universes to spontaneous quantum creation, are highly speculative and do not yet properly address the ultimate question of where the universe came from. Nevertheless, the current generation of cosmologists should not be downhearted. They should rejoice in the fact that the Big Bang model is a coherent and consistent description of our universe. They should be proud that the Big Bang model is a pinnacle of human achievement, because it explains so much of the universe’s present by revealing its past. They should go out and tell the world that the Big Bang model is a tribute to human curiosity and our intellect. And if a member of the public should ask the toughest question of all, ‘What came before the Big Bang?’, then they might consider following St Augustine’s example.\n\n> In his autobiography, Confessions, written in about AD 400, the philosopher and theologian St Augustine quotes an answer he has heard to the theological equivalent of ‘What came before the Big Bang?’: What was God doing before He created the Universe? Before He created Heaven and Earth, God created hell to be used for people such as you who ask this kind of question.\n\nSimon Singh, [Big Bang](https://amzn.to/2BSY3m4 \"Big Bang\"), 2004. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "volcano-4493461_1920.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__what-was-god-doing-before-he-created-the-universe__index"
+    }
+  ]
+}

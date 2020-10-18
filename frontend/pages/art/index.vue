@@ -1,0 +1,197 @@
+<template>
+  <main id="main">
+
+    <!-- row -->
+    <div class="row">
+      <div class="grid-x">
+
+        <div class="cell small-12 large-6">
+
+          <!-- grid-x -->
+          <div class="grid-x align-center-middle min-height-100vh text-center text-container font-rounded background-xxlight dark-mode" v-bind:style="data.darkModeBgStyle">
+            <div class="cell small-8">
+              <h1 class="h1-title shadow-hard" v-html="data.title"></h1>
+              <div class="cell small-8" v-html="data.contents"></div>
+            </div>
+          </div>
+          <!-- grid-x -->
+
+        </div>
+
+        <div class="cell small-12 large-6">
+
+          <!-- grid-x -->
+          <div class="grid-x align-center-middle min-height-100vh text-center text-container font-rounded background-xlight">
+            <div class="cell small-8">
+              <h2 class="h2-title">Explore!</h2>
+              <nav class="nav-contact">
+                <ul class="ul-menu flex-column">
+                  <li>
+                    <router-link to="#explore" @click.native="scrollTo('#explore')" class="link-menu font-size-large">
+                      <i class="icon icon-chevron-circle-down" data-tippy-placement="bottom" data-tippy-content="Explore"></i>
+                    </router-link>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <!-- grid-x -->
+
+        </div>
+
+      </div>
+    </div>
+    <!-- row -->
+
+    <div id="explore"><!--Only id and div works on Firefox --></div>
+
+    <div class="row row-projects padding-y-xxlarge">
+
+      <div class="grid-container">
+        <div class="grid-x grid-padding-x grid">
+
+          <!-- vue - loop -->
+          <template v-for="project in projects">
+
+            <div class="cell small-12 medium-6 large-4 grid-item">
+
+              <!-- item -->
+              <div class="card box-shadow-blur">
+
+                <div class="card-section">
+                  <h2 class="h2-title header-medium inline-gold">
+                    <nuxt-link :to="'/' + $joinPath(project.directory, project.slug)" class="link-title">
+                      <span v-html="project.title"></span>
+                    </nuxt-link>
+                  </h2>
+                  <span class="micro-item inline-gold">
+                    <span><i class="icon icon-clock"></i> {{ project.year }}</span>
+                  </span>
+                </div>
+
+                <div class="card-image border-y">
+                  <nuxt-link :to="'/' + $joinPath(project.directory, project.slug)" class="link-image square-container">
+                    <span class="overlay-shadow"></span>
+                    <picture class="square-content">
+                      <ImageLazyLoad v-bind:src="$loadAssetImage($remoteUrl, project.path, project.coverImage.file)" :alt="project.title" />
+                    </picture>
+                  </nuxt-link>
+                </div>
+
+                <div class="card-section" v-if="project.tags">
+                  <nav>
+                    <ul class="ul-menu flex-start grey-dark">
+                      <!-- vue - loop -->
+                      <template v-for="tag in project.tags">
+                        <li>
+                          <nuxt-link :to="'/' + project.directory + '/tags/' + tag" class="link-menu">
+                            #{{ tag }}
+                          </nuxt-link>
+                        </li>
+                      </template>
+                      <!-- vue - loop -->
+                    </ul>
+                  </nav>
+                </div>
+
+              </div>
+              <!-- item -->
+
+            </div>
+          </template>
+          <!-- vue - loop -->
+
+          <div class="cell small-12 large-4 grid-item hide">
+            <div class="project-item">
+              <div class="header">
+                <h2 class="h2-title header-medium inline-gold"><i class="icon icon-tree-hollow-forest"></i> <a href="#" class="link-url">Going</a></h2>
+              </div>
+              <!-- <a href="#" class="link-image text-center">
+                <ImageLazyLoad v-bind:src="require(`~/assets/images/art-3.jpg`)" />
+              </a> -->
+
+              <div class="responsive-embed widescreen" style="margin: 0">
+                <VideoLazyLoad v-bind:poster="require(`~/assets/videos/art-3.jpg`)" v-bind:src="require(`~/assets/videos/800p-30sec-Simon-Cohen-Fox-Business-News.mp4`)" />
+              </div>
+
+              <nav class="nav-gold-micro margin-y-xsmall margin-bottom-0">
+                <ul class="ul-menu flex-start">
+                  <li>
+                    <a href="#explore" class="link-menu">
+                      <i class="icon icon-sun-down"></i> WordPress
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#explore" class="link-menu">
+                      <i class="icon icon-sun-down"></i> Vue.js
+                    </a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- row: pager  -->
+    <div class="row">
+      <NavPager />
+    </div>
+    <!-- row -->
+
+  </main>
+</template>
+
+<script>
+// Prepare graphQL query.
+const QUERY = `
+  query {
+    pageBySlug (slug: "art"){
+      title
+      excerpt
+      contents
+      darkModeBgStyle
+      path
+      meta {
+        title
+        description
+        keywords
+      }
+      og {
+        type
+        title
+        description
+        image
+      }
+    }
+    artStack {
+      title
+      directory
+      slug
+      year
+      path
+      tags
+      coverImage {
+        file
+        title
+        alt
+      }
+    }
+  }
+`
+
+export default {
+  async asyncData ({ $axios, route }) {
+    const { data: { data: {
+      pageBySlug: data,
+      artStack: projects
+    } } } = await $axios.post('/graphql', {
+      query: QUERY,
+    })
+
+    return { data, projects }
+  }
+}
+</script>

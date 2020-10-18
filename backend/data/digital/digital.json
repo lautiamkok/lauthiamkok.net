@@ -1,0 +1,368 @@
+{
+  "app": {
+    "name": "digital",
+    "cwd": "./",
+    "src": "data/",
+    "filePattern": "digital/**/*.md",
+    "ignore": "**/*(drafts|archive)/**",
+    "dist": "data/digital/digital.json",
+    "version": "1.4.1"
+  },
+  "data": [
+    {
+      "title": "Airsift Dustbox Data Analysis Toolkit",
+      "domain": "citizensense.net",
+      "url": "https://www.citizensense.net/airsift-dustbox/",
+      "order": 2,
+      "tags": [
+        "r",
+        "rstudio",
+        "rshiny",
+        "rshiny-server"
+      ],
+      "coverImage": {
+        "file": "analysis-toolkit-00.png",
+        "title": "Airsift Dustbox Data Analysis Toolkit"
+      },
+      "listImages": [
+        {
+          "file": "analysis-toolkit-01.png",
+          "title": "Airsift Dustbox Data Analysis Toolkit"
+        },
+        {
+          "file": "analysis-toolkit-02.png",
+          "title": "Airsift Dustbox Data Analysis Toolkit"
+        },
+        {
+          "file": "analysis-toolkit-03.png",
+          "title": "Airsift Dustbox Data Analysis Toolkit"
+        },
+        {
+          "file": "analysis-toolkit-04.png",
+          "title": "Airsift Dustbox Data Analysis Toolkit"
+        },
+        {
+          "file": "analysis-toolkit-05.png",
+          "title": "Airsift Dustbox Data Analysis Toolkit"
+        },
+        {
+          "file": "analysis-toolkit-06.png",
+          "title": "Airsift Dustbox Data Analysis Toolkit"
+        },
+        {
+          "file": "analysis-toolkit-07.png",
+          "title": "Airsift Dustbox Data Analysis Toolkit"
+        }
+      ],
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "analysis-toolkit-01.png",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "OG_Analysis_Toolkit.png"
+      },
+      "contents": "<ul>\n<li>Client: Citizen Sense, UK</li>\n<li>Role: Designer &amp; developer</li>\n<li>Year: 2015, 2016, 2017, 2019, 2020</li>\n</ul>\n<p>The Citizen Sense “Dustbox” has developed in the course of the practice-based research on “Urban Sensing” in Deptford and surrounding neighborhoods in South London.</p>\n<p>For more information about this project, please click <a href=\"http://www.citizensense.net/projects/urban-sensing/dustbox-sensor-data-toolkit/\">here</a>.</p>\n",
+      "excerpt": "<p>The Citizen Sense &#x201C;Dustbox&#x201D; has developed in the course of the practice-based research on &#x201C;Urban Sensing&#x201D; in Deptford and surrounding neighborhoods in South London.</p>",
+      "id": "digital__published__airsift-dustbox-data-analysis-toolkit__index"
+    },
+    {
+      "title": "Asian Geos",
+      "domain": "asiangeos.com",
+      "url": "http://asiangeos.com/",
+      "order": 4,
+      "tags": [
+        "wordpress",
+        "vuejs",
+        "foundation"
+      ],
+      "coverImage": {
+        "file": "Asian_Geos_01.jpg",
+        "title": "Asian Geos"
+      },
+      "listImages": [
+        {
+          "file": "Asian_Geos_01.jpg",
+          "title": "Asian Geos"
+        },
+        {
+          "file": "Asian_Geos_02.jpg",
+          "title": "Asian Geos"
+        },
+        {
+          "file": "Asian_Geos_03.jpg",
+          "title": "Asian Geos"
+        },
+        {
+          "file": "Asian_Geos_04.png",
+          "title": "Asian Geos"
+        }
+      ],
+      "relatedPages": [
+        {
+          "link": "/digital/java-offshore",
+          "title": "Java Offshore"
+        }
+      ],
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "Asian_Geos_01.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "OG_Asian_Geos.jpg"
+      },
+      "contents": "<ul>\n<li>Client: Asian Geos, Indonesia/ Malaysia</li>\n<li>Role: Designer &amp; developer</li>\n<li>Year: 2017, 2018</li>\n</ul>\n<p>Asian Geos the specialist arm of Java Offshore dedicated to geotechnical site investigation and engineering services for marine infrastructures in Oil &amp; Gas, Telecommunications and Power Sectors.</p>\n",
+      "excerpt": "<p>Asian Geos the specialist arm of Java Offshore dedicated to geotechnical site investigation and engineering services for marine infrastructures in Oil &amp; Gas, Telecommunications and Power Sectors.</p>",
+      "id": "digital__published__asian-geos__index"
+    },
+    {
+      "title": "Dustbox Data Streams",
+      "domain": "citizensense.net",
+      "url": "https://citizensense.net/kits/dustbox-streams/",
+      "order": 2,
+      "tags": [
+        "express",
+        "koa",
+        "mongodb",
+        "rethinkdb",
+        "socketio"
+      ],
+      "coverImage": {
+        "file": "data-streams-03.png",
+        "title": "Dustbox Data Streams"
+      },
+      "listImages": [
+        {
+          "file": "data-streams-02.png",
+          "title": "Dustbox Data Streams"
+        },
+        {
+          "file": "data-streams-03.png",
+          "title": "Dustbox Data Streams"
+        },
+        {
+          "file": "data-streams-04.png",
+          "title": "Dustbox Data Streams"
+        }
+      ],
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "data-streams-01.png",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "OG_Data-Streams.png"
+      },
+      "contents": "<ul>\n<li>Client: Citizen Sense, UK</li>\n<li>Role: Designer &amp; developer</li>\n<li>Year: 2016, 2017, 2019, 2020</li>\n</ul>\n<p>The real-time data from the Dustboxes will be streamed to Citizen Sense Dustbox Streams platform, where the “raw” particle count data (as a percentage) and “converted” data (as PM2.5 µ/m3) will be available to view. Citizen Sense is undertaking calibration in relation to monitoring sites and as an ongoing process, along with testing the Dustboxes in relation to reference monitors in the London Air Quality Network (LAQN ) at the Marylebone Air Quality Observatory.</p>\n<p>More info at <a href=\"http://citizensense.net/dustbox-and-airsift-data-toolkit/\">Citizen Sense</a>.</p>\n",
+      "excerpt": "<p>The real-time data from the Dustboxes will be streamed to Citizen Sense Dustbox Streams platform, where the &#x201C;raw&#x201D; particle count data (as a percentage) and &#x201C;converted&#x201D; data (as PM2.5 &#xB5;/m3) will be available to view. Citizen Sense is undertaking calibration in relation to monitoring sites and as an ongoing process, along with testing the Dustboxes in relation to reference monitors in the London Air Quality Network (LAQN ) at the Marylebone Air Quality Observatory.</p>",
+      "id": "digital__published__dustbox-data-streams__index"
+    },
+    {
+      "title": "Ginger Monkey Design",
+      "domain": "gingermonkeydesign.com",
+      "url": "https://gingermonkeydesign.com/",
+      "order": 3,
+      "tags": [
+        "wordpress",
+        "vuejs",
+        "foundation"
+      ],
+      "coverImage": {
+        "file": "Ginger_Monkey_Design_01.jpg",
+        "title": "Ginger Monkey Design"
+      },
+      "listImages": [
+        {
+          "file": "Ginger_Monkey_Design_01.jpg",
+          "title": "Ginger Monkey Design"
+        },
+        {
+          "file": "Ginger_Monkey_Design_02.jpg",
+          "title": "Ginger Monkey Design"
+        },
+        {
+          "file": "Ginger_Monkey_Design_03.jpg",
+          "title": "Ginger Monkey Design"
+        },
+        {
+          "file": "Ginger_Monkey_Design_04.png",
+          "title": "Ginger Monkey Design"
+        },
+        {
+          "file": "Ginger_Monkey_Design_05.png",
+          "title": "Ginger Monkey Design"
+        }
+      ],
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "Ginger_Monkey_Design_01.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "OG_Ginger_Monkey_Design.jpg"
+      },
+      "contents": "<ul>\n<li>Client: Tom Lane, UK</li>\n<li>Role: Developer</li>\n<li>Year: 2018</li>\n</ul>\n<p>Tom Lane – AKA Ginger Monkey – is an independent graphic designer currently based in Liverpool, United Kingdom.</p>\n",
+      "excerpt": "<p>Tom Lane &#x2013; AKA Ginger Monkey &#x2013; is an independent graphic designer currently based in Liverpool, United Kingdom.</p>",
+      "id": "digital__published__ginger-monkey__index"
+    },
+    {
+      "title": "Java Offshore",
+      "domain": "javaoffshore.com",
+      "url": "http://javaoffshore.com/",
+      "order": 1,
+      "tags": [
+        "wordpress",
+        "vuejs",
+        "foundation"
+      ],
+      "coverImage": {
+        "file": "Java_Offshore_01.jpg",
+        "title": "Java Offshore"
+      },
+      "listImages": [
+        {
+          "file": "Java_Offshore_01.jpg",
+          "title": "Java Offshore"
+        },
+        {
+          "file": "Java_Offshore_02.jpg",
+          "title": "Java Offshore"
+        },
+        {
+          "file": "Java_Offshore_03.jpg",
+          "title": "Java Offshore"
+        },
+        {
+          "file": "Java_Offshore_04.jpg",
+          "title": "Java Offshore"
+        },
+        {
+          "file": "Java_Offshore_05.jpg",
+          "title": "Java Offshore"
+        }
+      ],
+      "relatedPages": [
+        {
+          "link": "/digital/asian-geos",
+          "title": "Asian Geos"
+        }
+      ],
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "Java_Offshore_01.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "OG_Java_Offshore.jpg"
+      },
+      "contents": "<ul>\n<li>Client: Java Offshore, Indonesia/ Malaysia</li>\n<li>Role: Designer &amp; developer</li>\n<li>Year: 2017, 2018</li>\n</ul>\n<p>Java Offshore is a leading independent Offshore Services Contractor providing a range of Geophysical, Geotechnical and Subsea related solutions to Marine Related Industries within the South East Asian Region.</p>\n",
+      "excerpt": "<p>Java Offshore is a leading independent Offshore Services Contractor providing a range of Geophysical, Geotechnical and Subsea related solutions to Marine Related Industries within the South East Asian Region.</p>",
+      "id": "digital__published__java-offshore__index"
+    },
+    {
+      "title": "Mr Simon Cohen",
+      "domain": "mrsimoncohen.com",
+      "url": "https://mrsimoncohen.com/",
+      "order": 2,
+      "tags": [
+        "wordpress",
+        "vuejs",
+        "foundation"
+      ],
+      "coverImage": {
+        "file": "Mr_Simon_Cohen_01.jpg",
+        "title": "Mr Simon Cohen"
+      },
+      "listImages": [
+        {
+          "file": "Mr_Simon_Cohen_01.jpg",
+          "title": "Mr Simon Cohen"
+        },
+        {
+          "file": "Mr_Simon_Cohen_02.jpg",
+          "title": "Mr Simon Cohen"
+        },
+        {
+          "file": "Mr_Simon_Cohen_03.jpg",
+          "title": "Mr Simon Cohen"
+        },
+        {
+          "file": "Mr_Simon_Cohen_04.jpg",
+          "title": "Mr Simon Cohen"
+        }
+      ],
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "Mr_Simon_Cohen_01.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "OG_Mr_Simon_Cohen.jpg"
+      },
+      "contents": "<ul>\n<li>Client: Simon Cohen, UK</li>\n<li>Role: Designer &amp; developer</li>\n<li>Year: 2017, 2020</li>\n</ul>\n<p>Mr Simon Cohen is a keynote speaker and broadcaster lives in Cornwall in the UK.</p>\n",
+      "excerpt": "<p>Mr Simon Cohen is a keynote speaker and broadcaster lives in Cornwall in the UK.</p>",
+      "id": "digital__published__mr-simon-cohen__index"
+    }
+  ]
+}

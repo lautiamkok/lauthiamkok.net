@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Sura';
+    src: url('./../../../fonts/sura/Sura-Regular.eot');
+    src:
+        url('./../../../fonts/sura/Sura-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./../../../fonts/sura/Sura-Regular.woff2') format('woff2'),
+        url('./../../../fonts/sura/Sura-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,657 @@
+{
+  "app": {
+    "name": "art",
+    "cwd": "./",
+    "src": "data/",
+    "filePattern": "art/**/*.md",
+    "ignore": "**/*(drafts|archive)/**",
+    "dist": "data/art/art.json",
+    "version": "1.4.1"
+  },
+  "data": [
+    {
+      "title": "A Place",
+      "year": 2008,
+      "order": 1,
+      "tags": [
+        "artbook"
+      ],
+      "coverImage": {
+        "file": "Place_01.jpg",
+        "title": "Place"
+      },
+      "listImages": [
+        {
+          "file": "Place_01.jpg",
+          "title": "Place"
+        },
+        {
+          "file": "Place_02.jpg",
+          "title": "Place"
+        },
+        {
+          "file": "Place_03.jpg",
+          "title": "Place"
+        },
+        {
+          "file": "Place_04.jpg",
+          "title": "Place"
+        },
+        {
+          "file": "Place_05.jpg",
+          "title": "Place"
+        },
+        {
+          "file": "Place_06.jpg",
+          "title": "Place"
+        }
+      ],
+      "relatedPages": [
+        {
+          "link": "/art/dust",
+          "title": "Dust (book)"
+        },
+        {
+          "link": "/poetic/place",
+          "title": "Place (text)"
+        }
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "Place_01.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Place_01_OG.jpg"
+      },
+      "contents": "<p>&quot;A Place&quot; is a poetic fiction that aims to test its universality and ontological significance by using an abstract place. Co-published with &quot;Dust&quot; as its companion book in a series of artists&#39; books by Portfolio Five Ltd in association with the Proof magazine.</p>\n",
+      "excerpt": "<p>&quot;A Place&quot; is a poetic fiction that aims to test its universality and ontological significance by using an abstract place. Co-published with &quot;Dust&quot; as its companion book in a series of artists&apos; books by Portfolio Five Ltd in association with the Proof magazine.</p>",
+      "id": "art__published__place__index"
+    },
+    {
+      "title": "Rising",
+      "year": "1998 - 1999",
+      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
+      "order": 2,
+      "tags": [
+        "sketching",
+        "people"
+      ],
+      "coverImage": {
+        "file": "Rising_01.jpg",
+        "title": "Rising"
+      },
+      "listImages": [
+        {
+          "file": "Rising_01.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_05.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_06.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_07.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_08.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_09.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_10.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_11.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_12.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_13.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_14.jpg",
+          "title": "Rising"
+        }
+      ],
+      "layout": "single",
+      "headImages": [
+        {
+          "file": "Rising_01.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Rising_08.jpg"
+      },
+      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
+      "id": "art__published__rising__index"
+    },
+    {
+      "title": "Looking",
+      "year": "1997 - 2000",
+      "excerpt": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>",
+      "order": 3,
+      "tags": [
+        "sketching",
+        "people",
+        "portrait"
+      ],
+      "coverImage": {
+        "file": "Looking_01.jpg",
+        "title": "Looking"
+      },
+      "listImages": [
+        {
+          "file": "Looking_01.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_02.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_03.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_04.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_05.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_06.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_07.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_08.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_09.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_10.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_11.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_12.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_13.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_14.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_15.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_16.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_17.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_18.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_19.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_20.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_21.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_22.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_23.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_24.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_25.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_26.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_27.jpg"
+        }
+      ],
+      "layout": "single",
+      "headImages": [
+        {
+          "file": "Looking_21.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_12.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_23.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_04.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_27.jpg",
+          "alt": "Looking"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Looking_01_OG.jpg"
+      },
+      "contents": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>\n",
+      "id": "art__published__looking__index"
+    },
+    {
+      "title": "Twenties",
+      "year": 2006,
+      "order": 5,
+      "tags": [
+        "publicart"
+      ],
+      "coverImage": {
+        "file": "Twenties_01.jpg",
+        "title": "Twenties"
+      },
+      "listImages": [
+        {
+          "file": "Twenties_01.jpg",
+          "title": "Twenties"
+        },
+        {
+          "file": "Twenties_02.jpg",
+          "title": "Twenties"
+        },
+        {
+          "file": "Twenties_03.jpg",
+          "title": "Twenties"
+        },
+        {
+          "file": "Twenties_04.jpg",
+          "title": "Twenties"
+        },
+        {
+          "file": "Twenties_05.jpg",
+          "title": "Twenties"
+        },
+        {
+          "file": "Twenties_06.jpg",
+          "title": "Twenties"
+        }
+      ],
+      "relatedPages": [
+        {
+          "link": "/poetic/when-i-am-old",
+          "title": "When I Am Old (text)"
+        },
+        {
+          "link": "/poetic/a-hunch-and-a-dog",
+          "title": "A Hunch And a Dog (text)"
+        },
+        {
+          "link": "/poetic/humming",
+          "title": "Humming (text)"
+        },
+        {
+          "link": "/poetic/i-am-a-poem",
+          "title": "I Am a Poem (text)"
+        },
+        {
+          "link": "/poetic/诗的成因",
+          "title": "诗的成因 (text)"
+        }
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "Twenties_01.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Twenties_01_OG.jpg"
+      },
+      "contents": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>\n",
+      "excerpt": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>",
+      "id": "art__published__twenties__index"
+    },
+    {
+      "title": "Dust",
+      "year": 2008,
+      "excerpt": "What is it for when the complexity of being reduces into atoms of dust in science, philosophy, arts, and poetry? - LTK, 2003.\n",
+      "order": 1,
+      "tags": [
+        "artbook"
+      ],
+      "coverImage": {
+        "file": "Dust_00.jpg",
+        "title": "Dust",
+        "path": null
+      },
+      "listImages": [
+        {
+          "file": "Dust_01.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_02.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_03.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_04.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_05.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_06.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_07.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_08.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_09.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_10.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_11.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_12.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_13.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_14.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_15.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_16.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_17.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_18.jpg",
+          "title": "Dust"
+        }
+      ],
+      "relatedPages": [
+        {
+          "link": "/art/place",
+          "title": "Place (book)"
+        },
+        {
+          "link": "/poetic/ghost",
+          "title": "Ghost (text)"
+        }
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "Dust_00.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Dust_00_OG.jpg"
+      },
+      "contents": "<p>&quot;Dust&quot; is a piece of writing on our traces and memories from the palpable place to the extended / metaphysical place - digital space. Made into 1000 copies of book to be discovered in random locations in the city of Plymouth. Published by Plymouth Arts Centre as part of the Artists and Curators Residency Programme, funded by Arts Council England SW and Plymouth City Council. A PLACE is co-published as its companion book in a new series of artists’ books published by Portfolio Five Ltd. in association with Proof magazine.</p>\n",
+      "id": "art__published__dust__index"
+    },
+    {
+      "title": "Waiting",
+      "year": "1998 - 1999",
+      "excerpt": "<p>&quot;Waiting&quot; is a collection of sketches from 1998 - 1999 depicting life and faces of waiting.</p>",
+      "order": 2,
+      "tags": [
+        "sketching",
+        "people",
+        "portrait"
+      ],
+      "coverImage": {
+        "file": "Waiting_04.jpg",
+        "title": "Waiting"
+      },
+      "listImages": [
+        {
+          "file": "Waiting_01.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_02.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_03.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_04.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_05.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_06.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_07.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_08.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_09.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_10.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_11.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_12.jpg",
+          "title": "Waiting"
+        },
+        {
+          "file": "Waiting_13.jpg",
+          "title": "Waiting"
+        }
+      ],
+      "layout": "single",
+      "headImages": [
+        {
+          "file": "Waiting_04.jpg",
+          "alt": "Waiting",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Waiting_11.jpg",
+          "alt": "Waiting",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Waiting_12.jpg",
+          "alt": "Waiting",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Waiting_13.jpg",
+          "alt": "Waiting",
+          "style": "'background-size': 'contain'\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Waiting_01.jpg"
+      },
+      "contents": "<p>&quot;Waiting&quot; is a collection of sketches from 1998 - 1999 depicting life and faces of waiting.</p>\n",
+      "id": "art__published__waiting__index"
+    }
+  ]
+}
