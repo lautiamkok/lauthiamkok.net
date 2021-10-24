@@ -1,8 +1,10 @@
 # lauthiamkok.net
 
-> Applications and static-generated site of lauthiamkok.net.
+> Applications and static site of lauthiamkok.net.
 
-# Static-generated Site Setup
+Static site hosted example at [https://lautiamkok.github.io/lauthiamkok.net/](https://lautiamkok.github.io/lauthiamkok.net/).
+
+# Static Site Setup
 
 1. Download the repository as a zip.
 
