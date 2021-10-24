@@ -4,6 +4,6 @@ npm-debug.log
 vendor
 .nuxt
 _nuxt
-dist
+apps/dist
 drafts
 frontend/assets/images
