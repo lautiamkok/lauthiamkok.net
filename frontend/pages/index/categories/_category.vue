@@ -9,13 +9,13 @@
         <div class="cell small-12 large-8">
 
           <!-- bind a key here to stop Vue from reusing components -->
-          <div class="grid-x grid grid-margin-x medium-up-2 large-up-3" v-bind:key="category">
+          <div class="grid-x gridx grid-margin-x align-center medium-up-2 large-up-3" v-bind:key="category">
 
             <!-- vue - loop -->
             <template v-for="post in posts">
 
               <!-- cell -->
-              <div class="cell grid-item">
+              <div class="cell grid-itemx">
 
                 <!-- item -->
                 <div class="card box-shadow-blur">

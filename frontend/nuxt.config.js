@@ -29,12 +29,15 @@ if (process.env.DEPLOY_ENV === 'GH_PAGES') {
 }
 
 // Host base.
-const protocol = 'http'
+const protocols = {
+  local: 'https',
+  remote: 'http'
+}
 
 // Cross domain ports.
 const ports = {
   local: '3000',
-  remote: '4000'
+  remote: '5000'
 }
 
 // Cross domain hosts.
@@ -42,13 +45,13 @@ const hosts = {
   local: process.env.NODE_ENV === 'production' ? 'lauthiamkok.net' : 'localhost',
   remote: 'localhost'
 }
-const remoteUrl = protocol + '://' + hosts.remote + ':' + ports.remote
+const remoteUrl = protocols.remote + '://' + hosts.remote + ':' + ports.remote
 
 // Create a baseUrl that will be equal to the BASE_URL environment variable if
 // defined, otherwise, equal to 'http://localhost:3000'
-let baseUrl = protocol + '://' + hosts.local + ':' + ports.local
+let baseUrl = protocols.local + '://' + hosts.local + ':' + ports.local
 if (process.env.NODE_ENV === 'production') {
-  baseUrl = protocol + '://' + hosts.local
+  baseUrl = protocols.local + '://' + hosts.local
 }
 
 // Log variables to the terminal.
@@ -67,7 +70,7 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    __dangerouslyDisableSanitizers: ['script'],
+    // __dangerouslyDisableSanitizers: ['script'],
     title: 'Lau Tiam Kok',
     titleTemplate: ' %s | Lau Tiam Kok',
     meta: [
@@ -80,30 +83,34 @@ export default {
     script: [
       // Add script in the footer - before the body ends.
       // https://stackoverflow.com/questions/50138074/how-to-append-js-files-in-nuxt-before-body-ends
-      {
-        src: 'https://s7.addthis.com/js/300/addthis_widget.js#pubid=lauthiamkok',
-        body: true
-      },
+      // {
+      //   src: 'https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-607854a7bae6bbcf',
+      //   body: true
+      // },
 
-      {
-        src: 'https://www.googletagmanager.com/gtag/js?id=UA-8602078-2',
-        body: true
-      },
+      // {
+      //   src: 'https://www.googletagmanager.com/gtag/js?id=UA-8602078-2',
+      //   body: true
+      // },
 
       // Inline script.
       // https://dev.to/mandeepm91/how-to-add-third-party-scripts-inline-scripts-in-your-nuxt-js-app-1nbf
-      {
-        innerHTML: `
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
+      // gtag.js official documentation:
+      // https://developers.google.com/analytics/devguides/collection/gtagjs
+      // Disable pageview measurement:
+      // gtag('config', 'GA_MEASUREMENT_ID', { 'send_page_view': false });
+      // {
+      //   innerHTML: `
+      //     window.dataLayer = window.dataLayer || [];
+      //     function gtag(){dataLayer.push(arguments);}
+      //     gtag('js', new Date());
 
-          gtag('config', 'UA-8602078-2');
-        `,
-        type: 'text/javascript',
-        charset: 'utf-8',
-        body: true
-      }
+      //     gtag('config', 'UA-8602078-2');
+      //   `,
+      //   type: 'text/javascript',
+      //   charset: 'utf-8',
+      //   body: true
+      // }
     ]
   },
 
@@ -134,6 +141,10 @@ export default {
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
     // '~/plugins/mixins/global/sample.js',
+    // {
+    //   src: '~/plugins/gtag.js',
+    //   mode: 'client'
+    // },
     '~/plugins/mixins/methods.js',
     '~/plugins/mixins/global/head.js',
     '~/plugins/client-only/utils.js',
@@ -143,6 +154,7 @@ export default {
     '~/plugins/server-client/datetime-helpers.js',
     '~/plugins/server-client/markdown-it.js',
     '~/plugins/client-only/foundation.client.js',
+    '~/plugins/client-only/gtag.client.js',
     '~/plugins/client-only/mixins/mounted.client.js',
   ],
 
@@ -155,6 +167,7 @@ export default {
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
+    // '@nuxtjs/gtm',
   ],
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)

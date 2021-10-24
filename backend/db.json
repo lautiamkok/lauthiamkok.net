@@ -147,7 +147,9 @@
         "koa",
         "mongodb",
         "rethinkdb",
-        "socketio"
+        "socketio",
+        "nuxtjs",
+        "vuejs"
       ],
       "coverImage": {
         "file": "data-streams-03.png",
@@ -333,6 +335,7 @@
       "order": 2,
       "tags": [
         "wordpress",
+        "nuxtjs",
         "vuejs",
         "foundation"
       ],
@@ -388,6 +391,36 @@
   ],
   "poetic": [
     {
+      "title": "A Few Winters Ago",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "A Few Winters Ago.txt",
+      "meta": {
+        "title": null,
+        "description": "A few winters ago in the cold and misty air, I heard the wind howled like a storm coming to strike, and I heard your voice, fighting through the wind, laboriously reaching my ears, say my name kindly, kindly, before we say goodbye, goodbye.\n",
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": "A few winters ago in the cold and misty air, I heard the wind howled like a storm coming to strike, and I heard your voice, fighting through the wind, laboriously reaching my ears, say my name kindly, kindly, before we say goodbye, goodbye.\n",
+        "type": "article",
+        "image": null
+      },
+      "contents": "A few winters ago\r\nin the cold and misty air,\r\nI heard the wind howled\r\nlike a storm coming to strike,\r\nand I heard your voice,\r\nfighting through the wind,\r\nlaboriously reaching my ears,\r\nsay my name kindly, kindly,\r\nbefore we say goodbye,\r\ngoodbye.\r\n\r\nMany winters now,\r\nI hear the wind\r\nhowls the same each year\r\nby my window night\r\nlike a storm strikes and kills.\r\nBut in these winters air,\r\ncold, damp, and cruel,\r\nI hear your voice no more,\r\nno more.\r\n\r\nI see you sometimes in my dreams\r\nand I wake up in the morning,\r\nthe birds sing the same,\r\nthe sun shines the same,\r\nthe breeze blows the same,\r\nthe world still goes on\r\nlike everyone ages every day.\r\nBut in this winter air,\r\ncold, damp, and lazy,\r\nI would rather\r\nsteal a precious moment,\r\nswim back to the dreams\r\nto hear your voice once more,\r\nonce more.\r\n\r\n11.10.2006, 07:48 pm, Wednesday.\r\n",
+      "excerpt": "",
+      "id": "poetic__published__A Few Winters Ago__index",
+      "path": "poetic/published/A Few Winters Ago",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "a-few-winters-ago"
+    },
+    {
       "title": "A Cat From My Next Door",
       "excerpt": "You are not my pet\nBut you live in my house more\nThan the one that feeds you so big.\n",
       "fullSplitHeadLeft": {
@@ -425,7 +458,8 @@
       "slug": "a-cat-from-my-next-door"
     },
     {
-      "title": "A Few Winters Ago",
+      "title": "Beautiful Creatures",
+      "excerpt": "From time to time I miss the wild chickens that I used to keep in the garden of my parent house.",
       "fullSplitHeadLeft": {
         "cellClass": "large-8"
       },
@@ -433,26 +467,25 @@
         "cellClass": "large-8"
       },
       "contentClass": "large-5",
-      "include": "A Few Winters Ago.txt",
+      "include": "Beautiful Creatures.txt",
       "meta": {
         "title": null,
-        "description": "A few winters ago in the cold and misty air, I heard the wind howled like a storm coming to strike, and I heard your voice, fighting through the wind, laboriously reaching my ears, say my name kindly, kindly, before we say goodbye, goodbye.\n",
+        "description": null,
         "keywords": null
       },
       "og": {
         "title": null,
-        "description": "A few winters ago in the cold and misty air, I heard the wind howled like a storm coming to strike, and I heard your voice, fighting through the wind, laboriously reaching my ears, say my name kindly, kindly, before we say goodbye, goodbye.\n",
+        "description": null,
         "type": "article",
         "image": null
       },
-      "contents": "A few winters ago\r\nin the cold and misty air,\r\nI heard the wind howled\r\nlike a storm coming to strike,\r\nand I heard your voice,\r\nfighting through the wind,\r\nlaboriously reaching my ears,\r\nsay my name kindly, kindly,\r\nbefore we say goodbye,\r\ngoodbye.\r\n\r\nMany winters now,\r\nI hear the wind\r\nhowls the same each year\r\nby my window night\r\nlike a storm strikes and kills.\r\nBut in these winters air,\r\ncold, damp, and cruel,\r\nI hear your voice no more,\r\nno more.\r\n\r\nI see you sometimes in my dreams\r\nand I wake up in the morning,\r\nthe birds sing the same,\r\nthe sun shines the same,\r\nthe breeze blows the same,\r\nthe world still goes on\r\nlike everyone ages every day.\r\nBut in this winter air,\r\ncold, damp, and lazy,\r\nI would rather\r\nsteal a precious moment,\r\nswim back to the dreams\r\nto hear your voice once more,\r\nonce more.\r\n\r\n11.10.2006, 07:48 pm, Wednesday.\r\n",
-      "excerpt": "",
-      "id": "poetic__published__A Few Winters Ago__index",
-      "path": "poetic/published/A Few Winters Ago",
+      "contents": "From time to time I miss the wild chickens that I used to keep in the garden of my parent house. They were beautiful creatures. They were sociable and intelligent; territorial.  Many of them were fearless, enjoying my company; some were shy and watchful. Just like dogs, cats, and humans, each of them is an individual with a distinct personality. I liked them coming in the kitchen scouring for food, walking around in the house. They always seemed to be talking to me with their perculiar language, so I talked to them with their language, then they startled and looking at each others and started talking to themselves, seemed to be laughing at me. They never forgot the corners where they laid their eggs. I watched the eggs hatched. I watched them grew up, aged and died. I made sure no human or other bigger animals would kill them for food. I taught them to sleep on the tree at nights. Then they taught each other and their generations to hop through branches to the top of the trees in every evening when the sun went down. Sometimes I woke up at night worrying about them when it rained and the wind howled. Now they all are gone just like many other things in my oldest home and memory. I only can think of them. Think of them fondly - the beautiful creatures that once climbed trees and slept on branches like owls...\n\n20.10.2012, 05:12 pm, Wednesday.\n",
+      "id": "poetic__published__Beautiful Creatures__index",
+      "path": "poetic/published/Beautiful Creatures",
       "type": "poetic",
       "directory": "poetic",
       "category": "",
-      "slug": "a-few-winters-ago"
+      "slug": "beautiful-creatures"
     },
     {
       "title": "A Hunch And a Dog",
@@ -484,36 +517,6 @@
       "directory": "poetic",
       "category": "",
       "slug": "a-hunch-and-a-dog"
-    },
-    {
-      "title": "Beautiful Creatures",
-      "excerpt": "From time to time I miss the wild chickens that I used to keep in the garden of my parent house.",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "Beautiful Creatures.txt",
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": null
-      },
-      "contents": "From time to time I miss the wild chickens that I used to keep in the garden of my parent house. They were beautiful creatures. They were sociable and intelligent; territorial.  Many of them were fearless, enjoying my company; some were shy and watchful. Just like dogs, cats, and humans, each of them is an individual with a distinct personality. I liked them coming in the kitchen scouring for food, walking around in the house. They always seemed to be talking to me with their perculiar language, so I talked to them with their language, then they startled and looking at each others and started talking to themselves, seemed to be laughing at me. They never forgot the corners where they laid their eggs. I watched the eggs hatched. I watched them grew up, aged and died. I made sure no human or other bigger animals would kill them for food. I taught them to sleep on the tree at nights. Then they taught each other and their generations to hop through branches to the top of the trees in every evening when the sun went down. Sometimes I woke up at night worrying about them when it rained and the wind howled. Now they all are gone just like many other things in my oldest home and memory. I only can think of them. Think of them fondly - the beautiful creatures that once climbed trees and slept on branches like owls...\n\n20.10.2012, 05:12 pm, Wednesday.\n",
-      "id": "poetic__published__Beautiful Creatures__index",
-      "path": "poetic/published/Beautiful Creatures",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "beautiful-creatures"
     },
     {
       "title": "Epilogue",
@@ -574,6 +577,66 @@
       "directory": "poetic",
       "category": "",
       "slug": "finding-eternity"
+    },
+    {
+      "title": "Home",
+      "excerpt": "All scientists, philosophers, poets, politicians and everyone else perhaps, are wrong.",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Home.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "All scientists, philosophers, poets, politicians and everyone else perhaps, are wrong. They all have said it wrong about the idea of home. Home, is not here, nor is there, nor used to be. Earth is not home. Countries are not home. I have been misled by my dreams and of my mother, and by the stories she told, and by the books I have read. England or the United Kingdom is not my home, nor is Malaysia, nor is China, nor is Africa. Home is not geographical, nor is it political. It is ontological. It is the urge to be at home everywhere. Home, it is wherever we want to go to, but is where we can find a place to stay – for a while. We set up 'home' in impermanent places such as Earth. We all perhaps are aliens, once or twice or maybe more, flourished and reincarnated over many other planets that in the end were torched by their dying stars. Together we were vaporised and blasted into atoms, carried by cosmic winds, trapped inside comets, and then descended on Earth, in which we evolved once more and misconceived this rock as home, and misguided by our histories, our emotions, our languages, our ancient tales, anthems and songs, that we never forget, that we are taught to guard and fortify our mountains and pastures with bows, arrows, spears, and chariots, to keep away the lowly and satanic countenance from our green and pleasant land. We are mere star stuff, caught with each others in the net of life and time, fellow prisoners of the splendour and travail of the Earth. We all are humble migrants that once were atoms forged in the blistering furnaces deep inside stars, blown across unimaginable gulfs of space and time by the wind between the stars. One day, when Earth dies, we will migrate to another planet; when our galaxy dies, we will migrate to another galaxy; when our universe dies, we will migrate to another universe. When we look back in the future one day, we will realise this: we all are travelers and creatures of distance. Journey is home. Exploration is home. Working is home. Migration is home. Road, is home - where we keep running to, where in every trip, our memory returns to the point of origin which we promise our parents, our children, our love ones and friends, that we will come back to each others.\n\n21.03.2013, 04:50 pm, Thursday.\n",
+      "id": "poetic__published__Home__index",
+      "path": "poetic/published/Home",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "home"
+    },
+    {
+      "title": "Hold",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Hold.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "Hold on to me\nfor I only\nlive once until\nyou dream of me\nhold me dear\nonce more.\n\n2008.01.06, 1:03:21 am, Sun.\n",
+      "excerpt": "",
+      "id": "poetic__published__Hold__index",
+      "path": "poetic/published/Hold",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "hold"
     },
     {
       "title": "Ghost",
@@ -645,38 +708,8 @@
       "slug": "growing-pains"
     },
     {
-      "title": "Hold",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "Hold.txt",
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": null
-      },
-      "contents": "Hold on to me\nfor I only\nlive once until\nyou dream of me\nhold me dear\nonce more.\n\n2008.01.06, 1:03:21 am, Sun.\n",
+      "title": "How Do You Live",
       "excerpt": "",
-      "id": "poetic__published__Hold__index",
-      "path": "poetic/published/Hold",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "hold"
-    },
-    {
-      "title": "Home",
-      "excerpt": "All scientists, philosophers, poets, politicians and everyone else perhaps, are wrong.",
       "fullSplitHeadLeft": {
         "cellClass": "large-8"
       },
@@ -684,7 +717,7 @@
         "cellClass": "large-8"
       },
       "contentClass": "large-5",
-      "include": "Home.txt",
+      "include": "How Do You Live.txt",
       "meta": {
         "title": null,
         "description": null,
@@ -696,13 +729,13 @@
         "type": "article",
         "image": null
       },
-      "contents": "All scientists, philosophers, poets, politicians and everyone else perhaps, are wrong. They all have said it wrong about the idea of home. Home, is not here, nor is there, nor used to be. Earth is not home. Countries are not home. I have been misled by my dreams and of my mother, and by the stories she told, and by the books I have read. England or the United Kingdom is not my home, nor is Malaysia, nor is China, nor is Africa. Home is not geographical, nor is it political. It is ontological. It is the urge to be at home everywhere. Home, it is wherever we want to go to, but is where we can find a place to stay – for a while. We set up 'home' in impermanent places such as Earth. We all perhaps are aliens, once or twice or maybe more, flourished and reincarnated over many other planets that in the end were torched by their dying stars. Together we were vaporised and blasted into atoms, carried by cosmic winds, trapped inside comets, and then descended on Earth, in which we evolved once more and misconceived this rock as home, and misguided by our histories, our emotions, our languages, our ancient tales, anthems and songs, that we never forget, that we are taught to guard and fortify our mountains and pastures with bows, arrows, spears, and chariots, to keep away the lowly and satanic countenance from our green and pleasant land. We are mere star stuff, caught with each others in the net of life and time, fellow prisoners of the splendour and travail of the Earth. We all are humble migrants that once were atoms forged in the blistering furnaces deep inside stars, blown across unimaginable gulfs of space and time by the wind between the stars. One day, when Earth dies, we will migrate to another planet; when our galaxy dies, we will migrate to another galaxy; when our universe dies, we will migrate to another universe. When we look back in the future one day, we will realise this: we all are travelers and creatures of distance. Journey is home. Exploration is home. Working is home. Migration is home. Road, is home - where we keep running to, where in every trip, our memory returns to the point of origin which we promise our parents, our children, our love ones and friends, that we will come back to each others.\n\n21.03.2013, 04:50 pm, Thursday.\n",
-      "id": "poetic__published__Home__index",
-      "path": "poetic/published/Home",
+      "contents": "How do you live\nMy dearest ghost?\nThe grass you used to tread\nStill green in Spring\nDo you know?\nThe sky you used to wander\nRains like old days\nDo you know?\nI am worried about money\nStruggling to make the ends meet\nDo you know?\nMaybe you do live with me\nEat my food, wear my cloths\nGrieve me and\nMake me skint.\n\n05.02.2007, 10:17 pm, Mon.\n",
+      "id": "poetic__published__How Do You Live__index",
+      "path": "poetic/published/How Do You Live",
       "type": "poetic",
       "directory": "poetic",
       "category": "",
-      "slug": "home"
+      "slug": "how-do-you-live"
     },
     {
       "title": "Humming",
@@ -735,7 +768,7 @@
       "slug": "humming"
     },
     {
-      "title": "How Do You Live",
+      "title": "I Will Keep a Dog",
       "excerpt": "",
       "fullSplitHeadLeft": {
         "cellClass": "large-8"
@@ -744,7 +777,7 @@
         "cellClass": "large-8"
       },
       "contentClass": "large-5",
-      "include": "How Do You Live.txt",
+      "include": "I Will Keep A Dog.txt",
       "meta": {
         "title": null,
         "description": null,
@@ -756,43 +789,13 @@
         "type": "article",
         "image": null
       },
-      "contents": "How do you live\nMy dearest ghost?\nThe grass you used to tread\nStill green in Spring\nDo you know?\nThe sky you used to wander\nRains like old days\nDo you know?\nI am worried about money\nStruggling to make the ends meet\nDo you know?\nMaybe you do live with me\nEat my food, wear my cloths\nGrieve me and\nMake me skint.\n\n05.02.2007, 10:17 pm, Mon.\n",
-      "id": "poetic__published__How Do You Live__index",
-      "path": "poetic/published/How Do You Live",
+      "contents": "When I am old and\nyou are gone\nfar away\nI will keep a dog\nto run\nahead of me\nto lead me\nwhere to go\nto guide me\nnot to fall\nlike you did when\nI was young\nand life was long.\n\n06.07.2007, 04:11 pm, Wednesday.\n",
+      "id": "poetic__published__I Will Keep a Dog__index",
+      "path": "poetic/published/I Will Keep a Dog",
       "type": "poetic",
       "directory": "poetic",
       "category": "",
-      "slug": "how-do-you-live"
-    },
-    {
-      "title": "I Am a Poem",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "I Am A Poem.txt",
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": null
-      },
-      "contents": "We are a piece of a poem\nCan be written can be sung\nBridged and unbridgeable\nLike the ocean like the sky.\n\nYou are a piece of a poem\nYou are the cloud you are the wind\nTouched and untouchable\nReached and unreachable\nLike a dream and dreams.\n\nI am a poem\nI was the storm\nNow I am the river\nMelts in the ocean\nLooking up at you looking up at you\n(Who) sew my words (who) weave my dreams\nIn the blue land above me.\n\n25.03.2004, 12.21 pm, Thu.\n",
-      "id": "poetic__published__I Am a Poem__index",
-      "path": "poetic/published/I Am a Poem",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "i-am-a-poem"
+      "slug": "i-will-keep-a-dog"
     },
     {
       "title": "I Cannot Live With You",
@@ -825,7 +828,7 @@
       "slug": "i-cannot-live-with-you"
     },
     {
-      "title": "I Will Keep a Dog",
+      "title": "I Am a Poem",
       "excerpt": "",
       "fullSplitHeadLeft": {
         "cellClass": "large-8"
@@ -834,7 +837,7 @@
         "cellClass": "large-8"
       },
       "contentClass": "large-5",
-      "include": "I Will Keep A Dog.txt",
+      "include": "I Am A Poem.txt",
       "meta": {
         "title": null,
         "description": null,
@@ -846,13 +849,13 @@
         "type": "article",
         "image": null
       },
-      "contents": "When I am old and\nyou are gone\nfar away\nI will keep a dog\nto run\nahead of me\nto lead me\nwhere to go\nto guide me\nnot to fall\nlike you did when\nI was young\nand life was long.\n\n06.07.2007, 04:11 pm, Wednesday.\n",
-      "id": "poetic__published__I Will Keep a Dog__index",
-      "path": "poetic/published/I Will Keep a Dog",
+      "contents": "We are a piece of a poem\nCan be written can be sung\nBridged and unbridgeable\nLike the ocean like the sky.\n\nYou are a piece of a poem\nYou are the cloud you are the wind\nTouched and untouchable\nReached and unreachable\nLike a dream and dreams.\n\nI am a poem\nI was the storm\nNow I am the river\nMelts in the ocean\nLooking up at you looking up at you\n(Who) sew my words (who) weave my dreams\nIn the blue land above me.\n\n25.03.2004, 12.21 pm, Thu.\n",
+      "id": "poetic__published__I Am a Poem__index",
+      "path": "poetic/published/I Am a Poem",
       "type": "poetic",
       "directory": "poetic",
       "category": "",
-      "slug": "i-will-keep-a-dog"
+      "slug": "i-am-a-poem"
     },
     {
       "title": "If You Can Wait",
@@ -915,36 +918,6 @@
       "slug": "in-ruin"
     },
     {
-      "title": "Legacy",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "Legacy.txt",
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": null
-      },
-      "contents": "You left me a legacy, sweet dust,\nA memory, that teaches me\nThe immortality of love,\nThe repertoire of life;\nIt teaches me liberation,\nIt teaches me happiness,\nFor I'll age alone,\nOld and grey and cold.\n\n09.07.2006, 10:46 pm, Sun.\n",
-      "id": "poetic__published__Legacy__index",
-      "path": "poetic/published/Legacy",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "legacy"
-    },
-    {
       "title": "Maybe I Was a Cat",
       "excerpt": "",
       "fullSplitHeadLeft": {
@@ -999,6 +972,36 @@
       "directory": "poetic",
       "category": "",
       "slug": "mollusc"
+    },
+    {
+      "title": "Legacy",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Legacy.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "You left me a legacy, sweet dust,\nA memory, that teaches me\nThe immortality of love,\nThe repertoire of life;\nIt teaches me liberation,\nIt teaches me happiness,\nFor I'll age alone,\nOld and grey and cold.\n\n09.07.2006, 10:46 pm, Sun.\n",
+      "id": "poetic__published__Legacy__index",
+      "path": "poetic/published/Legacy",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "legacy"
     },
     {
       "title": "Place",
@@ -1154,25 +1157,6 @@
       "slug": "the-dust-in-the-house"
     },
     {
-      "title": "The Little Mermaid",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "The Little Mermaid.txt",
-      "contents": "'Why have not we an immortal soul? The little mermaid had asked mournfully. I would give gladly all the hundreds of years that I have to live, to be a human being only for one day, and to have the hope of knowing the happiness of that glorious world above the stars.'\n\nPerhaps we all are born with an immortal soul and could be genuinely happy for three thousand years on this planet, like the little mermaid at the bottom of the sea; but we are fond of the illusive and transitory happiness on the land above the sea, craving for love like the little mermaid wants from the prince. Therefore, we are cursed with an eternal destiny: the loss of our gift of immortality; plunged into the feeling of cutting by sharp knives on every step; becoming the foam on the surface of the water; and we shall never return to the sea that we should love.\n\n10.04.2003, Thu.\n",
-      "id": "poetic__published__The Little Mermaid__index",
-      "path": "poetic/published/The Little Mermaid",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "the-little-mermaid"
-    },
-    {
       "title": "Think of Me",
       "excerpt": "",
       "fullSplitHeadLeft": {
@@ -1192,7 +1176,7 @@
       "slug": "think-of-me"
     },
     {
-      "title": "Twenties",
+      "title": "The Little Mermaid",
       "excerpt": "",
       "fullSplitHeadLeft": {
         "cellClass": "large-8"
@@ -1201,14 +1185,51 @@
         "cellClass": "large-8"
       },
       "contentClass": "large-5",
-      "include": "Twenties.txt",
-      "contents": "When you are eighty and dying,\nWhat is left from your twenties?\nYour skin is rotting you,\nYour cosmetics are giving you away,\nYour hairs are greying in silence,\nSlipping away while you are sleeping.\nWhat is left by then?\nMy heart never leaves you;\nEven one day when you are lying\nUnder the green land,\nIf you return\nWith just a little,\nA little tinge of whisper\nYou make with the wind\nThat sends you here,\nEven though I am sleeping,\nI will love you as in my twenties\nAs I do.\n\n12.08.2003, 1:45 am, Tue.\n",
-      "id": "poetic__published__Twenties__index",
-      "path": "poetic/published/Twenties",
+      "include": "The Little Mermaid.txt",
+      "contents": "'Why have not we an immortal soul? The little mermaid had asked mournfully. I would give gladly all the hundreds of years that I have to live, to be a human being only for one day, and to have the hope of knowing the happiness of that glorious world above the stars.'\n\nPerhaps we all are born with an immortal soul and could be genuinely happy for three thousand years on this planet, like the little mermaid at the bottom of the sea; but we are fond of the illusive and transitory happiness on the land above the sea, craving for love like the little mermaid wants from the prince. Therefore, we are cursed with an eternal destiny: the loss of our gift of immortality; plunged into the feeling of cutting by sharp knives on every step; becoming the foam on the surface of the water; and we shall never return to the sea that we should love.\n\n10.04.2003, Thu.\n",
+      "id": "poetic__published__The Little Mermaid__index",
+      "path": "poetic/published/The Little Mermaid",
       "type": "poetic",
       "directory": "poetic",
       "category": "",
-      "slug": "twenties"
+      "slug": "the-little-mermaid"
+    },
+    {
+      "title": "Truce",
+      "excerpt": "Once on a sunny afternoon when I was a kid...\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Truce.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "invisiblepower-12VIV1wnG98-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "Photo by <a href=\"https://unsplash.com/@invisiblepower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">invisiblepower</a> on <a href=\"https://unsplash.com/s/photos/divide?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n",
+        "cellClass": "large-8"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "invisiblepower-12VIV1wnG98-unsplash.jpg"
+      },
+      "contents": "Once on a sunny afternoon when I was a kid, mum hanging out with a friend and me in the city. We were passing by an English primary school and she told her friend that she would like to send me to that English school to study, speak English, and go abroad someday. I was petrified, I didn't want to go to the English school. I didn't want to speak English. I didn't want to go abroad. I begged her not to send me to that school. She said I must. She didn't send me to the English school in the end. I was just sent to a Chinese school nearby the hill we lived. I was pleased and relieved. But still, I grew up trying to achieve what she had hoped for in that afternoon. I knew it was her dream to acquire knowledge if she wasn't confined by the old society. Those old ideas. Those she had to live by...\r\n\r\nSo she set her dream on me. She extended herself into me. And that sometimes I wonder: is it my dream or hers? Am I dreaming or is she dreaming through me? Or both - we are dreaming the same dreams? It seems that she hasn't realised that she is already lied six feet under. Or maybe deep inside me never realised that as I was stranded abroad and did not attend her funeral. I was only informed about it. Saw some videos and pictures. I never held her cold body up from the floor that took her life. I can never know how it was like to hold her for one last time, to say the last goodbye. I only can imagine.\r\n\r\nSo since then, she has lived inside my dreams instead. She seems fine. Lives well. Does what she likes to do. Never ages a day. Only at times, she turns into a raging beast agonizing over her death whenever she finds out that she has already died. Petrified and wailing in my dreams, waking up in me with an ache at night. But I have learned to calm the beast. Put her to sleep. Let her wait in my dreams. So, when she sleeps, I awake. I sleep so that she can live. And we both live by a truce like this.\r\n\r\n01.08.2021, 02:59 pm, Sun.\r\n",
+      "id": "poetic__published__Truce__index",
+      "path": "poetic/published/Truce",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "truce"
     },
     {
       "title": "Unwanted",
@@ -1230,6 +1251,25 @@
       "slug": "unwanted"
     },
     {
+      "title": "Twenties",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Twenties.txt",
+      "contents": "When you are eighty and dying,\nWhat is left from your twenties?\nYour skin is rotting you,\nYour cosmetics are giving you away,\nYour hairs are greying in silence,\nSlipping away while you are sleeping.\nWhat is left by then?\nMy heart never leaves you;\nEven one day when you are lying\nUnder the green land,\nIf you return\nWith just a little,\nA little tinge of whisper\nYou make with the wind\nThat sends you here,\nEven though I am sleeping,\nI will love you as in my twenties\nAs I do.\n\n12.08.2003, 1:45 am, Tue.\n",
+      "id": "poetic__published__Twenties__index",
+      "path": "poetic/published/Twenties",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "twenties"
+    },
+    {
       "title": "Waiting",
       "excerpt": "",
       "fullSplitHeadLeft": {
@@ -1247,6 +1287,43 @@
       "directory": "poetic",
       "category": "",
       "slug": "waiting"
+    },
+    {
+      "title": "Wander",
+      "excerpt": "I have freed myself from the prison I built /\nDid you know?\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "wander.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "elijah-hiett-yFPCUWdJ-Kw-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@elijahdhiett?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Elijah Hiett</a> on <a href=\"https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n</span>\n",
+        "cellClass": "large-8"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "elijah-hiett-yFPCUWdJ-Kw-unsplash.jpg"
+      },
+      "contents": "I have freed myself from the prison I built\r\nDid you know?\r\nI have come home to see you on the hill\r\nDid you know?\r\nBut only to find an empty room\r\na wardrobe with some of your old clothes\r\ndust, spider webs, lizards, and\r\nold pictures of us you kept\r\nDid you know?\r\n\r\nI stood at your grave to hold you\r\nbut only to find a cold stone\r\nengraving your name\r\nand the grass grew above you\r\nstanding sharp like knifes\r\nchilly like winds\r\nDid you know?\r\n\r\nI know, no one is ever gone\r\nnot a bit\r\nyou have just became less orderly\r\nsome bits of you are here in wait\r\nsome have travelled far by wind\r\nto distant places\r\njust to find me\r\n\r\nSo I have followed you\r\nI have come to distant cities and hills\r\nto catch you in the wind and rain\r\nI have walked to the edge of cliffs and\r\nthe bank of winding rivers\r\nto wonder bits and stars\r\nDid you know?\r\nDid you see me on the road?\r\n\r\nI know, some bits of you are at home\r\nSo I stayed and waited for a while\r\njust like you did\r\nI have tidied the house and\r\nmade it comfortable\r\njust as I had imagined how you\r\nwould have loved to live in\r\nDid you know?\r\n\r\nI also raised some cats,\r\ngrew some plants, flowers\r\nand fruits\r\nDid you know?\r\nI trod the roads you used to tread\r\nI breathed the air you used to breath\r\nI ate the food you used to eat\r\nDid you know?\r\n\r\nNow, I am not at home with you\r\nI am everywhere with you\r\nI am everywhere with you\r\nyou know\r\nyou know\r\n\r\n19.03.2021, 08:18 am, Friday.\r\n",
+      "id": "poetic__published__wander__index",
+      "path": "poetic/published/wander",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "wander"
     },
     {
       "title": "When I Am Old",
@@ -1287,6 +1364,25 @@
       "slug": "一本詩集"
     },
     {
+      "title": "之前",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "之前.txt",
+      "contents": "在来世之前，在你\n消失于我的心中之前\n把我所能够记得的\n编成诗集，今生\n再也没有其它\n比写诗\n更重要的事了\n真的，世间没有什么要务\n比写诗更紧急更值得\n在我转世为河之前\n在我向海一去不返，不再\n不再为你停留\n之前\n\n06.04.2019, 01:34 am, Saturday.\n",
+      "id": "poetic__published__之前__index",
+      "path": "poetic/published/之前",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "之前"
+    },
+    {
       "title": "不關風月",
       "excerpt": "",
       "fullSplitHeadLeft": {
@@ -1306,8 +1402,8 @@
       "slug": "不關風月"
     },
     {
-      "title": "之前",
-      "excerpt": "",
+      "title": "养猫",
+      "excerpt": "别人养猫\n都会养了好几年\n我养的猫\n都不过一秋\n最短不过两三周\n",
       "fullSplitHeadLeft": {
         "cellClass": "large-8"
       },
@@ -1315,14 +1411,32 @@
         "cellClass": "large-8"
       },
       "contentClass": "large-5",
-      "include": "之前.txt",
-      "contents": "在来世之前，在你\n消失于我的心中之前\n把我所能够记得的\n编成诗集，今生\n再也没有其它\n比写诗\n更重要的事了\n真的，世间没有什么要务\n比写诗更紧急更值得\n在我转世为河之前\n在我向海一去不返，不再\n不再为你停留\n之前\n\n06.04.2019, 01:34 am, Saturday.\n",
-      "id": "poetic__published__之前__index",
-      "path": "poetic/published/之前",
+      "include": "养猫.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "kazuky-akayashi-xJ7m4K0-c_o-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@kazukyakayashi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Kazuky Akayashi</a> on <a href=\"https://unsplash.com/collections/54195512/cats?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-6"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "kazuky-akayashi-xJ7m4K0-c_o-unsplash.jpg"
+      },
+      "contents": "别人养猫\r\n都会养了好几年\r\n我养的猫\r\n都不过一秋\r\n最短不过两三周\r\n不是走失\r\n就是给蛇吃掉\r\n也许是森林的诅咒\r\n生命的妒忌\r\n要我非失不可，独一\r\n无二\r\n就像你，到最后\r\n也是独一无二，一无\r\n所有\r\n除了森林除了森林\r\n独一无二的森林\r\n独一无二的诅咒\r\n独一无二的永恒\r\n就像猫，\r\n也是独一无二\r\n独一无二的出现\r\n独一无二的消失\r\n到最后到最后，\r\n也留给我\r\n一个\r\n独一无二的迷题\r\n\r\n22.12.2020, 00:09 am, Tue.\r\n",
+      "id": "poetic__published__养猫__index",
+      "path": "poetic/published/养猫",
       "type": "poetic",
       "directory": "poetic",
       "category": "",
-      "slug": "之前"
+      "slug": "养猫"
     },
     {
       "title": "几首短诗",
@@ -1390,13 +1504,32 @@
         "type": "article",
         "image": "vincent-guth-ISI5DlnYvuY-unsplash.jpg"
       },
-      "contents": "回首半生已逝，除了\n还有很多的疑问\n此生堪惊，此生堪惊\n\n同样的，回首你已逝，除了\n留下给我的迷题\n此生堪惊，此生堪惊\n\n此生堪惊，为了那群银河\n为了那颗死去的星星\n为了天长地久\n\n此生堪惊，为了相遇与重逢\n为了百年孤寂\n为了从此不分离\n\n此生堪惊，为了是非成败\n为了几度夕阳\n为了与你同行\n\n此生堪惊，为了放逐与流浪\n为了真相与解迷\n为了一首歌\n\n此生堪惊，此生堪惊\n为了憾恨，为了给你的诗\n为了今生无悔\n为了今生无悔\n\n13.08.2020, 07:27 am, Thursday.\n",
+      "contents": "回首半生已逝，除了\n还有很多的疑问\n此生堪惊，此生堪惊\n\n同样的，回首你已逝，除了\n留下给我的迷题\n此生堪惊，此生堪惊\n\n此生堪惊，为了那群银河\n为了那颗死去的星星\n为了天长地久\n\n此生堪惊，为了相遇与重逢\n为了百年孤寂\n为了从此不分离\n\n此生堪惊，为了是非成败\n为了几度夕阳\n为了与你同行\n\n此生堪惊，为了放逐与流浪\n为了真相与解惑\n为了一首歌\n\n此生堪惊，此生堪惊\n为了憾恨，为了给你的诗\n为了今生无悔\n为了今生无悔\n\n13.08.2020, 07:27 am, Thursday.\n",
       "id": "poetic__published__半生__index",
       "path": "poetic/published/半生",
       "type": "poetic",
       "directory": "poetic",
       "category": "",
       "slug": "半生"
+    },
+    {
+      "title": "回云",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "回云.txt",
+      "contents": "原来别后，\n你的青春，和那\n初春的一个下午\n一直，\n一去不返\n\n纵今我已苍桑\n依然不肯忘记\n那个年轻的背影\n渐渐的消失在\n我的路上\n\n一直啊不肯错过\n每一朵\n回头的云\n始终和山重逢\n\n2014/12/15, 10:13 AM\n",
+      "id": "poetic__published__回云__index",
+      "path": "poetic/published/回云",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "回云"
     },
     {
       "title": "发现诗",
@@ -1434,25 +1567,6 @@
       "directory": "poetic",
       "category": "",
       "slug": "发现诗"
-    },
-    {
-      "title": "回云",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "回云.txt",
-      "contents": "原来别后，\n你的青春，和那\n初春的一个下午\n一直，\n一去不返\n\n纵今我已苍桑\n依然不肯忘记\n那个年轻的背影\n渐渐的消失在\n我的路上\n\n一直啊不肯错过\n每一朵\n回头的云\n始终和山重逢\n\n2014/12/15, 10:13 AM\n",
-      "id": "poetic__published__回云__index",
-      "path": "poetic/published/回云",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "回云"
     },
     {
       "title": "壁画",
@@ -1530,43 +1644,6 @@
       "slug": "如一首歌"
     },
     {
-      "title": "山士",
-      "excerpt": "如果你問我\n為什麼世間會有詩\n其實 我也不知道\n",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "山士.txt",
-      "layout": "flat",
-      "headImage": {
-        "file": "neil-thomas-aDjw7Uqmz2Y-unsplash.jpg",
-        "alt": "sample alt",
-        "caption": "<span>Photo by <a href=\"https://unsplash.com/@neilmarkthomas?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Neil Thomas</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
-        "cellClass": "large-10"
-      },
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "neil-thomas-aDjw7Uqmz2Y-unsplash.jpg"
-      },
-      "contents": "如果你問我\n為什麼世間會有詩\n其實，我也不知道\n\n詩好像是自生自長\n就好像河岸的蘆葦\n不知怎麼會長在兩岸\n常牽伴著流水\n\n如果你再問我\n為什麼偏偏要寫詩\n其實，我也不明白\n\n寫詩好像是神差鬼使\n就好像我們昨日的籬魂\n常在籬前催促逼人\n一如我們\n剛剛道別那時候\n\n也好像昨日的初魂\n常在我們初相遇的城市\n搬雲抪雨，不肯離去\n一如我們\n初初相識那時候\n\n宇宙本來就是一首詩\n自古以来一直在尋找\n那個路上的浪者\n\n要寫者在寒夜仰望時候\n在浩瀚的星海，\n發現宇宙\n在宇宙變動滅亡之前，\n發現詩\n\n要山士在大雨初停時候\n能夠在濡濕蒼綠的庭院裡，\n發現\n一首詩\n\n06.10.2016, 02:47 am, Thursday\n",
-      "id": "poetic__published__山士__index",
-      "path": "poetic/published/山士",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "山士"
-    },
-    {
       "title": "山海記",
       "excerpt": "曾經你是山   我是海\n你曾經住在   那故鄉深山\n我曾經住在   那他鄉海港\n",
       "fullSplitHeadLeft": {
@@ -1602,6 +1679,43 @@
       "directory": "poetic",
       "category": "",
       "slug": "山海記"
+    },
+    {
+      "title": "山士",
+      "excerpt": "如果你問我\n為什麼世間會有詩\n其實 我也不知道\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "山士.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "neil-thomas-aDjw7Uqmz2Y-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@neilmarkthomas?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Neil Thomas</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-10"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "neil-thomas-aDjw7Uqmz2Y-unsplash.jpg"
+      },
+      "contents": "如果你問我\n為什麼世間會有詩\n其實，我也不知道\n\n詩好像是自生自長\n就好像河岸的蘆葦\n不知怎麼會長在兩岸\n常牽伴著流水\n\n如果你再問我\n為什麼偏偏要寫詩\n其實，我也不明白\n\n寫詩好像是神差鬼使\n就好像我們昨日的籬魂\n常在籬前催促逼人\n一如我們\n剛剛道別那時候\n\n也好像昨日的初魂\n常在我們初相遇的城市\n搬雲抪雨，不肯離去\n一如我們\n初初相識那時候\n\n宇宙本來就是一首詩\n自古以来一直在尋找\n那個路上的浪者\n\n要寫者在寒夜仰望時候\n在浩瀚的星海，\n發現宇宙\n在宇宙變動滅亡之前，\n發現詩\n\n要山士在大雨初停時候\n能夠在濡濕蒼綠的庭院裡，\n發現\n一首詩\n\n06.10.2016, 02:47 am, Thursday\n",
+      "id": "poetic__published__山士__index",
+      "path": "poetic/published/山士",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "山士"
     },
     {
       "title": "开花的树",
@@ -1661,25 +1775,6 @@
       "slug": "旅途"
     },
     {
-      "title": "时光",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "时光.txt",
-      "contents": "那天空 不管这世间的故事演变成怎样的样子\n不管时光怎样把年月拖得如何长远\n依然 会如新重复 又重复\n那令人怀念的 蔚蓝\n\n唯有我们的心情 不能重复\n那初初相遇的激悦 终究\n败给那永不言输的时光 留给岁月来哭泣\n我们永不再重复的 曾经\n\n13.05.2003， 11：04 pm，星期二。\n",
-      "id": "poetic__published__时光__index",
-      "path": "poetic/published/时光",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "时光"
-    },
-    {
       "title": "月下读诗",
       "excerpt": "",
       "fullSplitHeadLeft": {
@@ -1697,6 +1792,25 @@
       "directory": "poetic",
       "category": "",
       "slug": "月下读诗"
+    },
+    {
+      "title": "时光",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "时光.txt",
+      "contents": "那天空 不管这世间的故事演变成怎样的样子\n不管时光怎样把年月拖得如何长远\n依然 会如新重复 又重复\n那令人怀念的 蔚蓝\n\n唯有我们的心情 不能重复\n那初初相遇的激悦 终究\n败给那永不言输的时光 留给岁月来哭泣\n我们永不再重复的 曾经\n\n13.05.2003， 11：04 pm，星期二。\n",
+      "id": "poetic__published__时光__index",
+      "path": "poetic/published/时光",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "时光"
     },
     {
       "title": "来世",
@@ -1964,6 +2078,43 @@
       "slug": "絕筆"
     },
     {
+      "title": "藤条",
+      "excerpt": "如果你问我哥姐，我妈最疼是谁，大家都会一致相同答是我。可是，我就不认同。\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "藤条.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "jonathan-pielmayer-gDrUY7QUeng-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "Photo by <a href=\"https://unsplash.com/@jonathanpielmayer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Jonathan Pielmayer</a> on <a href=\"https://unsplash.com/s/photos/wooden-wall?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n",
+        "cellClass": "large-8"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "jonathan-pielmayer-gDrUY7QUeng-unsplash.jpg"
+      },
+      "contents": "如果你问我哥姐，我妈最疼是谁，大家都会一致相同答是我。可是，我就不认同。记忆中，挨骂挨藤条最多的好像是我。那壁上挂着的藤条，好像永远是为我而存在的。不管我偷扔掉多少根，妈都会下山在巴刹买过新的挂回去。不然就会在庭前草中寻获，或者在床底发现好几根我偷藏起来的旧藤条。\r\n\r\n如果你问我，谁最懂掏我妈欢心，我能告诉你，那肯定是我。小时我是不会读书的。读字有点障碍，上行接不了下一行。那个上门补习老师来了一两次就摇头向妈辞职。所以一来我就不爱读书，考试都是在最后几名。直到有一次考算数做弊得高分，妈在不知情下特别高兴了好久好几个周。我从来不告诉妈那是作弊的，妈从来不开心，我不想遭踏了那个难得的小快乐。可是我一直耿耿于怀，所以仅有那一次作弊就没再重复了。上了中学努力地在很多课题轻易的考获高分，领回的成绩让妈高兴之后就算大功告成了，反而我常帮同学作弊。\r\n\r\n然而，如果你问我妈，谁缺席她的丧礼，我是千夫所指了。小时我的行动没哥姐那么自由。有很多地方我是不获允许去的，很多朋友不可交，很多话不可说。所以，我只懂上山下山，上学回家。其他的地方我都不懂，也不会去。也许这样的成长中，我常有抱怨，好像等待越狱的笼中鸟。于是上大学时候就去了最远的那间，隔着一个海洋，毕业后去了那个比较远的大城市。之后去了更远的他乡，一去就去了很久，过了好多的春夏秋冬，为了那些是非成败，为了啊不负母亲的等待。直到最后几次跟妈通话，妈无奈调侃的说，“回来时要给你吃藤条”。然后最后一次拨电她没接，之后我们就没再通话了。当我和旧山重逢，回到那最初的地方，只能握住妈用过的手机，她戴过的一副眼镜，她依靠过的拐杖轮椅，还有，还有，一根藤条。原来，生命是握不住的，是一条一去不返的河流。就好像，她也曾握不住，那个一去不返的我。再见时候不过是风花雪月。\r\n\r\n01.09.2021, 05:10 am, Wed.\r\n",
+      "id": "poetic__published__藤条__index",
+      "path": "poetic/published/藤条",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "藤条"
+    },
+    {
       "title": "蟑螂",
       "excerpt": "也許你已轉世\n長成一朵紅花\n在庭院裡等我走過\n",
       "fullSplitHeadLeft": {
@@ -2001,25 +2152,6 @@
       "slug": "蟑螂"
     },
     {
-      "title": "許望",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "許望.txt",
-      "contents": "我希望我是沙灘上 最美麗的背殼\n等你把我撿起 帶走\n我希望我是黑夜裡 那顆最明亮的星兒\n等你把我發現 擁抱\n\n我向紅紅的太陽 許了一千次的盼望\n我向嘯嘯的夜神 許了一萬次的盼望\n然而\n太陽都把我曬得狼狽\n夜神都把我冷的不堪\n\n原來 我皆不是\n這島上最美麗的珊瑚\n更不是 那永恆皎潔的明月\n只能望著瀟灑的你 不帶走\n我任何一片的 雲彩\n\n20.08.2002，星期二。\n",
-      "id": "poetic__published__許望__index",
-      "path": "poetic/published/許望",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "許望"
-    },
-    {
       "title": "诗的成因",
       "excerpt": "",
       "fullSplitHeadLeft": {
@@ -2039,6 +2171,43 @@
       "slug": "诗的成因"
     },
     {
+      "title": "許望",
+      "excerpt": "我希望我是沙灘上 最美麗的背殼\n等你把我撿起 帶走\n我希望我是黑夜裡 那顆最明亮的星兒\n等你把我發現 擁抱\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "許望.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "jonathan-borba-fQpzOJXijB4-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@jonathanborba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Jonathan Borba</a> on <a href=\"https://unsplash.com/collections/92470517/beach?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-8"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "jonathan-borba-fQpzOJXijB4-unsplash.jpg"
+      },
+      "contents": "我希望我是沙灘上 最美麗的背殼\n等你把我撿起 帶走\n我希望我是黑夜裡 那顆最明亮的星兒\n等你把我發現 擁抱\n\n我向紅紅的太陽 許了一千次的盼望\n我向嘯嘯的夜神 許了一萬次的盼望\n然而\n太陽都把我曬得狼狽\n夜神都把我冷的不堪\n\n原來 我皆不是\n這島上最美麗的珊瑚\n更不是 那永恆皎潔的明月\n只能望著瀟灑的你 不帶走\n我任何一片的 雲彩\n\n20.08.2002，星期二。\n",
+      "id": "poetic__published__許望__index",
+      "path": "poetic/published/許望",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "許望"
+    },
+    {
       "title": "車票",
       "excerpt": "",
       "fullSplitHeadLeft": {
@@ -2056,25 +2225,6 @@
       "directory": "poetic",
       "category": "",
       "slug": "車票"
-    },
-    {
-      "title": "逃亡",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "逃亡.txt",
-      "contents": "原來故鄉，\n是一個\n遙遠的地方\n\n就好像，\n當我住在海港\n故鄉就在\n遙遠的山上\n\n就好像，\n當我住在山上\n故鄉就在\n遙遠的海港\n\n更好像，\n我正在月下逃亡\n故鄉就在你的墳上\n在那遙遠的\n山崗上\n\n05.02.2015, 09:56pm, Thu.\n",
-      "id": "poetic__published__逃亡__index",
-      "path": "poetic/published/逃亡",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "逃亡"
     },
     {
       "title": "追殺一隻叫做現實的野獸",
@@ -2112,6 +2262,25 @@
       "directory": "poetic",
       "category": "",
       "slug": "追殺一隻叫做現實的野獸"
+    },
+    {
+      "title": "逃亡",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "逃亡.txt",
+      "contents": "原來故鄉，\n是一個\n遙遠的地方\n\n就好像，\n當我住在海港\n故鄉就在\n遙遠的山上\n\n就好像，\n當我住在山上\n故鄉就在\n遙遠的海港\n\n更好像，\n我正在月下逃亡\n故鄉就在你的墳上\n在那遙遠的\n山崗上\n\n05.02.2015, 09:56pm, Thu.\n",
+      "id": "poetic__published__逃亡__index",
+      "path": "poetic/published/逃亡",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "逃亡"
     },
     {
       "title": "雨城",
@@ -2816,8 +2985,8 @@
         "type": "article",
         "image": null
       },
-      "contents": "<p>A collection of art stuff I make from sketching, photography, to moving images.</p>\n",
-      "excerpt": "<p>A collection of art stuff I make from sketching, photography, to moving images.</p>",
+      "contents": "<p>A collection of art stuff I made from sketching, photography, to moving images.</p>\n",
+      "excerpt": "<p>A collection of art stuff I made from sketching, photography, to moving images.</p>",
       "id": "pages__published__art__index",
       "path": "pages/published/art",
       "type": "page",
@@ -2841,14 +3010,40 @@
         "type": "article",
         "image": null
       },
-      "contents": "<p>A collection of digital stuff I make from designing to coding.</p>\n",
-      "excerpt": "<p>A collection of digital stuff I make from designing to coding.</p>",
+      "contents": "<p>A collection of digital stuff I made from designing to coding.</p>\n",
+      "excerpt": "<p>A collection of digital stuff I made from designing to coding.</p>",
       "id": "pages__published__digital__index",
       "path": "pages/published/digital",
       "type": "page",
       "directory": "pages",
       "category": "",
       "slug": "digital"
+    },
+    {
+      "title": "Origins",
+      "subtitle": "Origins of Things",
+      "order": 6,
+      "slideItems": null,
+      "darkModeBgStyle": "background: #E53E87; background: -webkit-radial-gradient(circle at top left, #E53E87, #0B06C1); background: -moz-radial-gradient(circle at top left, #E53E87, #0B06C1); background: radial-gradient(circle at top left, #E53E87, #0B06C1);\n",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "<p>A collection of things — ideas, thoughts, quotes, books, posts, skills, and more, that I found, or made, and locked them in time — that have contributed to the things I create and could benefit you too.</p>\n",
+      "excerpt": "<p>A collection of things &#x2014; ideas, thoughts, quotes, books, posts, skills, and more, that I found, or made, and locked them in time &#x2014; that have contributed to the things I create and could benefit you too.</p>",
+      "id": "pages__published__origins__index",
+      "path": "pages/published/origins",
+      "type": "page",
+      "directory": "pages",
+      "category": "",
+      "slug": "origins"
     },
     {
       "title": "Home",
@@ -2899,32 +3094,6 @@
       "slug": "home"
     },
     {
-      "title": "Origins",
-      "subtitle": "Origins of Things",
-      "order": 6,
-      "slideItems": null,
-      "darkModeBgStyle": "background: #E53E87; background: -webkit-radial-gradient(circle at top left, #E53E87, #0B06C1); background: -moz-radial-gradient(circle at top left, #E53E87, #0B06C1); background: radial-gradient(circle at top left, #E53E87, #0B06C1);\n",
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": null
-      },
-      "contents": "<p>A collection of things — ideas, thoughts, quotes, books, posts, skills, and more, that I found, or made, and locked them in time — that have contributed to the things I create and could benefit you too.</p>\n",
-      "excerpt": "<p>A collection of things &#x2014; ideas, thoughts, quotes, books, posts, skills, and more, that I found, or made, and locked them in time &#x2014; that have contributed to the things I create and could benefit you too.</p>",
-      "id": "pages__published__origins__index",
-      "path": "pages/published/origins",
-      "type": "page",
-      "directory": "pages",
-      "category": "",
-      "slug": "origins"
-    },
-    {
       "title": "Poetic",
       "order": 5,
       "slideItems": null,
@@ -2940,8 +3109,8 @@
         "type": "article",
         "image": null
       },
-      "contents": "<p>A collection of poetic notions I come up with — in words.</p>\n",
-      "excerpt": "<p>A collection of poetic notions I come up with &#x2014; in words.</p>",
+      "contents": "<p>A collection of poetic notions that I came up with — in words.</p>\n",
+      "excerpt": "<p>A collection of poetic notions that I came up with &#x2014; in words.</p>",
       "id": "pages__published__poetic__index",
       "path": "pages/published/poetic",
       "type": "page",
@@ -3374,7 +3543,7 @@
       "adImage": {
         "file": "B12938_Cover_Prefinal_AM-1.jpg",
         "title": "Hands-on Nuxt.js Web Development",
-        "link": "https://amzn.to/2ZHtvgh",
+        "link": "https://www.packtpub.com/product/hands-on-nuxt-js-web-development/9781789952698",
         "caption": "Hands-on Nuxt.js Web Development: Build universal and static-generated Vue.js applications using Nuxt.js – by Lau Tiam Kok\n",
         "cellClass": "medium-6",
         "figcaptionGridClass": "small-padding-collapse",
@@ -3742,6 +3911,53 @@
       "slug": "the-most-beautiful-place"
     },
     {
+      "title": "Time doesn't matter",
+      "createdOn": "2021-05-29T16:51:00.000Z",
+      "excerpt": "Time doesn't matter.\nLife does.\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "time",
+        "life",
+        "impermanence"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "jean-wimmerlin-FNdMhI_ey2w-unsplash-cover.jpg",
+        "imgCaption": "Photo by <a href=\"https://unsplash.com/@jwimmerli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">jean wimmerlin</a> on <a href=\"https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "jean-wimmerlin-FNdMhI_ey2w-unsplash.jpg",
+        "imgCaption": "Photo by <a href=\"https://unsplash.com/@jwimmerli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">jean wimmerlin</a> on <a href=\"https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "jean-wimmerlin-FNdMhI_ey2w-unsplash.jpg"
+      },
+      "contents": "<p>Time doesn&#39;t matter.\nLife does.</p>\n",
+      "id": "origins__posts__published__time-does-not-matter__index",
+      "path": "origins/posts/published/time-does-not-matter",
+      "type": "origin",
+      "directory": "origins",
+      "category": "posts",
+      "slug": "time-does-not-matter"
+    },
+    {
       "title": "Virus",
       "createdOn": "2020-03-19T19:22:00.000Z",
       "excerpt": "All viruses want to live too. They once were happily living with animals in the wilderness.\n",
@@ -3923,6 +4139,54 @@
       "directory": "origins",
       "category": "posts",
       "slug": "worlds-end"
+    },
+    {
+      "title": "关口",
+      "createdOn": "2021-01-02T08:40:00.000Z",
+      "excerpt": "曾经我有一本小圣经，我从马来西亚带去荷兰，再带进伦敦，再搭七八小时的巴士，披星载月往普利茅斯带去。。。\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "impermanence"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "hao-han-iWh8vVPMkp0-unsplash-cover.jpg",
+        "imgCaption": ""
+      },
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "contentClass": "font-size-base"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "hao-han-iWh8vVPMkp0-unsplash.jpg",
+        "bgStyle": "'background-position': 'bottom center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@h520128583?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">HAO HAN</a> on <a href=\"https://unsplash.com/collections/11645368/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "hao-han-iWh8vVPMkp0-unsplash.jpg"
+      },
+      "contents": "<p>曾经我有一本小圣经，我从马来西亚带去荷兰，再带进伦敦，再搭七八小时的巴士，披星载月往普利茅斯带去。之后几年东搬西迁后那本圣经就不知所踪了。以前我的行李就是这样，而且大到很好笑，几乎一半是装了许多非需品，打开来时候，很多旧人旧事就会从心中紛紛涌现，跟我一起过关口。现在偶尔还会收集这些可以招魂唤雨的小东西。若干年后，多数又会一一被弄丢了。然后偶尔会忽然想起，曾经好像拥有过那一个东西，却不能完全记其貌。就好像，以前要牢记的旧人旧事，到最后还是不能完全记住，仍然会逐一消失，只记得当时车窗外满天繁星，月光如水，流进我的窗中。如果不下车一直往前去的话，真的可以继续搭到天涯海角。</p>\n",
+      "id": "origins__posts__published__关口__index",
+      "path": "origins/posts/published/关口",
+      "type": "origin",
+      "directory": "origins",
+      "category": "posts",
+      "slug": "关口"
     },
     {
       "title": "太阳都会老",
@@ -4111,7 +4375,8 @@
       },
       "layout": "split",
       "fullSplitHeadLeft": {
-        "cellClass": "large-8"
+        "cellClass": "large-8",
+        "contentClass": "font-size-large"
       },
       "fullSplitHeadRight": {
         "bgImage": "pic-03.jpg",
@@ -4997,6 +5262,66 @@
       "slug": "this-is-time-familiar-and-intimate"
     },
     {
+      "title": "The Poetics of Space",
+      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
+      "createdOn": "2019-05-01T01:20:00.000Z",
+      "tags": [
+        "gastonbachelard",
+        "thepoeticsofspace"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "bgStyle": "'background-position': 'bottom center'\n"
+      },
+      "coverImage": {
+        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "title": "Sample Title"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "book-the-poetics-of-space.jpg",
+        "title": "The best search engine for privacy",
+        "link": "https://amzn.to/307aen8",
+        "caption": "",
+        "cellClass": "medium-4",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index",
+      "path": "origins/quotes/published/we-are-unable-to-relive-duration-that-has-been-destroyed",
+      "type": "origin",
+      "directory": "origins",
+      "category": "quotes",
+      "slug": "we-are-unable-to-relive-duration-that-has-been-destroyed"
+    },
+    {
       "title": "About Time",
       "createdOn": "2020-06-18T06:04:00.000Z",
       "excerpt": "\"Time after time, we have never been anything other than collaborators with the universe...\n",
@@ -5090,66 +5415,6 @@
       "slug": "time-after-time"
     },
     {
-      "title": "The Poetics of Space",
-      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
-      "createdOn": "2019-05-01T01:20:00.000Z",
-      "tags": [
-        "gastonbachelard",
-        "thepoeticsofspace"
-      ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8",
-        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "bgStyle": "'background-position': 'bottom center'\n"
-      },
-      "coverImage": {
-        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "title": "Sample Title"
-      },
-      "coverTitle": {
-        "sectionClass": null,
-        "headerClass": null,
-        "bgImage": null,
-        "bgStyle": null
-      },
-      "adImage": {
-        "file": "book-the-poetics-of-space.jpg",
-        "title": "The best search engine for privacy",
-        "link": "https://amzn.to/307aen8",
-        "caption": "",
-        "cellClass": "medium-4",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index",
-      "path": "origins/quotes/published/we-are-unable-to-relive-duration-that-has-been-destroyed",
-      "type": "origin",
-      "directory": "origins",
-      "category": "quotes",
-      "slug": "we-are-unable-to-relive-duration-that-has-been-destroyed"
-    },
-    {
       "title": "Big Bang",
       "createdOn": "2020-08-02T12:29:00.000Z",
       "excerpt": "\"What was God doing before He created the Universe? Before He created Heaven and Earth...\n",
@@ -5214,6 +5479,130 @@
     }
   ],
   "art": [
+    {
+      "title": "Dust",
+      "year": 2008,
+      "excerpt": "What is it for when the complexity of being reduces into atoms of dust in science, philosophy, arts, and poetry? - LTK, 2003.\n",
+      "order": 1,
+      "tags": [
+        "artbook"
+      ],
+      "coverImage": {
+        "file": "Dust_00.jpg",
+        "title": "Dust",
+        "path": null
+      },
+      "listImages": [
+        {
+          "file": "Dust_01.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_02.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_03.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_04.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_05.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_06.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_07.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_08.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_09.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_10.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_11.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_12.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_13.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_14.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_15.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_16.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_17.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_18.jpg",
+          "title": "Dust"
+        }
+      ],
+      "relatedPages": [
+        {
+          "link": "/art/place",
+          "title": "Place (book)"
+        },
+        {
+          "link": "/poetic/ghost",
+          "title": "Ghost (text)"
+        }
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "Dust_00.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Dust_00_OG.jpg"
+      },
+      "contents": "<p>&quot;Dust&quot; is a piece of writing on our traces and memories from the palpable place to the extended / metaphysical place - digital space. Made into 1000 copies of book to be discovered in random locations in the city of Plymouth. Published by Plymouth Arts Centre as part of the Artists and Curators Residency Programme, funded by Arts Council England SW and Plymouth City Council. A PLACE is co-published as its companion book in a new series of artists’ books published by Portfolio Five Ltd. in association with Proof magazine.</p>\n",
+      "id": "art__published__dust__index",
+      "path": "art/published/dust",
+      "type": "art",
+      "directory": "art",
+      "category": "",
+      "slug": "dust"
+    },
     {
       "title": "A Place",
       "year": 2008,
@@ -5288,119 +5677,6 @@
       "directory": "art",
       "category": "",
       "slug": "place"
-    },
-    {
-      "title": "Rising",
-      "year": "1998 - 1999",
-      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
-      "order": 2,
-      "tags": [
-        "sketching",
-        "people"
-      ],
-      "coverImage": {
-        "file": "Rising_01.jpg",
-        "title": "Rising"
-      },
-      "listImages": [
-        {
-          "file": "Rising_01.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_05.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_06.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_07.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_08.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_09.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_10.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_11.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_12.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_13.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_14.jpg",
-          "title": "Rising"
-        }
-      ],
-      "layout": "single",
-      "headImages": [
-        {
-          "file": "Rising_01.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Rising_08.jpg"
-      },
-      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
-      "id": "art__published__rising__index",
-      "path": "art/published/rising",
-      "type": "art",
-      "directory": "art",
-      "category": "",
-      "slug": "rising"
     },
     {
       "title": "Looking",
@@ -5655,110 +5931,99 @@
       "slug": "twenties"
     },
     {
-      "title": "Dust",
-      "year": 2008,
-      "excerpt": "What is it for when the complexity of being reduces into atoms of dust in science, philosophy, arts, and poetry? - LTK, 2003.\n",
-      "order": 1,
+      "title": "Rising",
+      "year": "1998 - 1999",
+      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
+      "order": 2,
       "tags": [
-        "artbook"
+        "sketching",
+        "people"
       ],
       "coverImage": {
-        "file": "Dust_00.jpg",
-        "title": "Dust",
-        "path": null
+        "file": "Rising_01.jpg",
+        "title": "Rising"
       },
       "listImages": [
         {
-          "file": "Dust_01.jpg",
-          "title": "Dust"
+          "file": "Rising_01.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_02.jpg",
-          "title": "Dust"
+          "file": "Rising_02.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_03.jpg",
-          "title": "Dust"
+          "file": "Rising_03.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_04.jpg",
-          "title": "Dust"
+          "file": "Rising_04.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_05.jpg",
-          "title": "Dust"
+          "file": "Rising_05.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_06.jpg",
-          "title": "Dust"
+          "file": "Rising_06.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_07.jpg",
-          "title": "Dust"
+          "file": "Rising_07.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_08.jpg",
-          "title": "Dust"
+          "file": "Rising_08.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_09.jpg",
-          "title": "Dust"
+          "file": "Rising_09.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_10.jpg",
-          "title": "Dust"
+          "file": "Rising_10.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_11.jpg",
-          "title": "Dust"
+          "file": "Rising_11.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_12.jpg",
-          "title": "Dust"
+          "file": "Rising_12.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_13.jpg",
-          "title": "Dust"
+          "file": "Rising_13.jpg",
+          "title": "Rising"
         },
         {
-          "file": "Dust_14.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_15.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_16.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_17.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_18.jpg",
-          "title": "Dust"
+          "file": "Rising_14.jpg",
+          "title": "Rising"
         }
       ],
-      "relatedPages": [
+      "layout": "single",
+      "headImages": [
         {
-          "link": "/art/place",
-          "title": "Place (book)"
+          "file": "Rising_01.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
         },
         {
-          "link": "/poetic/ghost",
-          "title": "Ghost (text)"
+          "file": "Rising_02.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
         }
       ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "Dust_00.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
       "meta": {
         "title": null,
         "description": null,
@@ -5768,15 +6033,15 @@
         "title": null,
         "description": null,
         "type": "article",
-        "image": "Dust_00_OG.jpg"
+        "image": "Rising_08.jpg"
       },
-      "contents": "<p>&quot;Dust&quot; is a piece of writing on our traces and memories from the palpable place to the extended / metaphysical place - digital space. Made into 1000 copies of book to be discovered in random locations in the city of Plymouth. Published by Plymouth Arts Centre as part of the Artists and Curators Residency Programme, funded by Arts Council England SW and Plymouth City Council. A PLACE is co-published as its companion book in a new series of artists’ books published by Portfolio Five Ltd. in association with Proof magazine.</p>\n",
-      "id": "art__published__dust__index",
-      "path": "art/published/dust",
+      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
+      "id": "art__published__rising__index",
+      "path": "art/published/rising",
       "type": "art",
       "directory": "art",
       "category": "",
-      "slug": "dust"
+      "slug": "rising"
     },
     {
       "title": "Waiting",
@@ -5914,6 +6179,147 @@
       "slug": "hands-on-nuxtjs-web-development"
     },
     {
+      "title": "Starry Nights",
+      "createdOn": "2012-12-26T17:33:00.000Z",
+      "excerpt": "I know everything ends the same: I still try to remember your face...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "jake-weirick-Zu6wtAvLWgE-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/posts/starry-nights",
+      "contents": "",
+      "id": "feeds__posts__published__starry-nights__index",
+      "path": "feeds/posts/published/starry-nights",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "starry-nights"
+    },
+    {
+      "title": "The Most Beautiful Place",
+      "createdOn": "2007-06-06T22:12:00.000Z",
+      "excerpt": "The most beautiful place is never in the sky nor is too far away, it is the face where...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/posts/the-most-beautiful-place",
+      "contents": "",
+      "id": "feeds__posts__published__the-most-beautiful-place__index",
+      "path": "feeds/posts/published/the-most-beautiful-place",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "the-most-beautiful-place"
+    },
+    {
+      "title": "关口",
+      "createdOn": "2021-01-02T08:40:00.000Z",
+      "excerpt": "曾经我有一本小圣经，我从马来西亚带去荷兰，再带进伦敦，再搭七八小时的巴士，披星载月往普利茅斯带去。。。\n",
+      "coverImage": {
+        "file": "hao-han-iWh8vVPMkp0-unsplash-feed.jpg",
+        "title": "关口"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "hao-han-iWh8vVPMkp0-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/posts/关口",
+      "contents": "",
+      "id": "feeds__posts__published__关口__index",
+      "path": "feeds/posts/published/关口",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "关口"
+    },
+    {
+      "title": "Virus",
+      "createdOn": "2020-03-19T19:22:00.000Z",
+      "excerpt": "All viruses want to live too. They once were happily...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "isaac-quesada-3afJNfKkbH8-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/posts/virus",
+      "contents": "",
+      "id": "feeds__posts__published__virus__index",
+      "path": "feeds/posts/published/virus",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "virus"
+    },
+    {
+      "title": "太阳都会老",
+      "createdOn": "2020-05-25T09:42:00.000Z",
+      "excerpt": "太阳都会老，莫说凡人。月亮也会老，莫说青春...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "ingmar-aNeAaXWr2fg-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'center center'\n"
+      },
+      "link": "/origins/posts/太阳都会老",
+      "contents": "",
+      "id": "feeds__posts__published__太阳都会老__index",
+      "path": "feeds/posts/published/太阳都会老",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "太阳都会老"
+    },
+    {
+      "title": "饶人",
+      "createdOn": "2019-12-17T12:51:00.000Z",
+      "excerpt": "原来，无论藏到任何最不闪亮的城市，你仍然不饶人...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "pic-03-feed.jpg",
+        "bgStyle": "'background-position': 'center center'\n"
+      },
+      "link": "/origins/posts/饶人",
+      "contents": "",
+      "id": "feeds__posts__published__饶人__index",
+      "path": "feeds/posts/published/饶人",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "饶人"
+    },
+    {
+      "title": "Truce",
+      "createdOn": "2021-08-01T14:24:00.000Z",
+      "excerpt": "Once on a sunny afternoon when I was a kid...\n",
+      "coverImage": {
+        "file": "invisiblepower-12VIV1wnG98-unsplash-feed.jpg",
+        "title": "Truce"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "invisiblepower-12VIV1wnG98-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/truce",
+      "contents": "",
+      "id": "feeds__poetic__published__Truce__index",
+      "path": "feeds/poetic/published/Truce",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "poetic",
+      "slug": "truce"
+    },
+    {
       "title": "A Cat From My Next Door",
       "createdOn": "2020-08-09T14:24:00.000Z",
       "excerpt": "You are not my pet\nBut you live in my house more...\n",
@@ -5937,6 +6343,29 @@
       "slug": "a-cat-from-my-next-door"
     },
     {
+      "title": "Wander",
+      "createdOn": "2021-03-19T08:18:00.000Z",
+      "excerpt": "I have freed myself from the prison I built /\nDid you know?\n",
+      "coverImage": {
+        "file": "elijah-hiett-yFPCUWdJ-Kw-unsplash-feed.jpg",
+        "title": "wander"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "elijah-hiett-yFPCUWdJ-Kw-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/wander",
+      "contents": "",
+      "id": "feeds__poetic__published__wander__index",
+      "path": "feeds/poetic/published/wander",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "poetic",
+      "slug": "wander"
+    },
+    {
       "title": "半生",
       "createdOn": "2020-08-13T14:24:00.000Z",
       "excerpt": "此生堪惊 为了那群银河\n为了那颗死去的星星\n为了天长地久...\n",
@@ -5956,23 +6385,27 @@
       "slug": "半生"
     },
     {
-      "title": "山海記",
-      "createdOn": "2020-08-09T14:24:00.000Z",
-      "excerpt": "曾經你是山   我是海\n你曾經住在   那故鄉深山\n我曾經住在   那他鄉海港...\n",
+      "title": "养猫",
+      "createdOn": "2020-12-20T00:09:00.000Z",
+      "excerpt": "别人养猫\n都会养了好几年\n我养的猫\n都不过一秋\n最短不过两三周\n",
+      "coverImage": {
+        "file": "kazuky-akayashi-xJ7m4K0-c_o-unsplash-feed.jpg",
+        "title": "养猫"
+      },
       "coverTitle": {
         "sectionClass": "square-container flex-center text-center image-background",
         "headerClass": "dark-mode",
-        "bgImage": "heiswayi-nrird-K3Pcz4kk63o-unsplash-feed.jpg",
+        "bgImage": "kazuky-akayashi-xJ7m4K0-c_o-unsplash-feed.jpg",
         "bgStyle": "'background-position': 'top center'\n"
       },
-      "link": "/poetic/山海記",
+      "link": "/poetic/养猫",
       "contents": "",
-      "id": "feeds__poetic__published__山海記__index",
-      "path": "feeds/poetic/published/山海記",
+      "id": "feeds__poetic__published__养猫__index",
+      "path": "feeds/poetic/published/养猫",
       "type": "feed",
       "directory": "feeds",
       "category": "poetic",
-      "slug": "山海記"
+      "slug": "养猫"
     },
     {
       "title": "发现诗",
@@ -5994,6 +6427,25 @@
       "slug": "发现诗"
     },
     {
+      "title": "山海記",
+      "createdOn": "2020-08-09T14:24:00.000Z",
+      "excerpt": "曾經你是山   我是海\n你曾經住在   那故鄉深山\n我曾經住在   那他鄉海港...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "heiswayi-nrird-K3Pcz4kk63o-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/山海記",
+      "contents": "",
+      "id": "feeds__poetic__published__山海記__index",
+      "path": "feeds/poetic/published/山海記",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "poetic",
+      "slug": "山海記"
+    },
+    {
       "title": "浪者",
       "createdOn": "2020-03-31T14:24:00.000Z",
       "excerpt": "我所思念的\n和我所未谋面的\n都是我故乡...\n",
@@ -6013,6 +6465,29 @@
       "slug": "浪者"
     },
     {
+      "title": "A Cat From My Next Door",
+      "createdOn": "2021-09-01T14:24:00.000Z",
+      "excerpt": "如果你问我哥姐，我妈最疼是谁，大家都会一致相同答是我。可是，我就不认同。。。\n",
+      "coverImage": {
+        "file": "jonathan-pielmayer-gDrUY7QUeng-unsplash-feed.jpg",
+        "title": "藤条"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "jonathan-pielmayer-gDrUY7QUeng-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/藤条",
+      "contents": "",
+      "id": "feeds__poetic__published__藤条__index",
+      "path": "feeds/poetic/published/藤条",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "poetic",
+      "slug": "藤条"
+    },
+    {
       "title": "蟑螂",
       "createdOn": "2020-08-09T14:24:00.000Z",
       "excerpt": "也許你已轉世\n長成一朵紅花\n在庭院裡等我走過...\n",
@@ -6030,6 +6505,29 @@
       "directory": "feeds",
       "category": "poetic",
       "slug": "蟑螂"
+    },
+    {
+      "title": "許望",
+      "createdOn": "2020-12-20T00:09:00.000Z",
+      "excerpt": "我希望我是黑夜裡 那顆最明亮的星兒\n等你把我發現 擁抱\n",
+      "coverImage": {
+        "file": "jonathan-borba-fQpzOJXijB4-unsplash-feed.jpg",
+        "title": "許望"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "jonathan-borba-fQpzOJXijB4-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/許望",
+      "contents": "",
+      "id": "feeds__poetic__published__許望__index",
+      "path": "feeds/poetic/published/許望",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "poetic",
+      "slug": "許望"
     },
     {
       "title": "追殺一隻叫做現實的野獸",
@@ -6191,101 +6689,6 @@
       "directory": "feeds",
       "category": "quotes",
       "slug": "this-is-time-familiar-and-intimate"
-    },
-    {
-      "title": "Starry Nights",
-      "createdOn": "2012-12-26T17:33:00.000Z",
-      "excerpt": "I know everything ends the same: I still try to remember your face...\n",
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "jake-weirick-Zu6wtAvLWgE-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/posts/starry-nights",
-      "contents": "",
-      "id": "feeds__posts__published__starry-nights__index",
-      "path": "feeds/posts/published/starry-nights",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "posts",
-      "slug": "starry-nights"
-    },
-    {
-      "title": "The Most Beautiful Place",
-      "createdOn": "2007-06-06T22:12:00.000Z",
-      "excerpt": "The most beautiful place is never in the sky nor is too far away, it is the face where...\n",
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/posts/the-most-beautiful-place",
-      "contents": "",
-      "id": "feeds__posts__published__the-most-beautiful-place__index",
-      "path": "feeds/posts/published/the-most-beautiful-place",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "posts",
-      "slug": "the-most-beautiful-place"
-    },
-    {
-      "title": "Virus",
-      "createdOn": "2020-03-19T19:22:00.000Z",
-      "excerpt": "All viruses want to live too. They once were happily...\n",
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "isaac-quesada-3afJNfKkbH8-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/posts/virus",
-      "contents": "",
-      "id": "feeds__posts__published__virus__index",
-      "path": "feeds/posts/published/virus",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "posts",
-      "slug": "virus"
-    },
-    {
-      "title": "太阳都会老",
-      "createdOn": "2020-05-25T09:42:00.000Z",
-      "excerpt": "太阳都会老，莫说凡人。月亮也会老，莫说青春...\n",
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "ingmar-aNeAaXWr2fg-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'center center'\n"
-      },
-      "link": "/origins/posts/太阳都会老",
-      "contents": "",
-      "id": "feeds__posts__published__太阳都会老__index",
-      "path": "feeds/posts/published/太阳都会老",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "posts",
-      "slug": "太阳都会老"
-    },
-    {
-      "title": "饶人",
-      "createdOn": "2019-12-17T12:51:00.000Z",
-      "excerpt": "原来，无论藏到任何最不闪亮的城市，你仍然不饶人...\n",
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "pic-03-feed.jpg",
-        "bgStyle": "'background-position': 'center center'\n"
-      },
-      "link": "/origins/posts/饶人",
-      "contents": "",
-      "id": "feeds__posts__published__饶人__index",
-      "path": "feeds/posts/published/饶人",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "posts",
-      "slug": "饶人"
     }
   ]
 }

@@ -42,6 +42,7 @@ fontSizes:
 layout: split
 fullSplitHeadLeft:
   cellClass: large-8
+  contentClass: font-size-large
 fullSplitHeadRight:
   bgImage: pic-03.jpg
   bgStyle: >

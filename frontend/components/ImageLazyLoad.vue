@@ -1,5 +1,5 @@
 <template>
-  <img :data-src="src" class="loaded" />
+  <img :data-src="src" />
 </template>
 
 <script>
@@ -7,7 +7,7 @@ import lozad from 'lozad'
 
 export default {
   props: ['src'],
-  mounted() {
+  mounted () {
     // https://github.com/ApoorvSaxena/lozad.js/
     // https://markus.oberlehner.net/blog/lazy-loading-responsive-images-with-vue/
     // We initialize Lozad.js on the root

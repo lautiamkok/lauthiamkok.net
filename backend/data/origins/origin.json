@@ -42,7 +42,7 @@
       "adImage": {
         "file": "B12938_Cover_Prefinal_AM-1.jpg",
         "title": "Hands-on Nuxt.js Web Development",
-        "link": "https://amzn.to/2ZHtvgh",
+        "link": "https://www.packtpub.com/product/hands-on-nuxt-js-web-development/9781789952698",
         "caption": "Hands-on Nuxt.js Web Development: Build universal and static-generated Vue.js applications using Nuxt.js – by Lau Tiam Kok\n",
         "cellClass": "medium-6",
         "figcaptionGridClass": "small-padding-collapse",
@@ -380,6 +380,48 @@
       "id": "origins__posts__published__the-most-beautiful-place__index"
     },
     {
+      "title": "Time doesn't matter",
+      "createdOn": "2021-05-29T16:51:00.000Z",
+      "excerpt": "Time doesn't matter.\nLife does.\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "time",
+        "life",
+        "impermanence"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "jean-wimmerlin-FNdMhI_ey2w-unsplash-cover.jpg",
+        "imgCaption": "Photo by <a href=\"https://unsplash.com/@jwimmerli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">jean wimmerlin</a> on <a href=\"https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "jean-wimmerlin-FNdMhI_ey2w-unsplash.jpg",
+        "imgCaption": "Photo by <a href=\"https://unsplash.com/@jwimmerli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">jean wimmerlin</a> on <a href=\"https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "jean-wimmerlin-FNdMhI_ey2w-unsplash.jpg"
+      },
+      "contents": "<p>Time doesn&#39;t matter.\nLife does.</p>\n",
+      "id": "origins__posts__published__time-does-not-matter__index"
+    },
+    {
       "title": "Virus",
       "createdOn": "2020-03-19T19:22:00.000Z",
       "excerpt": "All viruses want to live too. They once were happily living with animals in the wilderness.\n",
@@ -541,6 +583,49 @@
       },
       "contents": "<p>Dreams find you even at the end of the world.</p>\n",
       "id": "origins__posts__published__worlds-end__index"
+    },
+    {
+      "title": "关口",
+      "createdOn": "2021-01-02T08:40:00.000Z",
+      "excerpt": "曾经我有一本小圣经，我从马来西亚带去荷兰，再带进伦敦，再搭七八小时的巴士，披星载月往普利茅斯带去。。。\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "impermanence"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "hao-han-iWh8vVPMkp0-unsplash-cover.jpg",
+        "imgCaption": ""
+      },
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "contentClass": "font-size-base"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "hao-han-iWh8vVPMkp0-unsplash.jpg",
+        "bgStyle": "'background-position': 'bottom center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@h520128583?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">HAO HAN</a> on <a href=\"https://unsplash.com/collections/11645368/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "hao-han-iWh8vVPMkp0-unsplash.jpg"
+      },
+      "contents": "<p>曾经我有一本小圣经，我从马来西亚带去荷兰，再带进伦敦，再搭七八小时的巴士，披星载月往普利茅斯带去。之后几年东搬西迁后那本圣经就不知所踪了。以前我的行李就是这样，而且大到很好笑，几乎一半是装了许多非需品，打开来时候，很多旧人旧事就会从心中紛紛涌现，跟我一起过关口。现在偶尔还会收集这些可以招魂唤雨的小东西。若干年后，多数又会一一被弄丢了。然后偶尔会忽然想起，曾经好像拥有过那一个东西，却不能完全记其貌。就好像，以前要牢记的旧人旧事，到最后还是不能完全记住，仍然会逐一消失，只记得当时车窗外满天繁星，月光如水，流进我的窗中。如果不下车一直往前去的话，真的可以继续搭到天涯海角。</p>\n",
+      "id": "origins__posts__published__关口__index"
     },
     {
       "title": "太阳都会老",
@@ -709,7 +794,8 @@
       },
       "layout": "split",
       "fullSplitHeadLeft": {
-        "cellClass": "large-8"
+        "cellClass": "large-8",
+        "contentClass": "font-size-large"
       },
       "fullSplitHeadRight": {
         "bgImage": "pic-03.jpg",
@@ -853,6 +939,59 @@
       "id": "origins__quotes__published__a-better-day-will-come__index"
     },
     {
+      "title": "Poetics  (Penguin Classics)",
+      "createdOn": "2020-08-03T13:30:00.000Z",
+      "excerpt": "\"All human beings by nature desire knowledge - a fundamental premise of Aristotle’s understanding of what it is to be human...\n",
+      "tags": [
+        "malcolmheath",
+        "poetics",
+        "aristotle"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "mario-klassen-dYswqbzvopw-unsplash-cover.jpg",
+        "bgStyle": ""
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> All human beings by nature desire knowledge.\n\n Aristotle in [Poetics  (Penguin Classics)](https://amzn.to/31cX0WH \"Poetics  (Penguin Classics)\"), by Malcolm Heath, 1996. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-5",
+        "bgImage": "mario-klassen-dYswqbzvopw-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@marioklassen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Mario Klassen</a> on <a href=\"https://unsplash.com/s/photos/study-room?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "51rxDzC74yL._SX321_BO1,204,203,200_.jpg",
+        "title": "Poetics  (Penguin Classics)",
+        "link": "https://amzn.to/31cX0WH",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> ‘All human beings by nature desire knowledge.’ This, the opening sentence\nof the *Metaphysics* (980aI), states a fundamental premise of Aristotle’s\nunderstanding of what it is to be human. He points out as evidence for his\nclaim the pleasure we take in looking at things and assimilating information\nthrough our senses. Sensation is of course shared with many other animals,\nand the accretion of sensation through memory into experience is shared\nwith some. But humans are unique in their capacity to derive universal\njudgements from their experiences. Animals act by instinct or acquired\nhabit, but humans are capable of acting from understanding: they know (as\na dog might know) *that* this is the thing to do in a certain situation, but they\nmay also understand (as a dog cannot) *why* it is the thing to do. This is what\nAristotle calls in Greek *tekhnê*; the word is conventionally translated as\n‘craft’, ‘skill’ or ‘art’, but Aristotle defines *tekhnê* as a productive capacity\ninformed by an understanding of its intrinsic rationale (cf. *Nicomachean\nEthics*, 1140a20f,). For Aristotle, the evolution of human culture is in large\npart the evolution of *tekhnê*. The first arts which human beings developed\nwere those concerned with producing the necessities of their existence.\nThen came recreational arts - those which, while not necessary, enhance the\nquality of human life. In due course, activities arose which simply satisfy\nthe desire to know (Aristotle’s example is mathematics). Ultimately,\nphilosophy emerged. Philosophy is rooted in the basic human instinct to\nseek knowledge: the world puzzles us and arouses our sense of wonder, and\nso prompts us to look for explanations. Philosophy is therefore the\nsophisticated descendant of primitive myth-making responses to an\nastonishing world.\n\nMalcolm Heath, [Poetics  (Penguin Classics)](https://amzn.to/31cX0WH \"Poetics  (Penguin Classics)\"), 1996. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "mario-klassen-dYswqbzvopw-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__all-human-beings-by-nature-desire-knowledge__index"
+    },
+    {
       "title": "And Our Faces, My Heart, Brief as Photos",
       "createdOn": "2020-06-18T15:46:00.000Z",
       "excerpt": "\"According to whether we are in the same place or separated one from the other, I know you twice...\n",
@@ -908,59 +1047,6 @@
       },
       "contents": "",
       "id": "origins__quotes__published__according-to-whether-we-are-in-the-same-place-or-separated-one__index"
-    },
-    {
-      "title": "Poetics  (Penguin Classics)",
-      "createdOn": "2020-08-03T13:30:00.000Z",
-      "excerpt": "\"All human beings by nature desire knowledge - a fundamental premise of Aristotle’s understanding of what it is to be human...\n",
-      "tags": [
-        "malcolmheath",
-        "poetics",
-        "aristotle"
-      ],
-      "coverTitle": {
-        "sectionClass": "square-container image-background",
-        "headerClass": "inline-gold",
-        "bgImage": "mario-klassen-dYswqbzvopw-unsplash-cover.jpg",
-        "bgStyle": ""
-      },
-      "layout": "single",
-      "fullSingleHead": {
-        "content": "> All human beings by nature desire knowledge.\n\n Aristotle in [Poetics  (Penguin Classics)](https://amzn.to/31cX0WH \"Poetics  (Penguin Classics)\"), by Malcolm Heath, 1996. {.line-before}\n",
-        "gridClass": "dark-mode image-background",
-        "cellClass": "large-5",
-        "bgImage": "mario-klassen-dYswqbzvopw-unsplash.jpg",
-        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@marioklassen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Mario Klassen</a> on <a href=\"https://unsplash.com/s/photos/study-room?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
-      },
-      "adImage": {
-        "file": "51rxDzC74yL._SX321_BO1,204,203,200_.jpg",
-        "title": "Poetics  (Penguin Classics)",
-        "link": "https://amzn.to/31cX0WH",
-        "caption": "",
-        "cellClass": "medium-6",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> ‘All human beings by nature desire knowledge.’ This, the opening sentence\nof the *Metaphysics* (980aI), states a fundamental premise of Aristotle’s\nunderstanding of what it is to be human. He points out as evidence for his\nclaim the pleasure we take in looking at things and assimilating information\nthrough our senses. Sensation is of course shared with many other animals,\nand the accretion of sensation through memory into experience is shared\nwith some. But humans are unique in their capacity to derive universal\njudgements from their experiences. Animals act by instinct or acquired\nhabit, but humans are capable of acting from understanding: they know (as\na dog might know) *that* this is the thing to do in a certain situation, but they\nmay also understand (as a dog cannot) *why* it is the thing to do. This is what\nAristotle calls in Greek *tekhnê*; the word is conventionally translated as\n‘craft’, ‘skill’ or ‘art’, but Aristotle defines *tekhnê* as a productive capacity\ninformed by an understanding of its intrinsic rationale (cf. *Nicomachean\nEthics*, 1140a20f,). For Aristotle, the evolution of human culture is in large\npart the evolution of *tekhnê*. The first arts which human beings developed\nwere those concerned with producing the necessities of their existence.\nThen came recreational arts - those which, while not necessary, enhance the\nquality of human life. In due course, activities arose which simply satisfy\nthe desire to know (Aristotle’s example is mathematics). Ultimately,\nphilosophy emerged. Philosophy is rooted in the basic human instinct to\nseek knowledge: the world puzzles us and arouses our sense of wonder, and\nso prompts us to look for explanations. Philosophy is therefore the\nsophisticated descendant of primitive myth-making responses to an\nastonishing world.\n\nMalcolm Heath, [Poetics  (Penguin Classics)](https://amzn.to/31cX0WH \"Poetics  (Penguin Classics)\"), 1996. {.line-before}\n"
-        }
-      ],
-      "advert": true,
-      "sponsor": true,
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "mario-klassen-dYswqbzvopw-unsplash.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__all-human-beings-by-nature-desire-knowledge__index"
     },
     {
       "title": "Humans",
@@ -1075,62 +1161,6 @@
       "id": "origins__quotes__published__animals-are-born-are-sentient-and-are-mortal-in-these-things-they-resemble-man__index"
     },
     {
-      "title": "Until the End of Time",
-      "createdOn": "2020-08-05T19:57:00.000Z",
-      "excerpt": "\"Eternity itself may forever lie beyond the reach of our equations, but\nour analyses have already revealed that the universe we have come to know is\ntransitory...\n",
-      "tags": [
-        "briangreene",
-        "untiltheendoftime",
-        "cosmology",
-        "time"
-      ],
-      "coverImage": {
-        "file": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash-cover.jpg",
-        "title": "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe"
-      },
-      "coverTitle": {
-        "headerClass": null
-      },
-      "layout": "single",
-      "fullSingleHead": {
-        "content": "> Eternity itself may forever lie beyond the reach of our equations, but\n  our analyses have already revealed that the universe we have come to know is\n  transitory.\n\nBrian Greene, [Until the End of Time](https://amzn.to/3idTQbU \"Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe\"), 2020. {.line-before}\n",
-        "gridClass": "dark-mode image-background",
-        "cellClass": "large-6",
-        "bgImage": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash.jpg",
-        "bgStyle": "'background-position': 'top center'\n",
-        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@sandalkuilang?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Hendra Yudha Pratama</a> on <a href=\"https://unsplash.com/s/photos/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
-      },
-      "adImage": {
-        "file": "51keovPHkHL._SX321_BO1,204,203,200_.jpg",
-        "title": "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe",
-        "link": "https://amzn.to/3idTQbU",
-        "caption": "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe – by Brian Greene\n",
-        "cellClass": "medium-6",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> Eternity itself may forever lie beyond the reach of our equations, but\nour analyses have already revealed that the universe we have come to know is\ntransitory. From planets to stars, solar systems to galaxies, black holes to\nswirling nebulae, nothing is everlasting. Indeed, as far as we can tell, not only\nis each individual life finite, but so too is life itself. Planet earth, which Carl Sagan described as a “mote of dust suspended on a sunbeam,” is an evanescent bloom in an exquisite cosmos that will ultimately be barren. Motes\nof dust, nearby or distant, dance on sunbeams for merely a moment.\n\n> Still, here on earth we have punctuated our moment with astonishing feats\nof insight, creativity, and ingenuity as each generation has built on the\nachievements of those who have gone before, seeking clarity on how it all\ncame to be, pursuing coherence in where it is all going, and longing for an\nanswer to why it all matters.\n\n> As we hurtle toward a cold and barren cosmos, we must accept that there\nis no grand design. Particles are not endowed with purpose. There is no final\nanswer hovering in the depths of space awaiting discovery. Instead, certain\nspecial collections of particles can think and feel and reflect, and within these\nsubjective worlds they can create purpose. And so, in our quest to fathom the\nhuman condition, the only direction to look is inward. That is the noble\ndirection to look. It is a direction that forgoes ready-made answers and turns\nto the highly personal journey of constructing our own meaning. It is a\ndirection that leads to the very heart of creative expression and the source of\nour most resonant narratives. Science is a powerful, exquisite tool for grasping\nan external reality. But within that rubric, within that understanding,\neverything else is the human species contemplating itself, grasping what it\nneeds to carry on, and telling a story that reverberates into the darkness, a\nstory carved of sound and etched into silence, a story that, at its best, stirs the\nsoul.\n\nBrian Greene, [Until the End of Time](https://amzn.to/3idTQbU \"Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe\"), 2020. {.line-before}\n"
-        }
-      ],
-      "advert": true,
-      "sponsor": true,
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations__index"
-    },
-    {
       "title": "The Magic Furnace",
       "createdOn": "2020-07-31T12:03:00.000Z",
       "excerpt": "\"Every breath you take contains atoms forged in the blistering furnaces deep inside stars...\n",
@@ -1187,6 +1217,62 @@
       },
       "contents": "",
       "id": "origins__quotes__published__every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars__index"
+    },
+    {
+      "title": "Until the End of Time",
+      "createdOn": "2020-08-05T19:57:00.000Z",
+      "excerpt": "\"Eternity itself may forever lie beyond the reach of our equations, but\nour analyses have already revealed that the universe we have come to know is\ntransitory...\n",
+      "tags": [
+        "briangreene",
+        "untiltheendoftime",
+        "cosmology",
+        "time"
+      ],
+      "coverImage": {
+        "file": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash-cover.jpg",
+        "title": "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe"
+      },
+      "coverTitle": {
+        "headerClass": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> Eternity itself may forever lie beyond the reach of our equations, but\n  our analyses have already revealed that the universe we have come to know is\n  transitory.\n\nBrian Greene, [Until the End of Time](https://amzn.to/3idTQbU \"Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe\"), 2020. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash.jpg",
+        "bgStyle": "'background-position': 'top center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@sandalkuilang?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Hendra Yudha Pratama</a> on <a href=\"https://unsplash.com/s/photos/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "51keovPHkHL._SX321_BO1,204,203,200_.jpg",
+        "title": "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe",
+        "link": "https://amzn.to/3idTQbU",
+        "caption": "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe – by Brian Greene\n",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> Eternity itself may forever lie beyond the reach of our equations, but\nour analyses have already revealed that the universe we have come to know is\ntransitory. From planets to stars, solar systems to galaxies, black holes to\nswirling nebulae, nothing is everlasting. Indeed, as far as we can tell, not only\nis each individual life finite, but so too is life itself. Planet earth, which Carl Sagan described as a “mote of dust suspended on a sunbeam,” is an evanescent bloom in an exquisite cosmos that will ultimately be barren. Motes\nof dust, nearby or distant, dance on sunbeams for merely a moment.\n\n> Still, here on earth we have punctuated our moment with astonishing feats\nof insight, creativity, and ingenuity as each generation has built on the\nachievements of those who have gone before, seeking clarity on how it all\ncame to be, pursuing coherence in where it is all going, and longing for an\nanswer to why it all matters.\n\n> As we hurtle toward a cold and barren cosmos, we must accept that there\nis no grand design. Particles are not endowed with purpose. There is no final\nanswer hovering in the depths of space awaiting discovery. Instead, certain\nspecial collections of particles can think and feel and reflect, and within these\nsubjective worlds they can create purpose. And so, in our quest to fathom the\nhuman condition, the only direction to look is inward. That is the noble\ndirection to look. It is a direction that forgoes ready-made answers and turns\nto the highly personal journey of constructing our own meaning. It is a\ndirection that leads to the very heart of creative expression and the source of\nour most resonant narratives. Science is a powerful, exquisite tool for grasping\nan external reality. But within that rubric, within that understanding,\neverything else is the human species contemplating itself, grasping what it\nneeds to carry on, and telling a story that reverberates into the darkness, a\nstory carved of sound and etched into silence, a story that, at its best, stirs the\nsoul.\n\nBrian Greene, [Until the End of Time](https://amzn.to/3idTQbU \"Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe\"), 2020. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations__index"
     },
     {
       "title": "Cosmos",
@@ -1525,6 +1611,61 @@
       "id": "origins__quotes__published__this-is-time-familiar-and-intimate__index"
     },
     {
+      "title": "The Poetics of Space",
+      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
+      "createdOn": "2019-05-01T01:20:00.000Z",
+      "tags": [
+        "gastonbachelard",
+        "thepoeticsofspace"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "bgStyle": "'background-position': 'bottom center'\n"
+      },
+      "coverImage": {
+        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "title": "Sample Title"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "book-the-poetics-of-space.jpg",
+        "title": "The best search engine for privacy",
+        "link": "https://amzn.to/307aen8",
+        "caption": "",
+        "cellClass": "medium-4",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index"
+    },
+    {
       "title": "About Time",
       "createdOn": "2020-06-18T06:04:00.000Z",
       "excerpt": "\"Time after time, we have never been anything other than collaborators with the universe...\n",
@@ -1611,61 +1752,6 @@
       },
       "contents": "",
       "id": "origins__quotes__published__time-after-time__index"
-    },
-    {
-      "title": "The Poetics of Space",
-      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
-      "createdOn": "2019-05-01T01:20:00.000Z",
-      "tags": [
-        "gastonbachelard",
-        "thepoeticsofspace"
-      ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8",
-        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "bgStyle": "'background-position': 'bottom center'\n"
-      },
-      "coverImage": {
-        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "title": "Sample Title"
-      },
-      "coverTitle": {
-        "sectionClass": null,
-        "headerClass": null,
-        "bgImage": null,
-        "bgStyle": null
-      },
-      "adImage": {
-        "file": "book-the-poetics-of-space.jpg",
-        "title": "The best search engine for privacy",
-        "link": "https://amzn.to/307aen8",
-        "caption": "",
-        "cellClass": "medium-4",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index"
     },
     {
       "title": "Big Bang",

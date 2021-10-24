@@ -21,4 +21,4 @@ og:
 
 ---
 
-A collection of art stuff I make from sketching, photography, to moving images.
+A collection of art stuff I made from sketching, photography, to moving images.

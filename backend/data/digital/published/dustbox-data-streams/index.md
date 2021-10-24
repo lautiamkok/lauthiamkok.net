@@ -3,7 +3,7 @@ title: Dustbox Data Streams
 domain: citizensense.net
 url: https://citizensense.net/kits/dustbox-streams/
 order: 2
-tags: [express, koa, mongodb, rethinkdb, socketio]
+tags: [express, koa, mongodb, rethinkdb, socketio, nuxtjs, vuejs]
 coverImage:
   file: data-streams-03.png
   title: Dustbox Data Streams

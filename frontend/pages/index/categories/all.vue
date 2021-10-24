@@ -9,13 +9,13 @@
 
         <div class="cell small-12 large-8">
 
-          <div class="grid-x grid grid-margin-x medium-up-2 large-up-3">
+          <div class="grid-x gridx grid-margin-x align-center medium-up-2 large-up-3">
 
             <!-- vue - loop -->
             <template v-for="post in posts">
 
               <!-- cell -->
-              <div class="cell grid-item" v-bind:key="post.title">
+              <div class="cell grid-itemx" v-bind:key="post.title">
 
                 <!-- item -->
                 <div class="card box-shadow-blur">

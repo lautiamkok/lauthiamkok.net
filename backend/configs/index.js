@@ -6,13 +6,13 @@ const host = 'localhost'
 
 // Cross domain ports - http.
 const portsHttp = {
-  local: '4000',
+  local: '5000',
   remote: '3000'
 }
 
 export default {
   server: {
-    port: 4000
+    port: portsHttp.local
   },
   static_dir: {
     static: './static',

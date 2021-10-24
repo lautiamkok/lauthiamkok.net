@@ -24,7 +24,33 @@
               <h3 class="h3-title font-size-xlarge">Get in Touch</h3>
               <p>contact<span>&#64;</span>lauthiamkok.net</p>
 
-              <div class="addthis_vertical_follow_toolbox"></div>
+              <ul class="menu-social no-bullet flex-container align-center">
+                <li>
+                  <a href="https://github.com/lautiamkok" target="_blank">
+                  <i class="icon-github"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.linkedin.com/in/lautiamkok/" target="_blank">
+                    <i class="icon-linkedin"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.instagram.com/lautiamkok/" target="_blank">
+                    <i class="icon-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/lautiamkok" target="_blank">
+                    <i class="icon-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.facebook.com/lautiamkok" target="_blank">
+                    <i class="icon-facebook"></i>
+                  </a>
+                </li>
+              </ul>
             </div>
 
           </div>

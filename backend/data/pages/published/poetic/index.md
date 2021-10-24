@@ -20,4 +20,4 @@ og:
   image:
 ---
 
-A collection of poetic notions I come up with — in words.
+A collection of poetic notions that I came up with — in words.

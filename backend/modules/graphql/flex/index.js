@@ -9,6 +9,7 @@ const typeDefs = gql`
     link: String
     gridClass: String
     cellClass: String
+    contentClass: String
     bgImage: String
     bgStyle: String
     imgCaption: String

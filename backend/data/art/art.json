@@ -80,114 +80,6 @@
       "id": "art__published__place__index"
     },
     {
-      "title": "Rising",
-      "year": "1998 - 1999",
-      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
-      "order": 2,
-      "tags": [
-        "sketching",
-        "people"
-      ],
-      "coverImage": {
-        "file": "Rising_01.jpg",
-        "title": "Rising"
-      },
-      "listImages": [
-        {
-          "file": "Rising_01.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_05.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_06.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_07.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_08.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_09.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_10.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_11.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_12.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_13.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_14.jpg",
-          "title": "Rising"
-        }
-      ],
-      "layout": "single",
-      "headImages": [
-        {
-          "file": "Rising_01.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Rising_08.jpg"
-      },
-      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
-      "id": "art__published__rising__index"
-    },
-    {
       "title": "Looking",
       "year": "1997 - 2000",
       "excerpt": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>",
@@ -348,88 +240,6 @@
       "id": "art__published__looking__index"
     },
     {
-      "title": "Twenties",
-      "year": 2006,
-      "order": 5,
-      "tags": [
-        "publicart"
-      ],
-      "coverImage": {
-        "file": "Twenties_01.jpg",
-        "title": "Twenties"
-      },
-      "listImages": [
-        {
-          "file": "Twenties_01.jpg",
-          "title": "Twenties"
-        },
-        {
-          "file": "Twenties_02.jpg",
-          "title": "Twenties"
-        },
-        {
-          "file": "Twenties_03.jpg",
-          "title": "Twenties"
-        },
-        {
-          "file": "Twenties_04.jpg",
-          "title": "Twenties"
-        },
-        {
-          "file": "Twenties_05.jpg",
-          "title": "Twenties"
-        },
-        {
-          "file": "Twenties_06.jpg",
-          "title": "Twenties"
-        }
-      ],
-      "relatedPages": [
-        {
-          "link": "/poetic/when-i-am-old",
-          "title": "When I Am Old (text)"
-        },
-        {
-          "link": "/poetic/a-hunch-and-a-dog",
-          "title": "A Hunch And a Dog (text)"
-        },
-        {
-          "link": "/poetic/humming",
-          "title": "Humming (text)"
-        },
-        {
-          "link": "/poetic/i-am-a-poem",
-          "title": "I Am a Poem (text)"
-        },
-        {
-          "link": "/poetic/诗的成因",
-          "title": "诗的成因 (text)"
-        }
-      ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "Twenties_01.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Twenties_01_OG.jpg"
-      },
-      "contents": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>\n",
-      "excerpt": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>",
-      "id": "art__published__twenties__index"
-    },
-    {
       "title": "Dust",
       "year": 2008,
       "excerpt": "What is it for when the complexity of being reduces into atoms of dust in science, philosophy, arts, and poetry? - LTK, 2003.\n",
@@ -547,6 +357,196 @@
       },
       "contents": "<p>&quot;Dust&quot; is a piece of writing on our traces and memories from the palpable place to the extended / metaphysical place - digital space. Made into 1000 copies of book to be discovered in random locations in the city of Plymouth. Published by Plymouth Arts Centre as part of the Artists and Curators Residency Programme, funded by Arts Council England SW and Plymouth City Council. A PLACE is co-published as its companion book in a new series of artists’ books published by Portfolio Five Ltd. in association with Proof magazine.</p>\n",
       "id": "art__published__dust__index"
+    },
+    {
+      "title": "Rising",
+      "year": "1998 - 1999",
+      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
+      "order": 2,
+      "tags": [
+        "sketching",
+        "people"
+      ],
+      "coverImage": {
+        "file": "Rising_01.jpg",
+        "title": "Rising"
+      },
+      "listImages": [
+        {
+          "file": "Rising_01.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_05.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_06.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_07.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_08.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_09.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_10.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_11.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_12.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_13.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_14.jpg",
+          "title": "Rising"
+        }
+      ],
+      "layout": "single",
+      "headImages": [
+        {
+          "file": "Rising_01.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Rising_08.jpg"
+      },
+      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
+      "id": "art__published__rising__index"
+    },
+    {
+      "title": "Twenties",
+      "year": 2006,
+      "order": 5,
+      "tags": [
+        "publicart"
+      ],
+      "coverImage": {
+        "file": "Twenties_01.jpg",
+        "title": "Twenties"
+      },
+      "listImages": [
+        {
+          "file": "Twenties_01.jpg",
+          "title": "Twenties"
+        },
+        {
+          "file": "Twenties_02.jpg",
+          "title": "Twenties"
+        },
+        {
+          "file": "Twenties_03.jpg",
+          "title": "Twenties"
+        },
+        {
+          "file": "Twenties_04.jpg",
+          "title": "Twenties"
+        },
+        {
+          "file": "Twenties_05.jpg",
+          "title": "Twenties"
+        },
+        {
+          "file": "Twenties_06.jpg",
+          "title": "Twenties"
+        }
+      ],
+      "relatedPages": [
+        {
+          "link": "/poetic/when-i-am-old",
+          "title": "When I Am Old (text)"
+        },
+        {
+          "link": "/poetic/a-hunch-and-a-dog",
+          "title": "A Hunch And a Dog (text)"
+        },
+        {
+          "link": "/poetic/humming",
+          "title": "Humming (text)"
+        },
+        {
+          "link": "/poetic/i-am-a-poem",
+          "title": "I Am a Poem (text)"
+        },
+        {
+          "link": "/poetic/诗的成因",
+          "title": "诗的成因 (text)"
+        }
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "Twenties_01.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Twenties_01_OG.jpg"
+      },
+      "contents": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>\n",
+      "excerpt": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>",
+      "id": "art__published__twenties__index"
     },
     {
       "title": "Waiting",

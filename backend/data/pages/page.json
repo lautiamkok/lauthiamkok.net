@@ -54,8 +54,8 @@
         "type": "article",
         "image": null
       },
-      "contents": "<p>A collection of art stuff I make from sketching, photography, to moving images.</p>\n",
-      "excerpt": "<p>A collection of art stuff I make from sketching, photography, to moving images.</p>",
+      "contents": "<p>A collection of art stuff I made from sketching, photography, to moving images.</p>\n",
+      "excerpt": "<p>A collection of art stuff I made from sketching, photography, to moving images.</p>",
       "id": "pages__published__art__index"
     },
     {
@@ -74,9 +74,30 @@
         "type": "article",
         "image": null
       },
-      "contents": "<p>A collection of digital stuff I make from designing to coding.</p>\n",
-      "excerpt": "<p>A collection of digital stuff I make from designing to coding.</p>",
+      "contents": "<p>A collection of digital stuff I made from designing to coding.</p>\n",
+      "excerpt": "<p>A collection of digital stuff I made from designing to coding.</p>",
       "id": "pages__published__digital__index"
+    },
+    {
+      "title": "Origins",
+      "subtitle": "Origins of Things",
+      "order": 6,
+      "slideItems": null,
+      "darkModeBgStyle": "background: #E53E87; background: -webkit-radial-gradient(circle at top left, #E53E87, #0B06C1); background: -moz-radial-gradient(circle at top left, #E53E87, #0B06C1); background: radial-gradient(circle at top left, #E53E87, #0B06C1);\n",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "<p>A collection of things — ideas, thoughts, quotes, books, posts, skills, and more, that I found, or made, and locked them in time — that have contributed to the things I create and could benefit you too.</p>\n",
+      "excerpt": "<p>A collection of things &#x2014; ideas, thoughts, quotes, books, posts, skills, and more, that I found, or made, and locked them in time &#x2014; that have contributed to the things I create and could benefit you too.</p>",
+      "id": "pages__published__origins__index"
     },
     {
       "title": "Home",
@@ -122,27 +143,6 @@
       "id": "pages__published__home__index"
     },
     {
-      "title": "Origins",
-      "subtitle": "Origins of Things",
-      "order": 6,
-      "slideItems": null,
-      "darkModeBgStyle": "background: #E53E87; background: -webkit-radial-gradient(circle at top left, #E53E87, #0B06C1); background: -moz-radial-gradient(circle at top left, #E53E87, #0B06C1); background: radial-gradient(circle at top left, #E53E87, #0B06C1);\n",
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": null
-      },
-      "contents": "<p>A collection of things — ideas, thoughts, quotes, books, posts, skills, and more, that I found, or made, and locked them in time — that have contributed to the things I create and could benefit you too.</p>\n",
-      "excerpt": "<p>A collection of things &#x2014; ideas, thoughts, quotes, books, posts, skills, and more, that I found, or made, and locked them in time &#x2014; that have contributed to the things I create and could benefit you too.</p>",
-      "id": "pages__published__origins__index"
-    },
-    {
       "title": "Poetic",
       "order": 5,
       "slideItems": null,
@@ -158,8 +158,8 @@
         "type": "article",
         "image": null
       },
-      "contents": "<p>A collection of poetic notions I come up with — in words.</p>\n",
-      "excerpt": "<p>A collection of poetic notions I come up with &#x2014; in words.</p>",
+      "contents": "<p>A collection of poetic notions that I came up with — in words.</p>\n",
+      "excerpt": "<p>A collection of poetic notions that I came up with &#x2014; in words.</p>",
       "id": "pages__published__poetic__index"
     }
   ]

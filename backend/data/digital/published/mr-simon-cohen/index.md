@@ -3,7 +3,7 @@ title: Mr Simon Cohen
 domain: mrsimoncohen.com
 url: https://mrsimoncohen.com/
 order: 2
-tags: [wordpress, vuejs, foundation]
+tags: [wordpress, nuxtjs, vuejs, foundation]
 coverImage:
   file: Mr_Simon_Cohen_01.jpg
   title: Mr Simon Cohen

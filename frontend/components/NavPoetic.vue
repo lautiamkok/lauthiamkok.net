@@ -66,7 +66,7 @@ const QUERY = `
 `
 
 export default {
-  data() {
+  data () {
     return {
       items: []
     };

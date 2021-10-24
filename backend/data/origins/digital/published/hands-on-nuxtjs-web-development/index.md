@@ -53,7 +53,7 @@ coverTitle:
 adImage:
   file: B12938_Cover_Prefinal_AM-1.jpg
   title: Hands-on Nuxt.js Web Development
-  link: https://amzn.to/2ZHtvgh
+  link: https://www.packtpub.com/product/hands-on-nuxt-js-web-development/9781789952698
   caption: >
     Hands-on Nuxt.js Web Development: Build universal and static-generated Vue.js applications using Nuxt.js – by Lau Tiam Kok
 

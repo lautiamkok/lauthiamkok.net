@@ -253,7 +253,7 @@
           <div class="grid-x align-center-middle min-height-100vh text-container background-xxlight" v-bind:class="data.fullSplitHeadLeft.gridClass">
             <div class="cell small-8" v-bind:class="data.fullSplitHeadLeft.cellClass">
               <h1 class="h1-title hide" v-html="data.title"></h1>
-              <div class="font-size-large" v-html="data.contents"></div>
+              <div v-html="data.contents" v-bind:class="data.fullSplitHeadLeft.contentClass"></div>
               <span>
                 <i class="icon icon-clock"></i>
                 <span>{{ $toUtcDateTime(data.createdOn) }}</span>
@@ -277,6 +277,18 @@
 
       </div>
       <!-- grid-x -->
+
+      <div class="cell small-12" v-if="data.fullSplitHeadRight.imgCaption">
+
+          <!-- grid-x: figcaption -->
+          <div class="grid-x grid-padding-x">
+            <div class="cell small-12">
+              <figcaption class="text-right" v-html="data.fullSplitHeadRight.imgCaption"></figcaption>
+            </div>
+          </div>
+          <!-- grid-x: figcaption -->
+
+        </div>
 
     </div>
     <!-- row -->
@@ -521,12 +533,14 @@ export default {
           fullSplitHeadLeft {
             gridClass
             cellClass
+            contentClass
           }
           fullSplitHeadRight {
             gridClass
             cellClass
             bgImage
             bgStyle
+            imgCaption
           }
         }
       }

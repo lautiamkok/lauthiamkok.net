@@ -21,4 +21,4 @@ og:
   image:
 ---
 
-A collection of digital stuff I make from designing to coding.
+A collection of digital stuff I made from designing to coding.

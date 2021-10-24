@@ -1,8 +1,7 @@
 <template>
 
-  <div class="grid-x grid-padding-x align-center-middle">
+  <!-- <div class="grid-x grid-padding-x align-center-middle">
 
-    <!-- cell -->
     <div class="cell small-12 large-6">
 
       <div class="text-center">
@@ -37,8 +36,7 @@
         <hr/>
       </div>
     </div>
-    <!-- cell -->
 
-  </div>
+  </div> -->
 
 </template>

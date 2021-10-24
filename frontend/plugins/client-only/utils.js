@@ -7,13 +7,13 @@ console.log('process.env.streamRemoteResource =', process.env.streamRemoteResour
 
 // Promisise setTimeout.
 // Usage:
-// $delay(500)
+// await this.$delay(500)
 Vue.prototype.$delay = ms => new Promise(res => {
   setTimeout(res, ms)
 })
 
 // Usage:
-// %joinPath('x', 'y', 'z')
+// $joinPath('x', 'y', 'z')
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
 Vue.prototype.$joinPath = (...args) => args.join('/')
