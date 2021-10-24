@@ -1,6 +1,6 @@
 # lauthiamkok.net
 
-> Applications and static-generated site of lauthiamkok.net
+> Applications and static-generated site of lauthiamkok.net.
 
 # Static-generated Site Setup
 
@@ -12,4 +12,4 @@
 
 # Applications Setup
 
-Follow the guide inside the `/apps/` directory
+Follow the guide inside the `/apps/` directory.
