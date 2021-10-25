@@ -77,7 +77,7 @@ middlewares(app)
 
 // app.listen(port, host)
 app.listen({ port: port }, () =>
-  console.log(`🚀 Server ready at http://localhost:4000${server.graphqlPath}`),
+  console.log(`🚀 Server ready at http://localhost:5000${server.graphqlPath}`),
 )
 
 // Something to use when events are received.

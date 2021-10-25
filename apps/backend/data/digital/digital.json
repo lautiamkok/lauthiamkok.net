@@ -77,60 +77,6 @@
       "id": "digital__published__airsift-dustbox-data-analysis-toolkit__index"
     },
     {
-      "title": "Dustbox Data Streams",
-      "domain": "citizensense.net",
-      "url": "https://citizensense.net/kits/dustbox-streams/",
-      "order": 2,
-      "tags": [
-        "express",
-        "koa",
-        "mongodb",
-        "rethinkdb",
-        "socketio",
-        "nuxtjs",
-        "vuejs"
-      ],
-      "coverImage": {
-        "file": "data-streams-03.png",
-        "title": "Dustbox Data Streams"
-      },
-      "listImages": [
-        {
-          "file": "data-streams-02.png",
-          "title": "Dustbox Data Streams"
-        },
-        {
-          "file": "data-streams-03.png",
-          "title": "Dustbox Data Streams"
-        },
-        {
-          "file": "data-streams-04.png",
-          "title": "Dustbox Data Streams"
-        }
-      ],
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "data-streams-01.png",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "OG_Data-Streams.png"
-      },
-      "contents": "<ul>\n<li>Client: Citizen Sense, UK</li>\n<li>Role: Designer &amp; developer</li>\n<li>Year: 2016, 2017, 2019, 2020</li>\n</ul>\n<p>The real-time data from the Dustboxes will be streamed to Citizen Sense Dustbox Streams platform, where the “raw” particle count data (as a percentage) and “converted” data (as PM2.5 µ/m3) will be available to view. Citizen Sense is undertaking calibration in relation to monitoring sites and as an ongoing process, along with testing the Dustboxes in relation to reference monitors in the London Air Quality Network (LAQN ) at the Marylebone Air Quality Observatory.</p>\n<p>More info at <a href=\"http://citizensense.net/dustbox-and-airsift-data-toolkit/\">Citizen Sense</a>.</p>\n",
-      "excerpt": "<p>The real-time data from the Dustboxes will be streamed to Citizen Sense Dustbox Streams platform, where the &#x201C;raw&#x201D; particle count data (as a percentage) and &#x201C;converted&#x201D; data (as PM2.5 &#xB5;/m3) will be available to view. Citizen Sense is undertaking calibration in relation to monitoring sites and as an ongoing process, along with testing the Dustboxes in relation to reference monitors in the London Air Quality Network (LAQN ) at the Marylebone Air Quality Observatory.</p>",
-      "id": "digital__published__dustbox-data-streams__index"
-    },
-    {
       "title": "Asian Geos",
       "domain": "asiangeos.com",
       "url": "http://asiangeos.com/",
@@ -189,6 +135,60 @@
       "contents": "<ul>\n<li>Client: Asian Geos, Indonesia/ Malaysia</li>\n<li>Role: Designer &amp; developer</li>\n<li>Year: 2017, 2018</li>\n</ul>\n<p>Asian Geos the specialist arm of Java Offshore dedicated to geotechnical site investigation and engineering services for marine infrastructures in Oil &amp; Gas, Telecommunications and Power Sectors.</p>\n",
       "excerpt": "<p>Asian Geos the specialist arm of Java Offshore dedicated to geotechnical site investigation and engineering services for marine infrastructures in Oil &amp; Gas, Telecommunications and Power Sectors.</p>",
       "id": "digital__published__asian-geos__index"
+    },
+    {
+      "title": "Dustbox Data Streams",
+      "domain": "citizensense.net",
+      "url": "https://citizensense.net/kits/dustbox-streams/",
+      "order": 2,
+      "tags": [
+        "express",
+        "koa",
+        "mongodb",
+        "rethinkdb",
+        "socketio",
+        "nuxtjs",
+        "vuejs"
+      ],
+      "coverImage": {
+        "file": "data-streams-03.png",
+        "title": "Dustbox Data Streams"
+      },
+      "listImages": [
+        {
+          "file": "data-streams-02.png",
+          "title": "Dustbox Data Streams"
+        },
+        {
+          "file": "data-streams-03.png",
+          "title": "Dustbox Data Streams"
+        },
+        {
+          "file": "data-streams-04.png",
+          "title": "Dustbox Data Streams"
+        }
+      ],
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "data-streams-01.png",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "OG_Data-Streams.png"
+      },
+      "contents": "<ul>\n<li>Client: Citizen Sense, UK</li>\n<li>Role: Designer &amp; developer</li>\n<li>Year: 2016, 2017, 2019, 2020</li>\n</ul>\n<p>The real-time data from the Dustboxes will be streamed to Citizen Sense Dustbox Streams platform, where the “raw” particle count data (as a percentage) and “converted” data (as PM2.5 µ/m3) will be available to view. Citizen Sense is undertaking calibration in relation to monitoring sites and as an ongoing process, along with testing the Dustboxes in relation to reference monitors in the London Air Quality Network (LAQN ) at the Marylebone Air Quality Observatory.</p>\n<p>More info at <a href=\"http://citizensense.net/dustbox-and-airsift-data-toolkit/\">Citizen Sense</a>.</p>\n",
+      "excerpt": "<p>The real-time data from the Dustboxes will be streamed to Citizen Sense Dustbox Streams platform, where the &#x201C;raw&#x201D; particle count data (as a percentage) and &#x201C;converted&#x201D; data (as PM2.5 &#xB5;/m3) will be available to view. Citizen Sense is undertaking calibration in relation to monitoring sites and as an ongoing process, along with testing the Dustboxes in relation to reference monitors in the London Air Quality Network (LAQN ) at the Marylebone Air Quality Observatory.</p>",
+      "id": "digital__published__dustbox-data-streams__index"
     },
     {
       "title": "Ginger Monkey Design",
