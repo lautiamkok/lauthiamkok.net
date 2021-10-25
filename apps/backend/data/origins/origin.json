@@ -339,6 +339,47 @@
       "id": "origins__posts__published__starry-nights__index"
     },
     {
+      "title": "The Most Beautiful Place",
+      "createdOn": "2007-06-06T22:12:00.000Z",
+      "excerpt": "The most beautiful place is never in the sky nor is too far away, it is the face where you can see the shape of your happiness on that transient space.\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "permanency",
+        "impermanence"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash-cover.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@ihor_malytskyi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ihor Malytskyi</a> on <a href=\"https://unsplash.com/s/photos/mountain-far-away?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@ihor_malytskyi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ihor Malytskyi</a> on <a href=\"https://unsplash.com/s/photos/mountain-far-away?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "ihor-malytskyi-3SDi-7dKwR0-unsplash.jpg"
+      },
+      "contents": "<p>The most beautiful place is never in the sky nor is too far away, it is the face where you can see the shape of your happiness on that transient space.</p>\n",
+      "id": "origins__posts__published__the-most-beautiful-place__index"
+    },
+    {
       "title": "Time doesn't matter",
       "createdOn": "2021-05-29T16:51:00.000Z",
       "excerpt": "Time doesn't matter.\nLife does.\n",
@@ -379,47 +420,6 @@
       },
       "contents": "<p>Time doesn&#39;t matter.\nLife does.</p>\n",
       "id": "origins__posts__published__time-does-not-matter__index"
-    },
-    {
-      "title": "The Most Beautiful Place",
-      "createdOn": "2007-06-06T22:12:00.000Z",
-      "excerpt": "The most beautiful place is never in the sky nor is too far away, it is the face where you can see the shape of your happiness on that transient space.\n",
-      "fontSizes": {
-        "headExcerpt": "font-size-large"
-      },
-      "tags": [
-        "permanency",
-        "impermanence"
-      ],
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash-cover.jpg",
-        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@ihor_malytskyi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ihor Malytskyi</a> on <a href=\"https://unsplash.com/s/photos/mountain-far-away?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
-      },
-      "layout": "single",
-      "fullSingleHead": {
-        "gridClass": "dark-mode image-background",
-        "cellClass": "large-6",
-        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash.jpg",
-        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@ihor_malytskyi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ihor Malytskyi</a> on <a href=\"https://unsplash.com/s/photos/mountain-far-away?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
-      },
-      "hide": [
-        "contents"
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "ihor-malytskyi-3SDi-7dKwR0-unsplash.jpg"
-      },
-      "contents": "<p>The most beautiful place is never in the sky nor is too far away, it is the face where you can see the shape of your happiness on that transient space.</p>\n",
-      "id": "origins__posts__published__the-most-beautiful-place__index"
     },
     {
       "title": "Virus",
@@ -1217,63 +1217,6 @@
       "id": "origins__quotes__published__eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations__index"
     },
     {
-      "title": "Cosmos",
-      "createdOn": "2020-08-02T12:30:00.000Z",
-      "excerpt": "\"Exploration is in our nature. We began as wanderers, and we are wanderers still...\n",
-      "tags": [
-        "carlsagan",
-        "cosmos",
-        "cosmology"
-      ],
-      "coverImage": {
-        "file": "hamish-weir-cuO6_mnbgPE-unsplash-cover.jpg",
-        "title": "Cosmos"
-      },
-      "coverTitle": {
-        "sectionClass": null,
-        "headerClass": null,
-        "bgImage": null,
-        "bgStyle": null
-      },
-      "layout": "single",
-      "fullSingleHead": {
-        "content": "> Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.\n\nCarl Sagan, [Cosmos](https://amzn.to/3fg2RiR \"Cosmos\"), 1980. {.line-before}\n",
-        "gridClass": "dark-mode image-background",
-        "cellClass": "large-6",
-        "bgImage": "hamish-weir-cuO6_mnbgPE-unsplash.jpg",
-        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@el_ham?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Hamish Weir</a> on <a href=\"https://unsplash.com/s/photos/stars-moon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
-      },
-      "adImage": {
-        "file": "31VLvt9VyAL._SX317_BO1,204,203,200_.jpg",
-        "title": "Cosmos",
-        "link": "https://amzn.to/3fg2RiR",
-        "caption": "",
-        "cellClass": "medium-6",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> The size and age of the Cosmos are beyond ordinary human understanding. Lost somewhere between immensity and eternity is our tiny planetary home. In a cosmic perspective, most human concerns seem insignificant, even petty. And yet our species is young and curious and brave and shows much promise. In the last few millennia we have made the most astonishing and unexpected discoveries about the Cosmos and our place within it, explorations that are exhilarating to consider. They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival. I believe our future depends on how well we know this Cosmos in which we float like a mote of dust in the morning sky.\n\n> Those explorations required skepticism and imagination both. Imagination will often carry us to worlds that never were. But without it, we go nowhere. Skepticism enables us to distinguish fancy from fact, to test our speculations. The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, in the subtle machinery of awe.\n\n> As long as there have been humans, we have searched for our place in the Cosmos. In the childhood of our species (when our ancestors gazed a little idly at the stars), among the Ionian scientists of ancient Greece, and in our own age, we have been transfixed by this question: Where are we? Who are we? We find that we live on an insignificant planet of a humdrum star lost between two spiral arms in the outskirts of a galaxy which is a member of a sparse cluster of galaxies, tucked away in some forgotten corner of a universe in which there are far more galaxies than people. This perspective is a courageous continuation of our penchant for constructing and testing mental models of the skies; the Sun as a red-hot stone, the stars as celestial flame, the Galaxy as the backbone of night.\n\n> We embarked on our cosmic voyage with a question first framed in the childhood of our species and in each generation asked anew with undiminished wonder: What are the stars? Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.\n\n> For we are the local embodiment of a Cosmos grown to self-\nawareness. We have begun to contemplate our origins: starstuff\npondering the stars; organized assemblages of ten billion billion\nbillion atoms considering the evolution of atoms; tracing the long\njourney by which, here at least, consciousness arose. Our loyal­\nties are to the species and the planet. We speak for Earth. Our\nobligation to survive is owed not just to ourselves but also to that\nCosmos, ancient and vast, from which we spring.\n\nCarl Sagan, [Cosmos](https://amzn.to/3fg2RiR \"Cosmos\"), 1980. {.line-before}\n"
-        }
-      ],
-      "advert": true,
-      "sponsor": true,
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "hamish-weir-cuO6_mnbgPE-unsplash.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__exploration-is-in-our-nature__index"
-    },
-    {
       "title": "The Magic Furnace",
       "createdOn": "2020-07-31T12:03:00.000Z",
       "excerpt": "\"Every breath you take contains atoms forged in the blistering furnaces deep inside stars...\n",
@@ -1330,6 +1273,63 @@
       },
       "contents": "",
       "id": "origins__quotes__published__every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars__index"
+    },
+    {
+      "title": "Cosmos",
+      "createdOn": "2020-08-02T12:30:00.000Z",
+      "excerpt": "\"Exploration is in our nature. We began as wanderers, and we are wanderers still...\n",
+      "tags": [
+        "carlsagan",
+        "cosmos",
+        "cosmology"
+      ],
+      "coverImage": {
+        "file": "hamish-weir-cuO6_mnbgPE-unsplash-cover.jpg",
+        "title": "Cosmos"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.\n\nCarl Sagan, [Cosmos](https://amzn.to/3fg2RiR \"Cosmos\"), 1980. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "hamish-weir-cuO6_mnbgPE-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@el_ham?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Hamish Weir</a> on <a href=\"https://unsplash.com/s/photos/stars-moon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "31VLvt9VyAL._SX317_BO1,204,203,200_.jpg",
+        "title": "Cosmos",
+        "link": "https://amzn.to/3fg2RiR",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> The size and age of the Cosmos are beyond ordinary human understanding. Lost somewhere between immensity and eternity is our tiny planetary home. In a cosmic perspective, most human concerns seem insignificant, even petty. And yet our species is young and curious and brave and shows much promise. In the last few millennia we have made the most astonishing and unexpected discoveries about the Cosmos and our place within it, explorations that are exhilarating to consider. They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival. I believe our future depends on how well we know this Cosmos in which we float like a mote of dust in the morning sky.\n\n> Those explorations required skepticism and imagination both. Imagination will often carry us to worlds that never were. But without it, we go nowhere. Skepticism enables us to distinguish fancy from fact, to test our speculations. The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, in the subtle machinery of awe.\n\n> As long as there have been humans, we have searched for our place in the Cosmos. In the childhood of our species (when our ancestors gazed a little idly at the stars), among the Ionian scientists of ancient Greece, and in our own age, we have been transfixed by this question: Where are we? Who are we? We find that we live on an insignificant planet of a humdrum star lost between two spiral arms in the outskirts of a galaxy which is a member of a sparse cluster of galaxies, tucked away in some forgotten corner of a universe in which there are far more galaxies than people. This perspective is a courageous continuation of our penchant for constructing and testing mental models of the skies; the Sun as a red-hot stone, the stars as celestial flame, the Galaxy as the backbone of night.\n\n> We embarked on our cosmic voyage with a question first framed in the childhood of our species and in each generation asked anew with undiminished wonder: What are the stars? Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.\n\n> For we are the local embodiment of a Cosmos grown to self-\nawareness. We have begun to contemplate our origins: starstuff\npondering the stars; organized assemblages of ten billion billion\nbillion atoms considering the evolution of atoms; tracing the long\njourney by which, here at least, consciousness arose. Our loyal­\nties are to the species and the planet. We speak for Earth. Our\nobligation to survive is owed not just to ourselves but also to that\nCosmos, ancient and vast, from which we spring.\n\nCarl Sagan, [Cosmos](https://amzn.to/3fg2RiR \"Cosmos\"), 1980. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "hamish-weir-cuO6_mnbgPE-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__exploration-is-in-our-nature__index"
     },
     {
       "title": "A Short History of Nearly Everything",
@@ -1699,61 +1699,6 @@
       "id": "origins__quotes__published__time-after-time__index"
     },
     {
-      "title": "The Poetics of Space",
-      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
-      "createdOn": "2019-05-01T01:20:00.000Z",
-      "tags": [
-        "gastonbachelard",
-        "thepoeticsofspace"
-      ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8",
-        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "bgStyle": "'background-position': 'bottom center'\n"
-      },
-      "coverImage": {
-        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "title": "Sample Title"
-      },
-      "coverTitle": {
-        "sectionClass": null,
-        "headerClass": null,
-        "bgImage": null,
-        "bgStyle": null
-      },
-      "adImage": {
-        "file": "book-the-poetics-of-space.jpg",
-        "title": "The best search engine for privacy",
-        "link": "https://amzn.to/307aen8",
-        "caption": "",
-        "cellClass": "medium-4",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index"
-    },
-    {
       "title": "Big Bang",
       "createdOn": "2020-08-02T12:29:00.000Z",
       "excerpt": "\"What was God doing before He created the Universe? Before He created Heaven and Earth...\n",
@@ -1810,6 +1755,61 @@
       },
       "contents": "",
       "id": "origins__quotes__published__what-was-god-doing-before-he-created-the-universe__index"
+    },
+    {
+      "title": "The Poetics of Space",
+      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
+      "createdOn": "2019-05-01T01:20:00.000Z",
+      "tags": [
+        "gastonbachelard",
+        "thepoeticsofspace"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "bgStyle": "'background-position': 'bottom center'\n"
+      },
+      "coverImage": {
+        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "title": "Sample Title"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "book-the-poetics-of-space.jpg",
+        "title": "The best search engine for privacy",
+        "link": "https://amzn.to/307aen8",
+        "caption": "",
+        "cellClass": "medium-4",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index"
     }
   ]
 }

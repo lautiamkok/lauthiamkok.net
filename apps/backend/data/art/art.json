@@ -199,6 +199,114 @@
       "id": "art__published__place__index"
     },
     {
+      "title": "Rising",
+      "year": "1998 - 1999",
+      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
+      "order": 2,
+      "tags": [
+        "sketching",
+        "people"
+      ],
+      "coverImage": {
+        "file": "Rising_01.jpg",
+        "title": "Rising"
+      },
+      "listImages": [
+        {
+          "file": "Rising_01.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_05.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_06.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_07.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_08.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_09.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_10.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_11.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_12.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_13.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_14.jpg",
+          "title": "Rising"
+        }
+      ],
+      "layout": "single",
+      "headImages": [
+        {
+          "file": "Rising_01.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Rising_08.jpg"
+      },
+      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
+      "id": "art__published__rising__index"
+    },
+    {
       "title": "Twenties",
       "year": 2006,
       "order": 5,
@@ -439,114 +547,6 @@
       },
       "contents": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>\n",
       "id": "art__published__looking__index"
-    },
-    {
-      "title": "Rising",
-      "year": "1998 - 1999",
-      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
-      "order": 2,
-      "tags": [
-        "sketching",
-        "people"
-      ],
-      "coverImage": {
-        "file": "Rising_01.jpg",
-        "title": "Rising"
-      },
-      "listImages": [
-        {
-          "file": "Rising_01.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_05.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_06.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_07.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_08.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_09.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_10.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_11.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_12.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_13.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_14.jpg",
-          "title": "Rising"
-        }
-      ],
-      "layout": "single",
-      "headImages": [
-        {
-          "file": "Rising_01.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Rising_08.jpg"
-      },
-      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
-      "id": "art__published__rising__index"
     },
     {
       "title": "Waiting",

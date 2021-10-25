@@ -428,6 +428,36 @@
       "slug": "a-cat-from-my-next-door"
     },
     {
+      "title": "A Few Winters Ago",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "A Few Winters Ago.txt",
+      "meta": {
+        "title": null,
+        "description": "A few winters ago in the cold and misty air, I heard the wind howled like a storm coming to strike, and I heard your voice, fighting through the wind, laboriously reaching my ears, say my name kindly, kindly, before we say goodbye, goodbye.\n",
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": "A few winters ago in the cold and misty air, I heard the wind howled like a storm coming to strike, and I heard your voice, fighting through the wind, laboriously reaching my ears, say my name kindly, kindly, before we say goodbye, goodbye.\n",
+        "type": "article",
+        "image": null
+      },
+      "contents": "A few winters ago\r\nin the cold and misty air,\r\nI heard the wind howled\r\nlike a storm coming to strike,\r\nand I heard your voice,\r\nfighting through the wind,\r\nlaboriously reaching my ears,\r\nsay my name kindly, kindly,\r\nbefore we say goodbye,\r\ngoodbye.\r\n\r\nMany winters now,\r\nI hear the wind\r\nhowls the same each year\r\nby my window night\r\nlike a storm strikes and kills.\r\nBut in these winters air,\r\ncold, damp, and cruel,\r\nI hear your voice no more,\r\nno more.\r\n\r\nI see you sometimes in my dreams\r\nand I wake up in the morning,\r\nthe birds sing the same,\r\nthe sun shines the same,\r\nthe breeze blows the same,\r\nthe world still goes on\r\nlike everyone ages every day.\r\nBut in this winter air,\r\ncold, damp, and lazy,\r\nI would rather\r\nsteal a precious moment,\r\nswim back to the dreams\r\nto hear your voice once more,\r\nonce more.\r\n\r\n11.10.2006, 07:48 pm, Wednesday.\r\n",
+      "excerpt": "",
+      "id": "poetic__published__A Few Winters Ago__index",
+      "path": "poetic/published/A Few Winters Ago",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "a-few-winters-ago"
+    },
+    {
       "title": "A Hunch And a Dog",
       "fullSplitHeadLeft": {
         "cellClass": "large-8"
@@ -457,36 +487,6 @@
       "directory": "poetic",
       "category": "",
       "slug": "a-hunch-and-a-dog"
-    },
-    {
-      "title": "A Few Winters Ago",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "A Few Winters Ago.txt",
-      "meta": {
-        "title": null,
-        "description": "A few winters ago in the cold and misty air, I heard the wind howled like a storm coming to strike, and I heard your voice, fighting through the wind, laboriously reaching my ears, say my name kindly, kindly, before we say goodbye, goodbye.\n",
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": "A few winters ago in the cold and misty air, I heard the wind howled like a storm coming to strike, and I heard your voice, fighting through the wind, laboriously reaching my ears, say my name kindly, kindly, before we say goodbye, goodbye.\n",
-        "type": "article",
-        "image": null
-      },
-      "contents": "A few winters ago\r\nin the cold and misty air,\r\nI heard the wind howled\r\nlike a storm coming to strike,\r\nand I heard your voice,\r\nfighting through the wind,\r\nlaboriously reaching my ears,\r\nsay my name kindly, kindly,\r\nbefore we say goodbye,\r\ngoodbye.\r\n\r\nMany winters now,\r\nI hear the wind\r\nhowls the same each year\r\nby my window night\r\nlike a storm strikes and kills.\r\nBut in these winters air,\r\ncold, damp, and cruel,\r\nI hear your voice no more,\r\nno more.\r\n\r\nI see you sometimes in my dreams\r\nand I wake up in the morning,\r\nthe birds sing the same,\r\nthe sun shines the same,\r\nthe breeze blows the same,\r\nthe world still goes on\r\nlike everyone ages every day.\r\nBut in this winter air,\r\ncold, damp, and lazy,\r\nI would rather\r\nsteal a precious moment,\r\nswim back to the dreams\r\nto hear your voice once more,\r\nonce more.\r\n\r\n11.10.2006, 07:48 pm, Wednesday.\r\n",
-      "excerpt": "",
-      "id": "poetic__published__A Few Winters Ago__index",
-      "path": "poetic/published/A Few Winters Ago",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "a-few-winters-ago"
     },
     {
       "title": "Beautiful Creatures",
@@ -828,36 +828,6 @@
       "slug": "i-cannot-live-with-you"
     },
     {
-      "title": "I Will Keep a Dog",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "I Will Keep A Dog.txt",
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": null
-      },
-      "contents": "When I am old and\nyou are gone\nfar away\nI will keep a dog\nto run\nahead of me\nto lead me\nwhere to go\nto guide me\nnot to fall\nlike you did when\nI was young\nand life was long.\n\n06.07.2007, 04:11 pm, Wednesday.\n",
-      "id": "poetic__published__I Will Keep a Dog__index",
-      "path": "poetic/published/I Will Keep a Dog",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "i-will-keep-a-dog"
-    },
-    {
       "title": "If You Can Wait",
       "excerpt": "",
       "fullSplitHeadLeft": {
@@ -886,6 +856,36 @@
       "directory": "poetic",
       "category": "",
       "slug": "if-you-can-wait"
+    },
+    {
+      "title": "I Will Keep a Dog",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "I Will Keep A Dog.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "When I am old and\nyou are gone\nfar away\nI will keep a dog\nto run\nahead of me\nto lead me\nwhere to go\nto guide me\nnot to fall\nlike you did when\nI was young\nand life was long.\n\n06.07.2007, 04:11 pm, Wednesday.\n",
+      "id": "poetic__published__I Will Keep a Dog__index",
+      "path": "poetic/published/I Will Keep a Dog",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "i-will-keep-a-dog"
     },
     {
       "title": "In Ruin",
@@ -1004,6 +1004,25 @@
       "slug": "mollusc"
     },
     {
+      "title": "Prologue",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Poetic.txt",
+      "contents": "All humans\nby nature\nare poetic.\n\nWhen I am old and\nyou are gone\nfar away,\n\nI will think of you\nin the fiction\nof my memory.\n\nI will return\nand from afar\nyou will wait for me\nforever.\n\n27.05.2007, 08:55 pm, Sunday.\n",
+      "id": "poetic__published__Prologue__index",
+      "path": "poetic/published/Prologue",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "prologue"
+    },
+    {
       "title": "Place",
       "excerpt": "and all these distances become the place I run to when the dark rises, when I want your ghost to come to warm my winter sky and watch my summer stars.\n",
       "relatedPages": [
@@ -1041,25 +1060,6 @@
       "directory": "poetic",
       "category": "",
       "slug": "place"
-    },
-    {
-      "title": "Prologue",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "Poetic.txt",
-      "contents": "All humans\nby nature\nare poetic.\n\nWhen I am old and\nyou are gone\nfar away,\n\nI will think of you\nin the fiction\nof my memory.\n\nI will return\nand from afar\nyou will wait for me\nforever.\n\n27.05.2007, 08:55 pm, Sunday.\n",
-      "id": "poetic__published__Prologue__index",
-      "path": "poetic/published/Prologue",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "prologue"
     },
     {
       "title": "Remember My Name",
@@ -1223,7 +1223,7 @@
         "type": "article",
         "image": "invisiblepower-12VIV1wnG98-unsplash.jpg"
       },
-      "contents": "Once on a sunny afternoon when I was a kid, mum hanging out with a friend and me in the city. We were passing by an English primary school and she told her friend that she would like to send me to that English school to study, speak English, and go abroad someday. I was petrified, I didn't want to go to the English school. I didn't want to speak English. I didn't want to go abroad. I begged her not to send me to that school. She said I must. She didn't send me to the English school in the end. I was just sent to a Chinese school nearby the hill we lived. I was pleased and relieved. But still, I grew up trying to achieve what she had hoped for in that afternoon. I knew it was her dream to acquire knowledge if she wasn't confined by the old society. Those old ideas. Those she had to live by...\r\n\r\nSo she set her dream on me. She extended herself into me. And that sometimes I wonder: is it my dream or hers? Am I dreaming or is she dreaming through me? Or both - we are dreaming the same dreams? It seems that she hasn't realised that she is already lied six feet under. Or maybe deep inside me never realised that as I was stranded abroad and did not attend her funeral. I was only informed about it. Saw some videos and pictures. I never held her cold body up from the floor that took her life. I can never know how it was like to hold her for one last time, to say the last goodbye. I only can imagine.\r\n\r\nSo since then, she has lived inside my dreams instead. She seems fine. Lives well. Does what she likes to do. Never ages a day. Only at times, she turns into a raging beast agonizing over her death whenever she finds out that she has already died. Petrified and wailing in my dreams, waking up in me with an ache at night. But I have learned to calm the beast. Put her to sleep. Let her wait in my dreams. So, when she sleeps, I awake. I sleep so that she can live. And we both live by a truce like this.\r\n\r\n01.08.2021, 02:59 pm, Sun.\r\n",
+      "contents": "Once on a sunny afternoon when I was a kid, mum hanging out with a friend and me in the city. We were passing by an English primary school and she told her friend that she would like to send me to that English school to study, speak English, and go abroad someday. I was petrified, I didn't want to go to the English school. I didn't want to speak English. I didn't want to go abroad. I begged her not to send me to that school. She said I must. She didn't send me to the English school in the end. I was just sent to a Chinese school nearby the hill we lived. I was pleased and relieved. But still, I grew up trying to achieve what she had hoped for in that afternoon. I knew it was her dream to acquire knowledge if she wasn't confined by the old society. Those old ideas. Those she had to live by...\r\n\r\nSo she set her dream on me. She extended herself into me. And that sometimes I wonder: is it my dream or hers? Am I dreaming or is she dreaming through me? Or both - we are dreaming the same dreams? It seems that she hasn't realised that she is already lied six feet under. Or maybe deep inside me never realised that as I was stranded abroad and did not attend her funeral. I was only informed about it. Saw some videos and pictures. I never held her cold body up from the floor that took her life. I can never know how it was like to hold her for one last time, to say the last goodbye. I only can imagine.\r\n\r\nSo since then, she has lived inside my dreams instead. She seems fine. Lives well. Does what she likes to do. Never ages a day. Only at times, she turns into a raging beast agonizing over her death whenever she finds out that she has already died. Petrified and wailing in my dreams, waking up in me with an ache at night. But I have learned to calm the beast. Put her to sleep. Let her wait in my dreams. So, when she sleeps, I awake. I sleep so that she can live. And we both live by a truce like this, for ever.\r\n\r\n01.08.2021, 02:59 pm, Sun.\r\n",
       "id": "poetic__published__Truce__index",
       "path": "poetic/published/Truce",
       "type": "poetic",
@@ -1308,25 +1308,6 @@
       "slug": "when-i-am-old"
     },
     {
-      "title": "一本詩集",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "一本詩集.txt",
-      "contents": "只要 我可以留下\n一本詩集 流傳\n給我的來生\n\n好讓 來世的我\n可以慢慢追溯\n再繼續的等你\n\n縱使 在輪迴中\n我必須忘記你\n並且在今生 或\n許多的來世裡\n\n我都必須這樣\n憂傷而終老 其實\n有什麼不好\n\n19.01.2009, 10:12 am, 星期一。\n",
-      "id": "poetic__published__一本詩集__index",
-      "path": "poetic/published/一本詩集",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "一本詩集"
-    },
-    {
       "title": "Wander",
       "excerpt": "I have freed myself from the prison I built /\nDid you know?\n",
       "fullSplitHeadLeft": {
@@ -1362,6 +1343,25 @@
       "directory": "poetic",
       "category": "",
       "slug": "wander"
+    },
+    {
+      "title": "一本詩集",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "一本詩集.txt",
+      "contents": "只要 我可以留下\n一本詩集 流傳\n給我的來生\n\n好讓 來世的我\n可以慢慢追溯\n再繼續的等你\n\n縱使 在輪迴中\n我必須忘記你\n並且在今生 或\n許多的來世裡\n\n我都必須這樣\n憂傷而終老 其實\n有什麼不好\n\n19.01.2009, 10:12 am, 星期一。\n",
+      "id": "poetic__published__一本詩集__index",
+      "path": "poetic/published/一本詩集",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "一本詩集"
     },
     {
       "title": "不關風月",
@@ -1476,43 +1476,6 @@
       "slug": "几首短诗"
     },
     {
-      "title": "发现诗",
-      "excerpt": "宇宙是一首诗\n所以不断的发现诗\n就能慢慢的发现\n整个宇宙\n",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "发现诗.txt",
-      "layout": "flat",
-      "headImage": {
-        "file": "phuc-nguyen-g9mMhEFS0_c-unsplash.jpg",
-        "alt": "sample alt",
-        "caption": "<span>Photo by <a href=\"https://unsplash.com/@phucnv9985?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">phuc nguyen</a> on <a href=\"https://unsplash.com/collections/11645368/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
-        "cellClass": "large-8"
-      },
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "phuc-nguyen-g9mMhEFS0_c-unsplash.jpg"
-      },
-      "contents": "宇宙是一首诗，\n所以不断的发现诗，\n就能慢慢的发现\n整个宇宙\n\n人生也是一首诗，\n不停的发现诗，\n也就能慢慢的\n发现一个，\n完整的人生\n\n爱情其实也是一首诗，\n那么，不停的发现诗，\n也就能慢慢的\n发现一个，\n完全的爱情\n\n你给我的迷题，\n也是一首诗，\n而不停的发现诗，\n到最后到最后\n终究能慢慢的\n找到一个\n完美答案\n\n08, 09, 2020 15:43 PM, Tuesday.\n",
-      "id": "poetic__published__发现诗__index",
-      "path": "poetic/published/发现诗",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "发现诗"
-    },
-    {
       "title": "半生",
       "excerpt": "此生堪惊 为了那群银河\n为了那颗死去的星星\n为了天长地久\n",
       "fullSplitHeadLeft": {
@@ -1548,6 +1511,43 @@
       "directory": "poetic",
       "category": "",
       "slug": "半生"
+    },
+    {
+      "title": "发现诗",
+      "excerpt": "宇宙是一首诗\n所以不断的发现诗\n就能慢慢的发现\n整个宇宙\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "发现诗.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "phuc-nguyen-g9mMhEFS0_c-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@phucnv9985?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">phuc nguyen</a> on <a href=\"https://unsplash.com/collections/11645368/stars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-8"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "phuc-nguyen-g9mMhEFS0_c-unsplash.jpg"
+      },
+      "contents": "宇宙是一首诗，\n所以不断的发现诗，\n就能慢慢的发现\n整个宇宙\n\n人生也是一首诗，\n不停的发现诗，\n也就能慢慢的\n发现一个，\n完整的人生\n\n爱情其实也是一首诗，\n那么，不停的发现诗，\n也就能慢慢的\n发现一个，\n完全的爱情\n\n你给我的迷题，\n也是一首诗，\n而不停的发现诗，\n到最后到最后\n终究能慢慢的\n找到一个\n完美答案\n\n08, 09, 2020 15:43 PM, Tuesday.\n",
+      "id": "poetic__published__发现诗__index",
+      "path": "poetic/published/发现诗",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "发现诗"
     },
     {
       "title": "回云",
@@ -3865,6 +3865,52 @@
       "slug": "starry-nights"
     },
     {
+      "title": "The Most Beautiful Place",
+      "createdOn": "2007-06-06T22:12:00.000Z",
+      "excerpt": "The most beautiful place is never in the sky nor is too far away, it is the face where you can see the shape of your happiness on that transient space.\n",
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "tags": [
+        "permanency",
+        "impermanence"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash-cover.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@ihor_malytskyi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ihor Malytskyi</a> on <a href=\"https://unsplash.com/s/photos/mountain-far-away?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@ihor_malytskyi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ihor Malytskyi</a> on <a href=\"https://unsplash.com/s/photos/mountain-far-away?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "ihor-malytskyi-3SDi-7dKwR0-unsplash.jpg"
+      },
+      "contents": "<p>The most beautiful place is never in the sky nor is too far away, it is the face where you can see the shape of your happiness on that transient space.</p>\n",
+      "id": "origins__posts__published__the-most-beautiful-place__index",
+      "path": "origins/posts/published/the-most-beautiful-place",
+      "type": "origin",
+      "directory": "origins",
+      "category": "posts",
+      "slug": "the-most-beautiful-place"
+    },
+    {
       "title": "Time doesn't matter",
       "createdOn": "2021-05-29T16:51:00.000Z",
       "excerpt": "Time doesn't matter.\nLife does.\n",
@@ -3910,52 +3956,6 @@
       "directory": "origins",
       "category": "posts",
       "slug": "time-does-not-matter"
-    },
-    {
-      "title": "The Most Beautiful Place",
-      "createdOn": "2007-06-06T22:12:00.000Z",
-      "excerpt": "The most beautiful place is never in the sky nor is too far away, it is the face where you can see the shape of your happiness on that transient space.\n",
-      "fontSizes": {
-        "headExcerpt": "font-size-large"
-      },
-      "tags": [
-        "permanency",
-        "impermanence"
-      ],
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash-cover.jpg",
-        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@ihor_malytskyi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ihor Malytskyi</a> on <a href=\"https://unsplash.com/s/photos/mountain-far-away?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
-      },
-      "layout": "single",
-      "fullSingleHead": {
-        "gridClass": "dark-mode image-background",
-        "cellClass": "large-6",
-        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash.jpg",
-        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@ihor_malytskyi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ihor Malytskyi</a> on <a href=\"https://unsplash.com/s/photos/mountain-far-away?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
-      },
-      "hide": [
-        "contents"
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "ihor-malytskyi-3SDi-7dKwR0-unsplash.jpg"
-      },
-      "contents": "<p>The most beautiful place is never in the sky nor is too far away, it is the face where you can see the shape of your happiness on that transient space.</p>\n",
-      "id": "origins__posts__published__the-most-beautiful-place__index",
-      "path": "origins/posts/published/the-most-beautiful-place",
-      "type": "origin",
-      "directory": "origins",
-      "category": "posts",
-      "slug": "the-most-beautiful-place"
     },
     {
       "title": "Virus",
@@ -4833,68 +4833,6 @@
       "slug": "eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations"
     },
     {
-      "title": "Cosmos",
-      "createdOn": "2020-08-02T12:30:00.000Z",
-      "excerpt": "\"Exploration is in our nature. We began as wanderers, and we are wanderers still...\n",
-      "tags": [
-        "carlsagan",
-        "cosmos",
-        "cosmology"
-      ],
-      "coverImage": {
-        "file": "hamish-weir-cuO6_mnbgPE-unsplash-cover.jpg",
-        "title": "Cosmos"
-      },
-      "coverTitle": {
-        "sectionClass": null,
-        "headerClass": null,
-        "bgImage": null,
-        "bgStyle": null
-      },
-      "layout": "single",
-      "fullSingleHead": {
-        "content": "> Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.\n\nCarl Sagan, [Cosmos](https://amzn.to/3fg2RiR \"Cosmos\"), 1980. {.line-before}\n",
-        "gridClass": "dark-mode image-background",
-        "cellClass": "large-6",
-        "bgImage": "hamish-weir-cuO6_mnbgPE-unsplash.jpg",
-        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@el_ham?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Hamish Weir</a> on <a href=\"https://unsplash.com/s/photos/stars-moon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
-      },
-      "adImage": {
-        "file": "31VLvt9VyAL._SX317_BO1,204,203,200_.jpg",
-        "title": "Cosmos",
-        "link": "https://amzn.to/3fg2RiR",
-        "caption": "",
-        "cellClass": "medium-6",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> The size and age of the Cosmos are beyond ordinary human understanding. Lost somewhere between immensity and eternity is our tiny planetary home. In a cosmic perspective, most human concerns seem insignificant, even petty. And yet our species is young and curious and brave and shows much promise. In the last few millennia we have made the most astonishing and unexpected discoveries about the Cosmos and our place within it, explorations that are exhilarating to consider. They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival. I believe our future depends on how well we know this Cosmos in which we float like a mote of dust in the morning sky.\n\n> Those explorations required skepticism and imagination both. Imagination will often carry us to worlds that never were. But without it, we go nowhere. Skepticism enables us to distinguish fancy from fact, to test our speculations. The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, in the subtle machinery of awe.\n\n> As long as there have been humans, we have searched for our place in the Cosmos. In the childhood of our species (when our ancestors gazed a little idly at the stars), among the Ionian scientists of ancient Greece, and in our own age, we have been transfixed by this question: Where are we? Who are we? We find that we live on an insignificant planet of a humdrum star lost between two spiral arms in the outskirts of a galaxy which is a member of a sparse cluster of galaxies, tucked away in some forgotten corner of a universe in which there are far more galaxies than people. This perspective is a courageous continuation of our penchant for constructing and testing mental models of the skies; the Sun as a red-hot stone, the stars as celestial flame, the Galaxy as the backbone of night.\n\n> We embarked on our cosmic voyage with a question first framed in the childhood of our species and in each generation asked anew with undiminished wonder: What are the stars? Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.\n\n> For we are the local embodiment of a Cosmos grown to self-\nawareness. We have begun to contemplate our origins: starstuff\npondering the stars; organized assemblages of ten billion billion\nbillion atoms considering the evolution of atoms; tracing the long\njourney by which, here at least, consciousness arose. Our loyal­\nties are to the species and the planet. We speak for Earth. Our\nobligation to survive is owed not just to ourselves but also to that\nCosmos, ancient and vast, from which we spring.\n\nCarl Sagan, [Cosmos](https://amzn.to/3fg2RiR \"Cosmos\"), 1980. {.line-before}\n"
-        }
-      ],
-      "advert": true,
-      "sponsor": true,
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "hamish-weir-cuO6_mnbgPE-unsplash.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__exploration-is-in-our-nature__index",
-      "path": "origins/quotes/published/exploration-is-in-our-nature",
-      "type": "origin",
-      "directory": "origins",
-      "category": "quotes",
-      "slug": "exploration-is-in-our-nature"
-    },
-    {
       "title": "The Magic Furnace",
       "createdOn": "2020-07-31T12:03:00.000Z",
       "excerpt": "\"Every breath you take contains atoms forged in the blistering furnaces deep inside stars...\n",
@@ -4956,6 +4894,68 @@
       "directory": "origins",
       "category": "quotes",
       "slug": "every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars"
+    },
+    {
+      "title": "Cosmos",
+      "createdOn": "2020-08-02T12:30:00.000Z",
+      "excerpt": "\"Exploration is in our nature. We began as wanderers, and we are wanderers still...\n",
+      "tags": [
+        "carlsagan",
+        "cosmos",
+        "cosmology"
+      ],
+      "coverImage": {
+        "file": "hamish-weir-cuO6_mnbgPE-unsplash-cover.jpg",
+        "title": "Cosmos"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.\n\nCarl Sagan, [Cosmos](https://amzn.to/3fg2RiR \"Cosmos\"), 1980. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "hamish-weir-cuO6_mnbgPE-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@el_ham?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Hamish Weir</a> on <a href=\"https://unsplash.com/s/photos/stars-moon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "31VLvt9VyAL._SX317_BO1,204,203,200_.jpg",
+        "title": "Cosmos",
+        "link": "https://amzn.to/3fg2RiR",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> The size and age of the Cosmos are beyond ordinary human understanding. Lost somewhere between immensity and eternity is our tiny planetary home. In a cosmic perspective, most human concerns seem insignificant, even petty. And yet our species is young and curious and brave and shows much promise. In the last few millennia we have made the most astonishing and unexpected discoveries about the Cosmos and our place within it, explorations that are exhilarating to consider. They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival. I believe our future depends on how well we know this Cosmos in which we float like a mote of dust in the morning sky.\n\n> Those explorations required skepticism and imagination both. Imagination will often carry us to worlds that never were. But without it, we go nowhere. Skepticism enables us to distinguish fancy from fact, to test our speculations. The Cosmos is rich beyond measure - in elegant facts, in exquisite interrelationships, in the subtle machinery of awe.\n\n> As long as there have been humans, we have searched for our place in the Cosmos. In the childhood of our species (when our ancestors gazed a little idly at the stars), among the Ionian scientists of ancient Greece, and in our own age, we have been transfixed by this question: Where are we? Who are we? We find that we live on an insignificant planet of a humdrum star lost between two spiral arms in the outskirts of a galaxy which is a member of a sparse cluster of galaxies, tucked away in some forgotten corner of a universe in which there are far more galaxies than people. This perspective is a courageous continuation of our penchant for constructing and testing mental models of the skies; the Sun as a red-hot stone, the stars as celestial flame, the Galaxy as the backbone of night.\n\n> We embarked on our cosmic voyage with a question first framed in the childhood of our species and in each generation asked anew with undiminished wonder: What are the stars? Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.\n\n> For we are the local embodiment of a Cosmos grown to self-\nawareness. We have begun to contemplate our origins: starstuff\npondering the stars; organized assemblages of ten billion billion\nbillion atoms considering the evolution of atoms; tracing the long\njourney by which, here at least, consciousness arose. Our loyal­\nties are to the species and the planet. We speak for Earth. Our\nobligation to survive is owed not just to ourselves but also to that\nCosmos, ancient and vast, from which we spring.\n\nCarl Sagan, [Cosmos](https://amzn.to/3fg2RiR \"Cosmos\"), 1980. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "hamish-weir-cuO6_mnbgPE-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__exploration-is-in-our-nature__index",
+      "path": "origins/quotes/published/exploration-is-in-our-nature",
+      "type": "origin",
+      "directory": "origins",
+      "category": "quotes",
+      "slug": "exploration-is-in-our-nature"
     },
     {
       "title": "A Short History of Nearly Everything",
@@ -5355,66 +5355,6 @@
       "slug": "time-after-time"
     },
     {
-      "title": "The Poetics of Space",
-      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
-      "createdOn": "2019-05-01T01:20:00.000Z",
-      "tags": [
-        "gastonbachelard",
-        "thepoeticsofspace"
-      ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8",
-        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "bgStyle": "'background-position': 'bottom center'\n"
-      },
-      "coverImage": {
-        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "title": "Sample Title"
-      },
-      "coverTitle": {
-        "sectionClass": null,
-        "headerClass": null,
-        "bgImage": null,
-        "bgStyle": null
-      },
-      "adImage": {
-        "file": "book-the-poetics-of-space.jpg",
-        "title": "The best search engine for privacy",
-        "link": "https://amzn.to/307aen8",
-        "caption": "",
-        "cellClass": "medium-4",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index",
-      "path": "origins/quotes/published/we-are-unable-to-relive-duration-that-has-been-destroyed",
-      "type": "origin",
-      "directory": "origins",
-      "category": "quotes",
-      "slug": "we-are-unable-to-relive-duration-that-has-been-destroyed"
-    },
-    {
       "title": "Big Bang",
       "createdOn": "2020-08-02T12:29:00.000Z",
       "excerpt": "\"What was God doing before He created the Universe? Before He created Heaven and Earth...\n",
@@ -5476,6 +5416,66 @@
       "directory": "origins",
       "category": "quotes",
       "slug": "what-was-god-doing-before-he-created-the-universe"
+    },
+    {
+      "title": "The Poetics of Space",
+      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
+      "createdOn": "2019-05-01T01:20:00.000Z",
+      "tags": [
+        "gastonbachelard",
+        "thepoeticsofspace"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "bgStyle": "'background-position': 'bottom center'\n"
+      },
+      "coverImage": {
+        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "title": "Sample Title"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "book-the-poetics-of-space.jpg",
+        "title": "The best search engine for privacy",
+        "link": "https://amzn.to/307aen8",
+        "caption": "",
+        "cellClass": "medium-4",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 \"The best search engine for privacy\"), 1958. {.line-before}\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index",
+      "path": "origins/quotes/published/we-are-unable-to-relive-duration-that-has-been-destroyed",
+      "type": "origin",
+      "directory": "origins",
+      "category": "quotes",
+      "slug": "we-are-unable-to-relive-duration-that-has-been-destroyed"
     }
   ],
   "art": [
@@ -5677,6 +5677,119 @@
       "directory": "art",
       "category": "",
       "slug": "place"
+    },
+    {
+      "title": "Rising",
+      "year": "1998 - 1999",
+      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
+      "order": 2,
+      "tags": [
+        "sketching",
+        "people"
+      ],
+      "coverImage": {
+        "file": "Rising_01.jpg",
+        "title": "Rising"
+      },
+      "listImages": [
+        {
+          "file": "Rising_01.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_05.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_06.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_07.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_08.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_09.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_10.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_11.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_12.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_13.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_14.jpg",
+          "title": "Rising"
+        }
+      ],
+      "layout": "single",
+      "headImages": [
+        {
+          "file": "Rising_01.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Rising_08.jpg"
+      },
+      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
+      "id": "art__published__rising__index",
+      "path": "art/published/rising",
+      "type": "art",
+      "directory": "art",
+      "category": "",
+      "slug": "rising"
     },
     {
       "title": "Twenties",
@@ -5931,119 +6044,6 @@
       "slug": "looking"
     },
     {
-      "title": "Rising",
-      "year": "1998 - 1999",
-      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
-      "order": 2,
-      "tags": [
-        "sketching",
-        "people"
-      ],
-      "coverImage": {
-        "file": "Rising_01.jpg",
-        "title": "Rising"
-      },
-      "listImages": [
-        {
-          "file": "Rising_01.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_05.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_06.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_07.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_08.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_09.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_10.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_11.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_12.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_13.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_14.jpg",
-          "title": "Rising"
-        }
-      ],
-      "layout": "single",
-      "headImages": [
-        {
-          "file": "Rising_01.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Rising_08.jpg"
-      },
-      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
-      "id": "art__published__rising__index",
-      "path": "art/published/rising",
-      "type": "art",
-      "directory": "art",
-      "category": "",
-      "slug": "rising"
-    },
-    {
       "title": "Waiting",
       "year": "1998 - 1999",
       "excerpt": "<p>&quot;Waiting&quot; is a collection of sketches from 1998 - 1999 depicting life and faces of waiting.</p>",
@@ -6179,144 +6179,6 @@
       "slug": "hands-on-nuxtjs-web-development"
     },
     {
-      "title": "Humans",
-      "createdOn": "2020-08-09T15:57:00.000Z",
-      "excerpt": "\"All that\nexploration, all that progress, all those dreams and grand notions...\n",
-      "coverImage": {
-        "file": "collins-lesulie--OZcGk5lD7U-unsplash-cover.jpg",
-        "title": "Humans"
-      },
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "collins-lesulie--OZcGk5lD7U-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/quotes/and-thats-where-we-end-up-trapped-on-our-planet",
-      "contents": "",
-      "id": "feeds__quotes__published__and-thats-where-we-end-up-trapped-on-our-planet__index",
-      "path": "feeds/quotes/published/and-thats-where-we-end-up-trapped-on-our-planet",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "quotes",
-      "slug": "and-thats-where-we-end-up-trapped-on-our-planet"
-    },
-    {
-      "title": "Until the End of Time",
-      "createdOn": "2020-08-05T19:57:00.000Z",
-      "excerpt": "\"Eternity itself may forever lie beyond the reach of our equations, but\nour analyses...\n",
-      "coverImage": {
-        "file": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash-cover.jpg",
-        "title": "Until the End of Time"
-      },
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/quotes/eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations",
-      "contents": "",
-      "id": "feeds__quotes__published__eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations__index",
-      "path": "feeds/quotes/published/eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "quotes",
-      "slug": "eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations"
-    },
-    {
-      "title": "The Magic Furnace",
-      "createdOn": "2020-07-31T12:03:00.000Z",
-      "excerpt": "\"Every breath you take contains atoms forged in the blistering furnaces deep inside stars...\n",
-      "coverImage": {
-        "file": "patrick-mcmanaman-LN_g3qA8ohg-unsplash-cover.jpg",
-        "title": "The Magic Furnace"
-      },
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "patrick-mcmanaman-LN_g3qA8ohg-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/quotes/every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars",
-      "contents": "",
-      "id": "feeds__quotes__published__every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars__index",
-      "path": "feeds/quotes/published/every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "quotes",
-      "slug": "every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars"
-    },
-    {
-      "title": "Cosmos",
-      "createdOn": "2020-08-02T12:30:00.000Z",
-      "excerpt": "\"Exploration is in our nature. We began as wanderers, and we are wanderers still...\n",
-      "coverImage": {
-        "file": "hamish-weir-cuO6_mnbgPE-unsplash-cover.jpg",
-        "title": "Cosmos"
-      },
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "hamish-weir-cuO6_mnbgPE-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/quotes/exploration-is-in-our-nature",
-      "contents": "",
-      "id": "feeds__quotes__published__exploration-is-in-our-nature__index",
-      "path": "feeds/quotes/published/exploration-is-in-our-nature",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "quotes",
-      "slug": "exploration-is-in-our-nature"
-    },
-    {
-      "title": "End Times",
-      "createdOn": "2020-08-09T14:24:00.000Z",
-      "excerpt": "\"It is easier to imagine the end of the world than to imagine the end of capitalism...\n",
-      "coverImage": {
-        "file": "neil-thomas-NjvkwbzYrew-unsplash-feed.jpg",
-        "title": "End Times: A Brief Guide to the End of the World"
-      },
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "neil-thomas-NjvkwbzYrew-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/quotes/it-is-easier-to-imagine-the-end-of-the-world-than-to-imagine-the-end-of-capitalism",
-      "contents": "",
-      "id": "feeds__quotes__published__it-is-easier-to-imagine-the-end-of-the-world-than-to-imagine-the-end-of-capitalism__index",
-      "path": "feeds/quotes/published/it-is-easier-to-imagine-the-end-of-the-world-than-to-imagine-the-end-of-capitalism",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "quotes",
-      "slug": "it-is-easier-to-imagine-the-end-of-the-world-than-to-imagine-the-end-of-capitalism"
-    },
-    {
-      "title": "The Order of Time",
-      "createdOn": "2020-08-05T20:51:00.000Z",
-      "excerpt": "\"This is time, familiar and intimate. We are taken by it. The rush of seconds, hours, years that hurls us...\n",
-      "coverImage": {
-        "file": "jean-wimmerlin-eB6D0Wks7jA-unsplash-feed.jpg",
-        "title": "End Times: A Brief Guide to the End of the World"
-      },
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "jean-wimmerlin-eB6D0Wks7jA-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/quotes/this-is-time-familiar-and-intimate",
-      "contents": "",
-      "id": "feeds__quotes__published__this-is-time-familiar-and-intimate__index",
-      "path": "feeds/quotes/published/this-is-time-familiar-and-intimate",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "quotes",
-      "slug": "this-is-time-familiar-and-intimate"
-    },
-    {
       "title": "Truce",
       "createdOn": "2021-08-01T14:24:00.000Z",
       "excerpt": "Once on a sunny afternoon when I was a kid...\n",
@@ -6363,29 +6225,6 @@
       "slug": "a-cat-from-my-next-door"
     },
     {
-      "title": "Wander",
-      "createdOn": "2021-03-19T08:18:00.000Z",
-      "excerpt": "I have freed myself from the prison I built /\nDid you know?\n",
-      "coverImage": {
-        "file": "elijah-hiett-yFPCUWdJ-Kw-unsplash-feed.jpg",
-        "title": "wander"
-      },
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "elijah-hiett-yFPCUWdJ-Kw-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/poetic/wander",
-      "contents": "",
-      "id": "feeds__poetic__published__wander__index",
-      "path": "feeds/poetic/published/wander",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "poetic",
-      "slug": "wander"
-    },
-    {
       "title": "养猫",
       "createdOn": "2020-12-20T00:09:00.000Z",
       "excerpt": "别人养猫\n都会养了好几年\n我养的猫\n都不过一秋\n最短不过两三周\n",
@@ -6407,6 +6246,29 @@
       "directory": "feeds",
       "category": "poetic",
       "slug": "养猫"
+    },
+    {
+      "title": "Wander",
+      "createdOn": "2021-03-19T08:18:00.000Z",
+      "excerpt": "I have freed myself from the prison I built /\nDid you know?\n",
+      "coverImage": {
+        "file": "elijah-hiett-yFPCUWdJ-Kw-unsplash-feed.jpg",
+        "title": "wander"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "elijah-hiett-yFPCUWdJ-Kw-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/poetic/wander",
+      "contents": "",
+      "id": "feeds__poetic__published__wander__index",
+      "path": "feeds/poetic/published/wander",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "poetic",
+      "slug": "wander"
     },
     {
       "title": "半生",
@@ -6689,6 +6551,144 @@
       "directory": "feeds",
       "category": "posts",
       "slug": "饶人"
+    },
+    {
+      "title": "Humans",
+      "createdOn": "2020-08-09T15:57:00.000Z",
+      "excerpt": "\"All that\nexploration, all that progress, all those dreams and grand notions...\n",
+      "coverImage": {
+        "file": "collins-lesulie--OZcGk5lD7U-unsplash-cover.jpg",
+        "title": "Humans"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "collins-lesulie--OZcGk5lD7U-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/and-thats-where-we-end-up-trapped-on-our-planet",
+      "contents": "",
+      "id": "feeds__quotes__published__and-thats-where-we-end-up-trapped-on-our-planet__index",
+      "path": "feeds/quotes/published/and-thats-where-we-end-up-trapped-on-our-planet",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "quotes",
+      "slug": "and-thats-where-we-end-up-trapped-on-our-planet"
+    },
+    {
+      "title": "Until the End of Time",
+      "createdOn": "2020-08-05T19:57:00.000Z",
+      "excerpt": "\"Eternity itself may forever lie beyond the reach of our equations, but\nour analyses...\n",
+      "coverImage": {
+        "file": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash-cover.jpg",
+        "title": "Until the End of Time"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "hendra-yudha-pratama-rDOS8pI6vLQ-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations",
+      "contents": "",
+      "id": "feeds__quotes__published__eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations__index",
+      "path": "feeds/quotes/published/eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "quotes",
+      "slug": "eternity-itself-may-forever-lie-beyond-the-reach-of-our-equations"
+    },
+    {
+      "title": "The Magic Furnace",
+      "createdOn": "2020-07-31T12:03:00.000Z",
+      "excerpt": "\"Every breath you take contains atoms forged in the blistering furnaces deep inside stars...\n",
+      "coverImage": {
+        "file": "patrick-mcmanaman-LN_g3qA8ohg-unsplash-cover.jpg",
+        "title": "The Magic Furnace"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "patrick-mcmanaman-LN_g3qA8ohg-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars",
+      "contents": "",
+      "id": "feeds__quotes__published__every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars__index",
+      "path": "feeds/quotes/published/every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "quotes",
+      "slug": "every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars"
+    },
+    {
+      "title": "Cosmos",
+      "createdOn": "2020-08-02T12:30:00.000Z",
+      "excerpt": "\"Exploration is in our nature. We began as wanderers, and we are wanderers still...\n",
+      "coverImage": {
+        "file": "hamish-weir-cuO6_mnbgPE-unsplash-cover.jpg",
+        "title": "Cosmos"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "hamish-weir-cuO6_mnbgPE-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/exploration-is-in-our-nature",
+      "contents": "",
+      "id": "feeds__quotes__published__exploration-is-in-our-nature__index",
+      "path": "feeds/quotes/published/exploration-is-in-our-nature",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "quotes",
+      "slug": "exploration-is-in-our-nature"
+    },
+    {
+      "title": "End Times",
+      "createdOn": "2020-08-09T14:24:00.000Z",
+      "excerpt": "\"It is easier to imagine the end of the world than to imagine the end of capitalism...\n",
+      "coverImage": {
+        "file": "neil-thomas-NjvkwbzYrew-unsplash-feed.jpg",
+        "title": "End Times: A Brief Guide to the End of the World"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "neil-thomas-NjvkwbzYrew-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/it-is-easier-to-imagine-the-end-of-the-world-than-to-imagine-the-end-of-capitalism",
+      "contents": "",
+      "id": "feeds__quotes__published__it-is-easier-to-imagine-the-end-of-the-world-than-to-imagine-the-end-of-capitalism__index",
+      "path": "feeds/quotes/published/it-is-easier-to-imagine-the-end-of-the-world-than-to-imagine-the-end-of-capitalism",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "quotes",
+      "slug": "it-is-easier-to-imagine-the-end-of-the-world-than-to-imagine-the-end-of-capitalism"
+    },
+    {
+      "title": "The Order of Time",
+      "createdOn": "2020-08-05T20:51:00.000Z",
+      "excerpt": "\"This is time, familiar and intimate. We are taken by it. The rush of seconds, hours, years that hurls us...\n",
+      "coverImage": {
+        "file": "jean-wimmerlin-eB6D0Wks7jA-unsplash-feed.jpg",
+        "title": "End Times: A Brief Guide to the End of the World"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "jean-wimmerlin-eB6D0Wks7jA-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/quotes/this-is-time-familiar-and-intimate",
+      "contents": "",
+      "id": "feeds__quotes__published__this-is-time-familiar-and-intimate__index",
+      "path": "feeds/quotes/published/this-is-time-familiar-and-intimate",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "quotes",
+      "slug": "this-is-time-familiar-and-intimate"
     }
   ]
 }
