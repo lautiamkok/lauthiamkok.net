@@ -4,7 +4,7 @@
 
 Read the book, [Hands-on Nuxt.js Web Development](https://www.packtpub.com/product/hands-on-nuxt-js-web-development/9781789952698), for building universal and static-generated Vue.js applications using Nuxt.js.
 
-# Backend Build Setup
+# Backend build setup
 
 ```bash
 # install dependencies
@@ -14,7 +14,7 @@ $ npm install
 $ npm run dev
 ```
 
-# Frontend Build Setup
+# Frontend build setup
 
 ```bash
 # install dependencies
