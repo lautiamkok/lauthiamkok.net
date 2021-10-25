@@ -10,6 +10,125 @@
   },
   "data": [
     {
+      "title": "Dust",
+      "year": 2008,
+      "excerpt": "What is it for when the complexity of being reduces into atoms of dust in science, philosophy, arts, and poetry? - LTK, 2003.\n",
+      "order": 1,
+      "tags": [
+        "artbook"
+      ],
+      "coverImage": {
+        "file": "Dust_00.jpg",
+        "title": "Dust",
+        "path": null
+      },
+      "listImages": [
+        {
+          "file": "Dust_01.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_02.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_03.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_04.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_05.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_06.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_07.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_08.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_09.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_10.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_11.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_12.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_13.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_14.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_15.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_16.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_17.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_18.jpg",
+          "title": "Dust"
+        }
+      ],
+      "relatedPages": [
+        {
+          "link": "/art/place",
+          "title": "Place (book)"
+        },
+        {
+          "link": "/poetic/ghost",
+          "title": "Ghost (text)"
+        }
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "Dust_00.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Dust_00_OG.jpg"
+      },
+      "contents": "<p>&quot;Dust&quot; is a piece of writing on our traces and memories from the palpable place to the extended / metaphysical place - digital space. Made into 1000 copies of book to be discovered in random locations in the city of Plymouth. Published by Plymouth Arts Centre as part of the Artists and Curators Residency Programme, funded by Arts Council England SW and Plymouth City Council. A PLACE is co-published as its companion book in a new series of artists’ books published by Portfolio Five Ltd. in association with Proof magazine.</p>\n",
+      "id": "art__published__dust__index"
+    },
+    {
       "title": "A Place",
       "year": 2008,
       "order": 1,
@@ -240,100 +359,62 @@
       "id": "art__published__looking__index"
     },
     {
-      "title": "Dust",
-      "year": 2008,
-      "excerpt": "What is it for when the complexity of being reduces into atoms of dust in science, philosophy, arts, and poetry? - LTK, 2003.\n",
-      "order": 1,
+      "title": "Twenties",
+      "year": 2006,
+      "order": 5,
       "tags": [
-        "artbook"
+        "publicart"
       ],
       "coverImage": {
-        "file": "Dust_00.jpg",
-        "title": "Dust",
-        "path": null
+        "file": "Twenties_01.jpg",
+        "title": "Twenties"
       },
       "listImages": [
         {
-          "file": "Dust_01.jpg",
-          "title": "Dust"
+          "file": "Twenties_01.jpg",
+          "title": "Twenties"
         },
         {
-          "file": "Dust_02.jpg",
-          "title": "Dust"
+          "file": "Twenties_02.jpg",
+          "title": "Twenties"
         },
         {
-          "file": "Dust_03.jpg",
-          "title": "Dust"
+          "file": "Twenties_03.jpg",
+          "title": "Twenties"
         },
         {
-          "file": "Dust_04.jpg",
-          "title": "Dust"
+          "file": "Twenties_04.jpg",
+          "title": "Twenties"
         },
         {
-          "file": "Dust_05.jpg",
-          "title": "Dust"
+          "file": "Twenties_05.jpg",
+          "title": "Twenties"
         },
         {
-          "file": "Dust_06.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_07.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_08.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_09.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_10.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_11.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_12.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_13.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_14.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_15.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_16.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_17.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_18.jpg",
-          "title": "Dust"
+          "file": "Twenties_06.jpg",
+          "title": "Twenties"
         }
       ],
       "relatedPages": [
         {
-          "link": "/art/place",
-          "title": "Place (book)"
+          "link": "/poetic/when-i-am-old",
+          "title": "When I Am Old (text)"
         },
         {
-          "link": "/poetic/ghost",
-          "title": "Ghost (text)"
+          "link": "/poetic/a-hunch-and-a-dog",
+          "title": "A Hunch And a Dog (text)"
+        },
+        {
+          "link": "/poetic/humming",
+          "title": "Humming (text)"
+        },
+        {
+          "link": "/poetic/i-am-a-poem",
+          "title": "I Am a Poem (text)"
+        },
+        {
+          "link": "/poetic/诗的成因",
+          "title": "诗的成因 (text)"
         }
       ],
       "layout": "split",
@@ -341,7 +422,7 @@
         "cellClass": "large-8"
       },
       "fullSplitHeadRight": {
-        "bgImage": "Dust_00.jpg",
+        "bgImage": "Twenties_01.jpg",
         "bgStyle": "'background-position': 'top center'\n"
       },
       "meta": {
@@ -353,10 +434,11 @@
         "title": null,
         "description": null,
         "type": "article",
-        "image": "Dust_00_OG.jpg"
+        "image": "Twenties_01_OG.jpg"
       },
-      "contents": "<p>&quot;Dust&quot; is a piece of writing on our traces and memories from the palpable place to the extended / metaphysical place - digital space. Made into 1000 copies of book to be discovered in random locations in the city of Plymouth. Published by Plymouth Arts Centre as part of the Artists and Curators Residency Programme, funded by Arts Council England SW and Plymouth City Council. A PLACE is co-published as its companion book in a new series of artists’ books published by Portfolio Five Ltd. in association with Proof magazine.</p>\n",
-      "id": "art__published__dust__index"
+      "contents": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>\n",
+      "excerpt": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>",
+      "id": "art__published__twenties__index"
     },
     {
       "title": "Rising",
@@ -465,88 +547,6 @@
       },
       "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
       "id": "art__published__rising__index"
-    },
-    {
-      "title": "Twenties",
-      "year": 2006,
-      "order": 5,
-      "tags": [
-        "publicart"
-      ],
-      "coverImage": {
-        "file": "Twenties_01.jpg",
-        "title": "Twenties"
-      },
-      "listImages": [
-        {
-          "file": "Twenties_01.jpg",
-          "title": "Twenties"
-        },
-        {
-          "file": "Twenties_02.jpg",
-          "title": "Twenties"
-        },
-        {
-          "file": "Twenties_03.jpg",
-          "title": "Twenties"
-        },
-        {
-          "file": "Twenties_04.jpg",
-          "title": "Twenties"
-        },
-        {
-          "file": "Twenties_05.jpg",
-          "title": "Twenties"
-        },
-        {
-          "file": "Twenties_06.jpg",
-          "title": "Twenties"
-        }
-      ],
-      "relatedPages": [
-        {
-          "link": "/poetic/when-i-am-old",
-          "title": "When I Am Old (text)"
-        },
-        {
-          "link": "/poetic/a-hunch-and-a-dog",
-          "title": "A Hunch And a Dog (text)"
-        },
-        {
-          "link": "/poetic/humming",
-          "title": "Humming (text)"
-        },
-        {
-          "link": "/poetic/i-am-a-poem",
-          "title": "I Am a Poem (text)"
-        },
-        {
-          "link": "/poetic/诗的成因",
-          "title": "诗的成因 (text)"
-        }
-      ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "Twenties_01.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Twenties_01_OG.jpg"
-      },
-      "contents": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>\n",
-      "excerpt": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>",
-      "id": "art__published__twenties__index"
     },
     {
       "title": "Waiting",
