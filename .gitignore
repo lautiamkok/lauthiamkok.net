@@ -2,8 +2,8 @@ node_modules
 build
 npm-debug.log
 vendor
-.nuxt
-_nuxt
-apps/dist
 drafts
-frontend/assets/images
+apps/.nuxt
+apps/_nuxt
+apps/dist
+apps/frontend/assets/images

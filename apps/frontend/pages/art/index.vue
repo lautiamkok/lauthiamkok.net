@@ -101,36 +101,6 @@
           </template>
           <!-- vue - loop -->
 
-          <div class="cell small-12 large-4 grid-item hide">
-            <div class="project-item">
-              <div class="header">
-                <h2 class="h2-title header-medium inline-gold"><i class="icon icon-tree-hollow-forest"></i> <a href="#" class="link-url">Going</a></h2>
-              </div>
-              <!-- <a href="#" class="link-image text-center">
-                <ImageLazyLoad v-bind:src="require(`~/assets/images/art-3.jpg`)" />
-              </a> -->
-
-              <div class="responsive-embed widescreen" style="margin: 0">
-                <VideoLazyLoad v-bind:poster="require(`~/assets/videos/art-3.jpg`)" v-bind:src="require(`~/assets/videos/800p-30sec-Simon-Cohen-Fox-Business-News.mp4`)" />
-              </div>
-
-              <nav class="nav-gold-micro margin-y-xsmall margin-bottom-0">
-                <ul class="ul-menu flex-start">
-                  <li>
-                    <a href="#explore" class="link-menu">
-                      <i class="icon icon-sun-down"></i> WordPress
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#explore" class="link-menu">
-                      <i class="icon icon-sun-down"></i> Vue.js
-                    </a>
-                  </li>
-                </ul>
-              </nav>
-            </div>
-          </div>
-
         </div>
       </div>
     </div>
