@@ -10,125 +10,6 @@
   },
   "data": [
     {
-      "title": "Dust",
-      "year": 2008,
-      "excerpt": "What is it for when the complexity of being reduces into atoms of dust in science, philosophy, arts, and poetry? - LTK, 2003.\n",
-      "order": 1,
-      "tags": [
-        "artbook"
-      ],
-      "coverImage": {
-        "file": "Dust_00.jpg",
-        "title": "Dust",
-        "path": null
-      },
-      "listImages": [
-        {
-          "file": "Dust_01.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_02.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_03.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_04.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_05.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_06.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_07.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_08.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_09.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_10.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_11.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_12.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_13.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_14.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_15.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_16.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_17.jpg",
-          "title": "Dust"
-        },
-        {
-          "file": "Dust_18.jpg",
-          "title": "Dust"
-        }
-      ],
-      "relatedPages": [
-        {
-          "link": "/art/place",
-          "title": "Place (book)"
-        },
-        {
-          "link": "/poetic/ghost",
-          "title": "Ghost (text)"
-        }
-      ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "Dust_00.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Dust_00_OG.jpg"
-      },
-      "contents": "<p>&quot;Dust&quot; is a piece of writing on our traces and memories from the palpable place to the extended / metaphysical place - digital space. Made into 1000 copies of book to be discovered in random locations in the city of Plymouth. Published by Plymouth Arts Centre as part of the Artists and Curators Residency Programme, funded by Arts Council England SW and Plymouth City Council. A PLACE is co-published as its companion book in a new series of artists’ books published by Portfolio Five Ltd. in association with Proof magazine.</p>\n",
-      "id": "art__published__dust__index"
-    },
-    {
       "title": "A Place",
       "year": 2008,
       "order": 1,
@@ -465,6 +346,125 @@
       },
       "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
       "id": "art__published__rising__index"
+    },
+    {
+      "title": "Dust",
+      "year": 2008,
+      "excerpt": "What is it for when the complexity of being reduces into atoms of dust in science, philosophy, arts, and poetry? - LTK, 2003.\n",
+      "order": 1,
+      "tags": [
+        "artbook"
+      ],
+      "coverImage": {
+        "file": "Dust_00.jpg",
+        "title": "Dust",
+        "path": null
+      },
+      "listImages": [
+        {
+          "file": "Dust_01.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_02.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_03.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_04.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_05.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_06.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_07.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_08.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_09.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_10.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_11.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_12.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_13.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_14.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_15.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_16.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_17.jpg",
+          "title": "Dust"
+        },
+        {
+          "file": "Dust_18.jpg",
+          "title": "Dust"
+        }
+      ],
+      "relatedPages": [
+        {
+          "link": "/art/place",
+          "title": "Place (book)"
+        },
+        {
+          "link": "/poetic/ghost",
+          "title": "Ghost (text)"
+        }
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "Dust_00.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Dust_00_OG.jpg"
+      },
+      "contents": "<p>&quot;Dust&quot; is a piece of writing on our traces and memories from the palpable place to the extended / metaphysical place - digital space. Made into 1000 copies of book to be discovered in random locations in the city of Plymouth. Published by Plymouth Arts Centre as part of the Artists and Curators Residency Programme, funded by Arts Council England SW and Plymouth City Council. A PLACE is co-published as its companion book in a new series of artists’ books published by Portfolio Five Ltd. in association with Proof magazine.</p>\n",
+      "id": "art__published__dust__index"
     },
     {
       "title": "Twenties",

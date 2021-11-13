@@ -181,41 +181,6 @@
       "id": "origins__digital__published__hands-on-nuxtjs-web-development__index"
     },
     {
-      "title": "Dreamers",
-      "createdOn": "2008-07-23T19:48:00.000Z",
-      "excerpt": "We are dreams in dreamers' dreams.\n",
-      "tags": [
-        "dreams",
-        "dreamers"
-      ],
-      "fontSizes": {
-        "headExcerpt": "font-size-large"
-      },
-      "layout": "card",
-      "coverTitle": {
-        "sectionClass": "square-container flex-center image-background",
-        "headerClass": "inline-gold",
-        "bgImage": "108301734_105972471130727_748282221037850867_n.jpg",
-        "bgStyle": ""
-      },
-      "hide": [
-        "contents"
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "108301734_105972471130727_748282221037850867_n.jpg"
-      },
-      "contents": "<p>We are dreams in dreamers&#39; dreams.</p>\n",
-      "id": "origins__posts__published__dreamers__index"
-    },
-    {
       "title": "Butterflies' Wings",
       "createdOn": "2009-07-23T19:48:00.000Z",
       "excerpt": "I am Nature in butterflies' wings.\n",
@@ -257,26 +222,21 @@
       "id": "origins__posts__published__butterflies-wings__index"
     },
     {
-      "title": "Spark",
-      "createdOn": "2010-03-30T17:00:00.000Z",
-      "excerpt": "Stars don't spark forever, nor do our loves.\n",
+      "title": "Dreamers",
+      "createdOn": "2008-07-23T19:48:00.000Z",
+      "excerpt": "We are dreams in dreamers' dreams.\n",
       "tags": [
-        "impermanence"
+        "dreams",
+        "dreamers"
       ],
       "fontSizes": {
         "headExcerpt": "font-size-large"
       },
-      "layout": "single",
-      "fullSingleHead": {
-        "gridClass": "dark-mode image-background",
-        "cellClass": "large-6",
-        "bgImage": "orion-nebula-11001_1920.jpg",
-        "imgCaption": "Image by <a href=\"https://pixabay.com/users/WikiImages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11053\">WikiImages</a> from <a href=\"https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11053\">Pixabay</a>\n"
-      },
+      "layout": "card",
       "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
+        "sectionClass": "square-container flex-center image-background",
         "headerClass": "inline-gold",
-        "bgImage": "orion-nebula-11001_1920-cover.jpg",
+        "bgImage": "108301734_105972471130727_748282221037850867_n.jpg",
         "bgStyle": ""
       },
       "hide": [
@@ -291,10 +251,10 @@
         "title": null,
         "description": null,
         "type": "article",
-        "image": "orion-nebula-11001_1920.jpg"
+        "image": "108301734_105972471130727_748282221037850867_n.jpg"
       },
-      "contents": "<p>Stars don&#39;t spark forever, nor do our loves.</p>\n",
-      "id": "origins__posts__published__spark__index"
+      "contents": "<p>We are dreams in dreamers&#39; dreams.</p>\n",
+      "id": "origins__posts__published__dreamers__index"
     },
     {
       "title": "Starry Nights",
@@ -337,6 +297,46 @@
       },
       "contents": "<p>I know everything ends the same: I still try to remember your face that time has taken it away - I remember nothing but starry nights.</p>\n",
       "id": "origins__posts__published__starry-nights__index"
+    },
+    {
+      "title": "Spark",
+      "createdOn": "2010-03-30T17:00:00.000Z",
+      "excerpt": "Stars don't spark forever, nor do our loves.\n",
+      "tags": [
+        "impermanence"
+      ],
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "orion-nebula-11001_1920.jpg",
+        "imgCaption": "Image by <a href=\"https://pixabay.com/users/WikiImages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11053\">WikiImages</a> from <a href=\"https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11053\">Pixabay</a>\n"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "orion-nebula-11001_1920-cover.jpg",
+        "bgStyle": ""
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "orion-nebula-11001_1920.jpg"
+      },
+      "contents": "<p>Stars don&#39;t spark forever, nor do our loves.</p>\n",
+      "id": "origins__posts__published__spark__index"
     },
     {
       "title": "The Most Beautiful Place",
@@ -1104,63 +1104,6 @@
       "id": "origins__quotes__published__and-thats-where-we-end-up-trapped-on-our-planet__index"
     },
     {
-      "title": "Why Look at Animals?",
-      "createdOn": "2020-07-14T01:28:00.000Z",
-      "excerpt": "\"Animals are born, are sentient and are mortal. In these things they resemble man...\n",
-      "tags": [
-        "johnberger",
-        "whylookatanimals",
-        "zoo"
-      ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8",
-        "content": "> Animals are born, are sentient and are mortal. In these things they resemble man. In their superficial anatomy — less in their deep anatomy — in their habits, in their time, in their physical capacities, they differ from man. They are both like and unlike.\n\nJohn Berger, [Why Look at Animals?](https://amzn.to/2YNIOGA \"Why Look at Animals?\") 2009. {.line-before}\n"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "sarah-stockman-XRC-YQT46AU-unsplash.jpg",
-        "bgStyle": "'background-position': 'top center'\n",
-        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@sarahslimpie?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">sarah stockman</a> on <a href=\"https://unsplash.com/s/photos/zoo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
-      },
-      "coverImage": {
-        "file": "cover-sarah-stockman-XRC-YQT46AU-unsplash.jpg",
-        "title": "Why Look at Animals?"
-      },
-      "coverTitle": {
-        "sectionClass": null,
-        "headerClass": null,
-        "bgImage": null,
-        "bgStyle": null
-      },
-      "adImage": {
-        "file": "book-cover-why-look-at-animals.jpg",
-        "title": "Why Look at Animals?",
-        "link": "https://amzn.to/2YNIOGA",
-        "caption": "",
-        "cellClass": "medium-6",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> Animals are born, are sentient and are mortal. In these things they resemble man. In their superficial anatomy — less in their deep anatomy — in their habits, in their time, in their physical capacities, they differ from man. They are both like and unlike.\n\n> The eyes of an animal when they consider a man are attentive and wary. The same animal may well look at other species in the same way. He does not reserve a special look for man. But by no other species except man will the animal’s look be recognised as familiar. Other animals are held by the look. Man becomes aware of himself returning the look.\n\n> Everywhere animals disappear. In zoos they constitute the living monument to their own disappearance. And in doing so, they provoked their last metaphor.\n\n> All sites of enforced marginalisation — ghettos, shanty towns, prisons, madhouses, concentration camps — have something in common with zoos. But it is both too easy and too evasive to use the zoo as a symbol. The zoo is a demonstration of the relations between man and animals; nothing else.\n\nJohn Berger, [Why Look at Animals?](https://amzn.to/2YNIOGA \"Why Look at Animals?\") 2009. {.line-before}\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "sarah-stockman-XRC-YQT46AU-unsplash.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__animals-are-born-are-sentient-and-are-mortal-in-these-things-they-resemble-man__index"
-    },
-    {
       "title": "Until the End of Time",
       "createdOn": "2020-08-05T19:57:00.000Z",
       "excerpt": "\"Eternity itself may forever lie beyond the reach of our equations, but\nour analyses have already revealed that the universe we have come to know is\ntransitory...\n",
@@ -1273,6 +1216,63 @@
       },
       "contents": "",
       "id": "origins__quotes__published__every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars__index"
+    },
+    {
+      "title": "Why Look at Animals?",
+      "createdOn": "2020-07-14T01:28:00.000Z",
+      "excerpt": "\"Animals are born, are sentient and are mortal. In these things they resemble man...\n",
+      "tags": [
+        "johnberger",
+        "whylookatanimals",
+        "zoo"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "content": "> Animals are born, are sentient and are mortal. In these things they resemble man. In their superficial anatomy — less in their deep anatomy — in their habits, in their time, in their physical capacities, they differ from man. They are both like and unlike.\n\nJohn Berger, [Why Look at Animals?](https://amzn.to/2YNIOGA \"Why Look at Animals?\") 2009. {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "sarah-stockman-XRC-YQT46AU-unsplash.jpg",
+        "bgStyle": "'background-position': 'top center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@sarahslimpie?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">sarah stockman</a> on <a href=\"https://unsplash.com/s/photos/zoo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "coverImage": {
+        "file": "cover-sarah-stockman-XRC-YQT46AU-unsplash.jpg",
+        "title": "Why Look at Animals?"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "book-cover-why-look-at-animals.jpg",
+        "title": "Why Look at Animals?",
+        "link": "https://amzn.to/2YNIOGA",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> Animals are born, are sentient and are mortal. In these things they resemble man. In their superficial anatomy — less in their deep anatomy — in their habits, in their time, in their physical capacities, they differ from man. They are both like and unlike.\n\n> The eyes of an animal when they consider a man are attentive and wary. The same animal may well look at other species in the same way. He does not reserve a special look for man. But by no other species except man will the animal’s look be recognised as familiar. Other animals are held by the look. Man becomes aware of himself returning the look.\n\n> Everywhere animals disappear. In zoos they constitute the living monument to their own disappearance. And in doing so, they provoked their last metaphor.\n\n> All sites of enforced marginalisation — ghettos, shanty towns, prisons, madhouses, concentration camps — have something in common with zoos. But it is both too easy and too evasive to use the zoo as a symbol. The zoo is a demonstration of the relations between man and animals; nothing else.\n\nJohn Berger, [Why Look at Animals?](https://amzn.to/2YNIOGA \"Why Look at Animals?\") 2009. {.line-before}\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "sarah-stockman-XRC-YQT46AU-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__animals-are-born-are-sentient-and-are-mortal-in-these-things-they-resemble-man__index"
     },
     {
       "title": "Cosmos: The Story of Cosmic Evolution, Science and Civilisation",
@@ -1611,6 +1611,61 @@
       "id": "origins__quotes__published__this-is-time-familiar-and-intimate__index"
     },
     {
+      "title": "The Poetics of Space",
+      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
+      "createdOn": "2019-05-01T01:20:00.000Z",
+      "tags": [
+        "gastonbachelard",
+        "thepoeticsofspace"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/3FbyK9D \"The Poetics of Space\"), 1958. {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "bgStyle": "'background-position': 'bottom center'\n"
+      },
+      "coverImage": {
+        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "title": "Sample Title"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "book-the-poetics-of-space.jpg",
+        "title": "The Poetics of Space",
+        "link": "https://amzn.to/3FbyK9D",
+        "caption": "",
+        "cellClass": "medium-4",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/3FbyK9D \"The Poetics of Space\"), 1958. {.line-before}\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index"
+    },
+    {
       "title": "About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes our Lives - And We Shape the Cosmos",
       "createdOn": "2020-06-18T06:04:00.000Z",
       "excerpt": "\"Time after time, we have never been anything other than collaborators with the universe...\n",
@@ -1697,61 +1752,6 @@
       },
       "contents": "",
       "id": "origins__quotes__published__time-after-time__index"
-    },
-    {
-      "title": "The Poetics of Space",
-      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
-      "createdOn": "2019-05-01T01:20:00.000Z",
-      "tags": [
-        "gastonbachelard",
-        "thepoeticsofspace"
-      ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8",
-        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/3FbyK9D \"The Poetics of Space\"), 1958. {.line-before}\n"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "bgStyle": "'background-position': 'bottom center'\n"
-      },
-      "coverImage": {
-        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "title": "Sample Title"
-      },
-      "coverTitle": {
-        "sectionClass": null,
-        "headerClass": null,
-        "bgImage": null,
-        "bgStyle": null
-      },
-      "adImage": {
-        "file": "book-the-poetics-of-space.jpg",
-        "title": "The Poetics of Space",
-        "link": "https://amzn.to/3FbyK9D",
-        "caption": "",
-        "cellClass": "medium-4",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/3FbyK9D \"The Poetics of Space\"), 1958. {.line-before}\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index"
     },
     {
       "title": "Big Bang: The Origin of the Universe",
