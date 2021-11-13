@@ -1,5 +1,5 @@
 ---
-title: "Big Bang"
+title: "Big Bang: The Origin of the Universe"
 
 createdOn: 2020-08-02 12:29:00
 
@@ -10,7 +10,7 @@ tags: [simonsingh, bigbang, cosmology]
 
 coverImage:
   file: volcano-4493461_1920-cover.jpg
-  title: "Big Bang"
+  title: "Big Bang: The Origin of the Universe"
 
 coverTitle:
   sectionClass:
@@ -23,7 +23,7 @@ fullSingleHead:
   content: |
     > What was God doing before He created the Universe? Before He created Heaven and Earth, God created hell to be used for people such as you who ask this kind of question.
 
-     St Augustine in [Big Bang](https://amzn.to/2BSY3m4 "Big Bang"), by Simon Singh, 2004. {.line-before}
+     St Augustine in [Big Bang: The Origin of the Universe](https://amzn.to/3oq8f9P "Big Bang: The Origin of the Universe"), by Simon Singh, 2004. {.line-before}
 
   gridClass: dark-mode image-background
   cellClass: large-6
@@ -35,8 +35,8 @@ fullSingleHead:
 
 adImage:
   file: 51GZTPV701L._SX311_BO1,204,203,200_.jpg
-  title: "Big Bang"
-  link: https://amzn.to/2BSY3m4
+  title: "Big Bang: The Origin of the Universe"
+  link: https://amzn.to/3oq8f9P
   caption: >
   cellClass: medium-6
   figcaptionGridClass: small-padding-collapse
@@ -76,7 +76,7 @@ listContents:
 
       > In his autobiography, Confessions, written in about AD 400, the philosopher and theologian St Augustine quotes an answer he has heard to the theological equivalent of ‘What came before the Big Bang?’: What was God doing before He created the Universe? Before He created Heaven and Earth, God created hell to be used for people such as you who ask this kind of question.
 
-      Simon Singh, [Big Bang](https://amzn.to/2BSY3m4 "Big Bang"), 2004. {.line-before}
+      Simon Singh, [Big Bang: The Origin of the Universe](https://amzn.to/3oq8f9P "Big Bang: The Origin of the Universe"), 2004. {.line-before}
 
 advert: true
 sponsor: true

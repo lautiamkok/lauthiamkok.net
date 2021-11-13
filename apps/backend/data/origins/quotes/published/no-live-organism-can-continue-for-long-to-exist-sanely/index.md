@@ -23,7 +23,7 @@ fullSingleHead:
   content: |
     > No live organism can continue for long to exist sanely under conditions of absolute reality; even larks and katydids are supposed, by some, to dream.
 
-    Shirley Jackson, [The Haunting of Hill House](https://amzn.to/3i3acnK "The Haunting of Hill House"), 1959. {.line-before}
+    Shirley Jackson, [The Haunting of Hill House](https://amzn.to/3DgfSWq "The Haunting of Hill House"), 1959. {.line-before}
 
   gridClass: dark-mode image-background
   cellClass: large-5
@@ -34,7 +34,7 @@ fullSingleHead:
 adImage:
   file: 51fVXztE8vL._SX324_BO1,204,203,200_.jpg
   title: "The Haunting of Hill House"
-  link: https://amzn.to/3i3acnK
+  link: https://amzn.to/3DgfSWq
   caption: >
   cellClass: medium-6
   figcaptionGridClass: small-padding-collapse
@@ -50,7 +50,7 @@ listContents:
       doors were sensibly shut; silence lay steadily against the wood and stone of
       Hill House, and whatever walked there, walked alone.
 
-      Shirley Jackson, [The Haunting of Hill House](https://amzn.to/3i3acnK "The Haunting of Hill House"), 1959. {.line-before}
+      Shirley Jackson, [The Haunting of Hill House](https://amzn.to/3DgfSWq "The Haunting of Hill House"), 1959. {.line-before}
 
 advert: true
 sponsor: true

@@ -199,6 +199,166 @@
       "id": "art__published__place__index"
     },
     {
+      "title": "Looking",
+      "year": "1997 - 2000",
+      "excerpt": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>",
+      "order": 3,
+      "tags": [
+        "sketching",
+        "people",
+        "portrait"
+      ],
+      "coverImage": {
+        "file": "Looking_01.jpg",
+        "title": "Looking"
+      },
+      "listImages": [
+        {
+          "file": "Looking_01.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_02.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_03.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_04.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_05.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_06.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_07.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_08.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_09.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_10.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_11.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_12.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_13.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_14.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_15.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_16.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_17.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_18.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_19.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_20.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_21.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_22.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_23.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_24.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_25.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_26.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_27.jpg"
+        }
+      ],
+      "layout": "single",
+      "headImages": [
+        {
+          "file": "Looking_21.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_12.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_23.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_04.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_27.jpg",
+          "alt": "Looking"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Looking_01_OG.jpg"
+      },
+      "contents": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>\n",
+      "id": "art__published__looking__index"
+    },
+    {
       "title": "Rising",
       "year": "1998 - 1999",
       "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
@@ -387,166 +547,6 @@
       "contents": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>\n",
       "excerpt": "<p>&quot;Twenties&quot; is a public project funded by Breeze scheme BBC South West and the Arts Council. It is one of the 12 project ideas chosen and developed with the help of BBC Radio Devon and a range of other local partner organisations. It aims to beautify the city with poetry. Six pieces of poster size of English and Mandarin poems were produced and displayed in the city of Plymouth.</p>",
       "id": "art__published__twenties__index"
-    },
-    {
-      "title": "Looking",
-      "year": "1997 - 2000",
-      "excerpt": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>",
-      "order": 3,
-      "tags": [
-        "sketching",
-        "people",
-        "portrait"
-      ],
-      "coverImage": {
-        "file": "Looking_01.jpg",
-        "title": "Looking"
-      },
-      "listImages": [
-        {
-          "file": "Looking_01.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_02.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_03.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_04.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_05.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_06.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_07.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_08.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_09.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_10.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_11.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_12.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_13.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_14.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_15.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_16.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_17.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_18.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_19.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_20.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_21.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_22.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_23.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_24.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_25.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_26.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_27.jpg"
-        }
-      ],
-      "layout": "single",
-      "headImages": [
-        {
-          "file": "Looking_21.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_12.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_23.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_04.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_27.jpg",
-          "alt": "Looking"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Looking_01_OG.jpg"
-      },
-      "contents": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>\n",
-      "id": "art__published__looking__index"
     },
     {
       "title": "Waiting",

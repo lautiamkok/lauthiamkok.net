@@ -30,7 +30,7 @@ fullSingleHead:
     where we end up: trapped on our planet by a prison we’ve made from our
     own trash.
 
-    Tom Phillips, [Humans](https://amzn.to/2DztVNm "Humans: A Brief History of How We F*cked It All Up"), 2018. {.line-before}
+    Tom Phillips, [Humans: A Brief History of How We F*cked It All Up](https://amzn.to/3c7Gz3E "Humans: A Brief History of How We F*cked It All Up"), 2018. {.line-before}
 
   gridClass: dark-mode image-background
   cellClass: large-6
@@ -43,7 +43,7 @@ fullSingleHead:
 adImage:
   file: 41H75UarOdL._SX325_BO1,204,203,200_.jpg
   title: "Humans: A Brief History of How We F*cked It All Up"
-  link: https://amzn.to/2DztVNm
+  link: https://amzn.to/3c7Gz3E
   caption: >
     Humans: A Brief History of How We F*cked It All Up – by Tom Phillips
   cellClass: medium-6
@@ -89,7 +89,7 @@ listContents:
         lucky enough to live at the dawn of a new age of not fucking up. Maybe we
         really do have the capacity to be better.
 
-      Tom Phillips, [Humans](https://amzn.to/2DztVNm "Humans: A Brief History of How We F*cked It All Up"), 2018. {.line-before}
+      Tom Phillips, [Humans: A Brief History of How We F*cked It All Up](https://amzn.to/3c7Gz3E "Humans: A Brief History of How We F*cked It All Up"), 2018. {.line-before}
 
 advert: true
 sponsor: true

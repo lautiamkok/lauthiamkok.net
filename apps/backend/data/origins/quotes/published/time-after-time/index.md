@@ -1,5 +1,5 @@
 ---
-title: "About Time"
+title: "About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes our Lives - And We Shape the Cosmos"
 
 createdOn: 2020-06-18 06:04:00
 
@@ -13,7 +13,7 @@ fullSingleHead:
   content: |
     > Time after time, we have never been anything other than collaborators with the universe. Always and again we have been the co-creators of a time and a cosmos that exist together with us.
 
-    Adam Frank, [About Time](https://amzn.to/311KNp1 "About Time"), 2011. {.line-before}
+    Adam Frank, [About Time](https://amzn.to/3kBve0q "About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes our Lives - And We Shape the Cosmos"), 2011. {.line-before}
 
   gridClass: dark-mode image-background
   cellClass: large-6
@@ -37,11 +37,11 @@ fullSingleHead:
 #   content: |
 #     > Time after time, we have never been anything other than collaborators with the universe. Always and again we have been the co-creators of a time and a cosmos that exist together with us.
 
-#     Adam Frank, [About Time](https://amzn.to/311KNp1 "About Time"), 2011. {.line-before}
+#     Adam Frank, [About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes our Lives - And We Shape the Cosmos](https://amzn.to/3kBve0q "About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes our Lives - And We Shape the Cosmos"), 2011. {.line-before}
 
 coverImage:
   file: casey-horner-j0ZPSFuybvg-unsplash-cover.jpg
-  title: "About Time"
+  title: "About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes our Lives - And We Shape the Cosmos"
 
 coverTitle:
   sectionClass:
@@ -52,7 +52,7 @@ coverTitle:
 adImage:
   file: 51DgXiQqMNL._SX310_BO1,204,203,200_.jpg
   title: About Time
-  link: https://amzn.to/311KNp1
+  link: https://amzn.to/3kBve0q
   caption: >
     About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes Our Lives Paperback – by Adam Frank
   cellClass: medium-4
@@ -73,7 +73,7 @@ listContents:
   - contents: |
       > Time after time, we have never been anything other than collaborators with the universe. Always and again we have been the co-creators of a time and a cosmos that exist together with us. That is what makes our story anything but insignificant and makes our universes anything but meaningless. We have always been weaving the fabric of our experience into a culturally shared time and, in the process, have become ever more intimate with a universe that has always invited our participation. With each step we gain a new perspective, even if it will never be the final perspective. That is just fine. With each step we gain a deeper sense of the awe and beauty that suffuse the universe’s essential mystery. If we can trace our steps from the past and see our way clearly into the future, then certainly there is time enough for that great effort to continue with renewed clarity and purpose.
 
-      Adam Frank, [About Time](https://amzn.to/311KNp1 "About Time"), 2011. {.line-before}
+      Adam Frank, [About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes our Lives - And We Shape the Cosmos](https://amzn.to/3kBve0q "About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes our Lives - And We Shape the Cosmos"), 2011. {.line-before}
 
     image:
       file: about-time-cyclic-universe.png

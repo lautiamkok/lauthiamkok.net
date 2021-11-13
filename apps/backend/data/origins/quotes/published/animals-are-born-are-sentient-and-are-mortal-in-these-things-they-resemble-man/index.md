@@ -31,7 +31,7 @@ fullSplitHeadLeft:
   content: |
     > Animals are born, are sentient and are mortal. In these things they resemble man. In their superficial anatomy — less in their deep anatomy — in their habits, in their time, in their physical capacities, they differ from man. They are both like and unlike.
 
-    John Berger, [Why Look at Animals?](https://amzn.to/3frSRE7 "Why Look at Animals?") 2009. {.line-before}
+    John Berger, [Why Look at Animals?](https://amzn.to/2YNIOGA "Why Look at Animals?") 2009. {.line-before}
 
 fullSplitHeadRight:
   bgImage: sarah-stockman-XRC-YQT46AU-unsplash.jpg
@@ -53,7 +53,7 @@ coverTitle:
 adImage:
   file: book-cover-why-look-at-animals.jpg
   title: Why Look at Animals?
-  link: https://amzn.to/3frSRE7
+  link: https://amzn.to/2YNIOGA
   caption: >
   cellClass: medium-6
   figcaptionGridClass: small-padding-collapse
@@ -69,7 +69,7 @@ listContents:
 
       > All sites of enforced marginalisation — ghettos, shanty towns, prisons, madhouses, concentration camps — have something in common with zoos. But it is both too easy and too evasive to use the zoo as a symbol. The zoo is a demonstration of the relations between man and animals; nothing else.
 
-      John Berger, [Why Look at Animals?](https://amzn.to/3frSRE7 "Why Look at Animals?") 2009. {.line-before}
+      John Berger, [Why Look at Animals?](https://amzn.to/2YNIOGA "Why Look at Animals?") 2009. {.line-before}
 
 meta:
   title:

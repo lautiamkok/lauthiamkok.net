@@ -23,7 +23,7 @@ fullSingleHead:
   content: |
     > All human beings by nature desire knowledge.
 
-     Aristotle in [Poetics  (Penguin Classics)](https://amzn.to/31cX0WH "Poetics  (Penguin Classics)"), by Malcolm Heath, 1996. {.line-before}
+     Aristotle in [Poetics  (Penguin Classics)](https://amzn.to/3qANAmi "Poetics  (Penguin Classics)"), by Malcolm Heath, 1996. {.line-before}
 
   gridClass: dark-mode image-background
   cellClass: large-5
@@ -34,7 +34,7 @@ fullSingleHead:
 adImage:
   file: 51rxDzC74yL._SX321_BO1,204,203,200_.jpg
   title: "Poetics  (Penguin Classics)"
-  link: https://amzn.to/31cX0WH
+  link: https://amzn.to/3qANAmi
   caption: >
   cellClass: medium-6
   figcaptionGridClass: small-padding-collapse
@@ -68,7 +68,7 @@ listContents:
       sophisticated descendant of primitive myth-making responses to an
       astonishing world.
 
-      Malcolm Heath, [Poetics  (Penguin Classics)](https://amzn.to/31cX0WH "Poetics  (Penguin Classics)"), 1996. {.line-before}
+      Malcolm Heath, [Poetics  (Penguin Classics)](https://amzn.to/3qANAmi "Poetics  (Penguin Classics)"), 1996. {.line-before}
 
 advert: true
 sponsor: true

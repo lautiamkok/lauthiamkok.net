@@ -26,7 +26,7 @@ fullSingleHead:
       seconds, hours, years that hurls us toward life then drags us toward
       nothingness...
 
-    Carlo Rovelli, [The Order of Time](https://amzn.to/31qX2u4 "The Order of Time"), 2017. {.line-before}
+    Carlo Rovelli, [The Order of Time](https://amzn.to/30jF8ND "The Order of Time"), 2017. {.line-before}
 
   gridClass: dark-mode image-background
   cellClass: large-6
@@ -39,7 +39,7 @@ fullSingleHead:
 adImage:
   file: 51qOa+wz2nL._SX323_BO1,204,203,200_.jpg
   title: "The Order of Time"
-  link: https://amzn.to/31qX2u4
+  link: https://amzn.to/30jF8ND
   caption: >
     The Order of Time – by Carlo Rovelli
   cellClass: medium-6
@@ -79,7 +79,7 @@ listContents:
       like this. We can close our eyes, rest. This all seems fair and beautiful
       to me. This is time.
 
-      Carlo Rovelli, [The Order of Time](https://amzn.to/31qX2u4 "The Order of Time"), . {.line-before}
+      Carlo Rovelli, [The Order of Time](https://amzn.to/30jF8ND "The Order of Time"), . {.line-before}
 
 advert: true
 sponsor: true

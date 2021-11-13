@@ -28,7 +28,7 @@ fullSingleHead:
       our analyses have already revealed that the universe we have come to know is
       transitory.
 
-    Brian Greene, [Until the End of Time](https://amzn.to/3idTQbU "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe"), 2020. {.line-before}
+    Brian Greene, [Until the End of Time](https://amzn.to/3wIiBpb "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe"), 2020. {.line-before}
 
   gridClass: dark-mode image-background
   cellClass: large-6
@@ -41,7 +41,7 @@ fullSingleHead:
 adImage:
   file: 51keovPHkHL._SX321_BO1,204,203,200_.jpg
   title: "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe"
-  link: https://amzn.to/3idTQbU
+  link: https://amzn.to/3wIiBpb
   caption: >
     Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe – by Brian Greene
   cellClass: medium-6
@@ -79,7 +79,7 @@ listContents:
       story carved of sound and etched into silence, a story that, at its best, stirs the
       soul.
 
-      Brian Greene, [Until the End of Time](https://amzn.to/3idTQbU "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe"), 2020. {.line-before}
+      Brian Greene, [Until the End of Time](https://amzn.to/3wIiBpb "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe"), 2020. {.line-before}
 
 advert: true
 sponsor: true

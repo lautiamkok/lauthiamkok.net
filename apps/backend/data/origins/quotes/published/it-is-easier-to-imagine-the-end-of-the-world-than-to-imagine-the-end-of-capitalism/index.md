@@ -24,7 +24,7 @@ fullSingleHead:
   content: |
     > It is easier to imagine the end of the world than to imagine the end of capitalism.
 
-    Bryan Walsh, [End Times](https://amzn.to/2XIfiOC "End Times: A Brief Guide to the End of the World"), 2019. {.line-before}
+    Bryan Walsh, [End Times](https://amzn.to/30rkCum "End Times: A Brief Guide to the End of the World"), 2019. {.line-before}
 
   gridClass: dark-mode image-background
   cellClass: large-6
@@ -37,7 +37,7 @@ fullSingleHead:
 adImage:
   file: 514Dw3K8TKL._SX324_BO1,204,203,200_.jpg
   title: "End Times: A Brief Guide to the End of the World"
-  link: https://amzn.to/2XIfiOC
+  link: https://amzn.to/30rkCum
   caption: >
     End Times: A Brief Guide to the End of the World – by Bryan Walsh
   cellClass: medium-6
@@ -76,7 +76,7 @@ listContents:
 
       > So we must run faster, as if we’re running for our lives.
 
-      Bryan Walsh, [End Times](https://amzn.to/2XIfiOC "End Times: A Brief Guide to the End of the World"), 2019. {.line-before}
+      Bryan Walsh, [End Times](https://amzn.to/30rkCum "End Times: A Brief Guide to the End of the World"), 2019. {.line-before}
 
 advert: true
 sponsor: true

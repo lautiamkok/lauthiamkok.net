@@ -31,7 +31,7 @@ tags: [johnberger, ourfacesmyheart, briefasphotos]
 #   content: |
 #     > According to whether we are in the same place or separated one from the other, I know you twice. There are two of you.
 
-#     John Berger, [And Our Faces, My Heart, Brief as Photos](https://amzn.to/3039UpM "And Our Faces, My Heart, Brief as Photos"), 1984. {.line-before}
+#     John Berger, [And Our Faces, My Heart, Brief as Photos](https://amzn.to/3Hh1Ar3 "And Our Faces, My Heart, Brief as Photos"), 1984. {.line-before}
 
 # fullSplitHeadRight:
 #   bgImage: jehyun-sung-Tadh6l_pTpE-unsplash.jpg
@@ -44,7 +44,7 @@ fullSingleHead:
   content: |
     > According to whether we are in the same place or separated one from the other, I know you twice. There are two of you.
 
-    John Berger, [And Our Faces, My Heart, Brief as Photos](https://amzn.to/3039UpM "And Our Faces, My Heart, Brief as Photos"), 1984. {.line-before}
+    John Berger, [And Our Faces, My Heart, Brief as Photos](https://amzn.to/3Hh1Ar3 "And Our Faces, My Heart, Brief as Photos"), 1984. {.line-before}
 
   gridClass: image-background
   cellClass: large-6
@@ -66,7 +66,7 @@ coverTitle:
 adImage:
   file: book-and-our-faces-my-heart.jpg
   title: And Our Faces, My Heart, Brief as Photos
-  link: https://amzn.to/3039UpM
+  link: https://amzn.to/3Hh1Ar3
   caption: >
   cellClass: medium-6
   figcaptionGridClass: small-padding-collapse
@@ -78,7 +78,7 @@ listContents:
 
       >  When you are away, you are nevertheless present for me. This presence is multiform: it consists of countless images, passages, meanings, things known, landmarks, yet the whole remains marked by your absence, in that it is diffuse. It is as if your person becomes a place, your contours horizons. I live in you then like living in a country. You are everywhere. Yet in that country I can never meet you face to face.
 
-      John Berger, [And Our Faces, My Heart, Brief as Photos](https://amzn.to/3039UpM "And Our Faces, My Heart, Brief as Photos"), 1984. {.line-before}
+      John Berger, [And Our Faces, My Heart, Brief as Photos](https://amzn.to/3Hh1Ar3 "And Our Faces, My Heart, Brief as Photos"), 1984. {.line-before}
 
 advert: true
 sponsor: true

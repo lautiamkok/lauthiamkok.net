@@ -67,6 +67,31 @@
       "id": "poetic__published__A Few Winters Ago__index"
     },
     {
+      "title": "Beautiful Creatures",
+      "excerpt": "From time to time I miss the wild chickens that I used to keep in the garden of my parent house.",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Beautiful Creatures.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__Beautiful Creatures__index"
+    },
+    {
       "title": "A Hunch And a Dog",
       "fullSplitHeadLeft": {
         "cellClass": "large-8"
@@ -91,31 +116,6 @@
       "contents": "",
       "excerpt": "",
       "id": "poetic__published__A Hunch And a Dog__index"
-    },
-    {
-      "title": "Beautiful Creatures",
-      "excerpt": "From time to time I miss the wild chickens that I used to keep in the garden of my parent house.",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "Beautiful Creatures.txt",
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": null
-      },
-      "contents": "",
-      "id": "poetic__published__Beautiful Creatures__index"
     },
     {
       "title": "Epilogue",
@@ -377,31 +377,6 @@
       "id": "poetic__published__I Cannot Live with You__index"
     },
     {
-      "title": "If You Can Wait",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "If You Can Wait.txt",
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": null
-      },
-      "contents": "",
-      "id": "poetic__published__If You Can Wait__index"
-    },
-    {
       "title": "I Will Keep a Dog",
       "excerpt": "",
       "fullSplitHeadLeft": {
@@ -425,6 +400,31 @@
       },
       "contents": "",
       "id": "poetic__published__I Will Keep a Dog__index"
+    },
+    {
+      "title": "If You Can Wait",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "If You Can Wait.txt",
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": null
+      },
+      "contents": "",
+      "id": "poetic__published__If You Can Wait__index"
     },
     {
       "title": "In Ruin",
@@ -523,20 +523,6 @@
       "id": "poetic__published__Mollusc__index"
     },
     {
-      "title": "Prologue",
-      "excerpt": "",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "Poetic.txt",
-      "contents": "",
-      "id": "poetic__published__Prologue__index"
-    },
-    {
       "title": "Place",
       "excerpt": "and all these distances become the place I run to when the dark rises, when I want your ghost to come to warm my winter sky and watch my summer stars.\n",
       "relatedPages": [
@@ -569,6 +555,20 @@
       },
       "contents": "",
       "id": "poetic__published__Place__index"
+    },
+    {
+      "title": "Prologue",
+      "excerpt": "",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "Poetic.txt",
+      "contents": "",
+      "id": "poetic__published__Prologue__index"
     },
     {
       "title": "Remember My Name",

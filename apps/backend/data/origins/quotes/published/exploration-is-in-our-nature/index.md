@@ -1,5 +1,5 @@
 ---
-title: "Cosmos"
+title: "Cosmos: The Story of Cosmic Evolution, Science and Civilisation"
 
 createdOn: 2020-08-02 12:30:00
 
@@ -10,7 +10,7 @@ tags: [carlsagan, cosmos, cosmology]
 
 coverImage:
   file: hamish-weir-cuO6_mnbgPE-unsplash-cover.jpg
-  title: "Cosmos"
+  title: "Cosmos: The Story of Cosmic Evolution, Science and Civilisation"
 
 coverTitle:
   sectionClass:
@@ -23,7 +23,7 @@ fullSingleHead:
   content: |
     > Exploration is in our nature. We began as wanderers, and we are wanderers still. We have lingered long enough on the shores of the cosmic ocean. We are ready at last to set sail for the stars.
 
-    Carl Sagan, [Cosmos](https://amzn.to/3fg2RiR "Cosmos"), 1980. {.line-before}
+    Carl Sagan, [Cosmos: The Story of Cosmic Evolution, Science and Civilisation](https://amzn.to/3C6YQc8 "Cosmos: The Story of Cosmic Evolution, Science and Civilisation"), 1980. {.line-before}
 
   gridClass: dark-mode image-background
   cellClass: large-6
@@ -33,8 +33,8 @@ fullSingleHead:
 
 adImage:
   file: 31VLvt9VyAL._SX317_BO1,204,203,200_.jpg
-  title: "Cosmos"
-  link: https://amzn.to/3fg2RiR
+  title: "Cosmos: The Story of Cosmic Evolution, Science and Civilisation"
+  link: https://amzn.to/3C6YQc8
   caption: >
   cellClass: medium-6
   figcaptionGridClass: small-padding-collapse
@@ -59,7 +59,7 @@ listContents:
       obligation to survive is owed not just to ourselves but also to that
       Cosmos, ancient and vast, from which we spring.
 
-      Carl Sagan, [Cosmos](https://amzn.to/3fg2RiR "Cosmos"), 1980. {.line-before}
+      Carl Sagan, [Cosmos: The Story of Cosmic Evolution, Science and Civilisation](https://amzn.to/3C6YQc8 "Cosmos: The Story of Cosmic Evolution, Science and Civilisation"), 1980. {.line-before}
 
 advert: true
 sponsor: true

@@ -1,5 +1,5 @@
 ---
-title: "A Short History of Nearly Everything"
+title: "A Short History of Nearly Everything: A Journey Through Space and Time"
 
 createdOn: 2020-08-07 15:43:00
 
@@ -12,7 +12,7 @@ tags: [billbryson, ashorthistoryofnearlyeverything, cosmology, atom]
 
 coverImage:
  file: dennys-hess-Gt_4iMB7hY0-unsplash-cover.jpg
- title: "A Short History of Nearly Everything"
+ title: "A Short History of Nearly Everything: A Journey Through Space and Time"
 
 coverTitle:
 #  sectionClass: square-container image-background
@@ -29,7 +29,7 @@ fullSingleHead:
     are there. They don't even know that they are there. They are mindless
     particles, after all, and not even themselves alive.
 
-    Bill Bryson, [A Short History of Nearly Everything](https://amzn.to/3gxzKsS "A Short History of Nearly Everything"), 2003. {.line-before}
+    Bill Bryson, [A Short History of Nearly Everything](https://amzn.to/3DpElZq "A Short History of Nearly Everything: A Journey Through Space and Time"), 2003. {.line-before}
 
   gridClass: dark-mode image-background
   cellClass: large-6
@@ -41,8 +41,8 @@ fullSingleHead:
 
 adImage:
   file: 51Jo717gJrL._SX319_BO1,204,203,200_.jpg
-  title: "A Short History of Nearly Everything"
-  link: https://amzn.to/3gxzKsS
+  title: "A Short History of Nearly Everything: A Journey Through Space and Time"
+  link: https://amzn.to/3DpElZq
   caption: >
     A Short History of Nearly Everything – by Bill Bryson
   cellClass: medium-6
@@ -104,7 +104,7 @@ listContents:
       sure we never find the end. And that, almost certainly, will require a good
       deal more than lucky breaks.
 
-      Bill Bryson, [A Short History of Nearly Everything](https://amzn.to/3gxzKsS "A Short History of Nearly Everything"), 2003. {.line-before}
+      Bill Bryson, [A Short History of Nearly Everything](https://amzn.to/3DpElZq "A Short History of Nearly Everything: A Journey Through Space and Time"), 2003. {.line-before}
 
 advert: true
 sponsor: true

@@ -25,7 +25,7 @@ fullSplitHeadLeft:
   content: |
     > We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.
 
-    Gaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 "The best search engine for privacy"), 1958. {.line-before}
+    Gaston Bachelard, [The Poetics of Space](https://amzn.to/3FbyK9D "The Poetics of Space"), 1958. {.line-before}
 
 fullSplitHeadRight:
   bgImage: 60960944_142433740242511_7822571419432273703_n.jpg
@@ -44,8 +44,8 @@ coverTitle:
 
 adImage:
   file: book-the-poetics-of-space.jpg
-  title: The best search engine for privacy
-  link: https://amzn.to/307aen8
+  title: The Poetics of Space
+  link: https://amzn.to/3FbyK9D
   caption: >
   cellClass: medium-4
   figcaptionGridClass: small-padding-collapse
@@ -69,7 +69,7 @@ listContents:
 
       > I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.
 
-      Gaston Bachelard, [The Poetics of Space](https://amzn.to/307aen8 "The best search engine for privacy"), 1958. {.line-before}
+      Gaston Bachelard, [The Poetics of Space](https://amzn.to/3FbyK9D "The Poetics of Space"), 1958. {.line-before}
 
 meta:
   title:

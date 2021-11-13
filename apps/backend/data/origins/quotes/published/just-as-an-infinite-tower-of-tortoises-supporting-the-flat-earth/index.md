@@ -1,5 +1,5 @@
 ---
-title: "A Brief History of Time"
+title: "A Brief History of Time: From the Big Bang to Black Holes"
 
 createdOn: 2020-08-07 14:00:00
 
@@ -37,7 +37,7 @@ fullSplitHeadLeft:
     lack observational evidence: no one has ever seen a giant tortoise with the
     earth on its back, but then, no one has seen a superstring either.
 
-    Stephen Hawking, [A Brief History of Time](https://amzn.to/3kqoiSq "A Brief History of Time"), 1988. {.line-before}
+    Stephen Hawking, [A Brief History of Time](https://amzn.to/3HtAgGm "A Brief History of Time: From the Big Bang to Black Holes"), 1988. {.line-before}
 
 fullSplitHeadRight:
   bgImage: john-fowler-7Ym9rpYtSdA-unsplash.jpg
@@ -59,7 +59,7 @@ coverTitle:
 adImage:
   file: 51OzG5OkrxL._SX303_BO1,204,203,200_.jpg
   title: A Brief History of Time
-  link: https://amzn.to/3kqoiSq
+  link: https://amzn.to/3HtAgGm
   caption: >
     A Brief History of Time : From the Big Bang to Black Holes – by Stephen Hawking
 
@@ -90,7 +90,7 @@ listContents:
       triumph of human reason—for then we would know the mind of God.
 
 
-      Stephen Hawking, [A Brief History of Time](https://amzn.to/3kqoiSq "A Brief History of Time"), 1988. {.line-before}
+      Stephen Hawking, [A Brief History of Time](https://amzn.to/3HtAgGm "A Brief History of Time: From the Big Bang to Black Holes"), 1988. {.line-before}
 
 advert: true
 sponsor: true
