@@ -80,274 +80,6 @@
       "id": "art__published__place__index"
     },
     {
-      "title": "Looking",
-      "year": "1997 - 2000",
-      "excerpt": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>",
-      "order": 3,
-      "tags": [
-        "sketching",
-        "people",
-        "portrait"
-      ],
-      "coverImage": {
-        "file": "Looking_01.jpg",
-        "title": "Looking"
-      },
-      "listImages": [
-        {
-          "file": "Looking_01.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_02.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_03.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_04.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_05.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_06.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_07.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_08.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_09.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_10.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_11.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_12.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_13.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_14.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_15.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_16.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_17.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_18.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_19.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_20.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_21.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_22.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_23.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_24.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_25.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_26.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_27.jpg"
-        }
-      ],
-      "layout": "single",
-      "headImages": [
-        {
-          "file": "Looking_21.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_12.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_23.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_04.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_27.jpg",
-          "alt": "Looking"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Looking_01_OG.jpg"
-      },
-      "contents": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>\n",
-      "id": "art__published__looking__index"
-    },
-    {
-      "title": "Rising",
-      "year": "1998 - 1999",
-      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
-      "order": 2,
-      "tags": [
-        "sketching",
-        "people"
-      ],
-      "coverImage": {
-        "file": "Rising_01.jpg",
-        "title": "Rising"
-      },
-      "listImages": [
-        {
-          "file": "Rising_01.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_05.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_06.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_07.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_08.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_09.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_10.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_11.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_12.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_13.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_14.jpg",
-          "title": "Rising"
-        }
-      ],
-      "layout": "single",
-      "headImages": [
-        {
-          "file": "Rising_01.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Rising_08.jpg"
-      },
-      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
-      "id": "art__published__rising__index"
-    },
-    {
       "title": "Dust",
       "year": 2008,
       "excerpt": "What is it for when the complexity of being reduces into atoms of dust in science, philosophy, arts, and poetry? - LTK, 2003.\n",
@@ -652,6 +384,274 @@
       },
       "contents": "<p>&quot;Waiting&quot; is a collection of sketches from 1998 - 1999 depicting life and faces of waiting.</p>\n",
       "id": "art__published__waiting__index"
+    },
+    {
+      "title": "Looking",
+      "year": "1997 - 2000",
+      "excerpt": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>",
+      "order": 3,
+      "tags": [
+        "sketching",
+        "people",
+        "portrait"
+      ],
+      "coverImage": {
+        "file": "Looking_01.jpg",
+        "title": "Looking"
+      },
+      "listImages": [
+        {
+          "file": "Looking_01.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_02.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_03.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_04.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_05.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_06.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_07.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_08.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_09.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_10.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_11.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_12.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_13.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_14.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_15.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_16.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_17.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_18.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_19.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_20.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_21.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_22.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_23.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_24.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_25.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_26.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_27.jpg"
+        }
+      ],
+      "layout": "single",
+      "headImages": [
+        {
+          "file": "Looking_21.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_12.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_23.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_04.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_27.jpg",
+          "alt": "Looking"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Looking_01_OG.jpg"
+      },
+      "contents": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>\n",
+      "id": "art__published__looking__index"
+    },
+    {
+      "title": "Rising",
+      "year": "1998 - 1999",
+      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
+      "order": 2,
+      "tags": [
+        "sketching",
+        "people"
+      ],
+      "coverImage": {
+        "file": "Rising_01.jpg",
+        "title": "Rising"
+      },
+      "listImages": [
+        {
+          "file": "Rising_01.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_05.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_06.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_07.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_08.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_09.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_10.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_11.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_12.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_13.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_14.jpg",
+          "title": "Rising"
+        }
+      ],
+      "layout": "single",
+      "headImages": [
+        {
+          "file": "Rising_01.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Rising_08.jpg"
+      },
+      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
+      "id": "art__published__rising__index"
     }
   ]
 }

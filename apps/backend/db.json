@@ -1439,43 +1439,6 @@
       "slug": "养猫"
     },
     {
-      "title": "半生",
-      "excerpt": "此生堪惊 为了那群银河\n为了那颗死去的星星\n为了天长地久\n",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "半生.txt",
-      "layout": "flat",
-      "headImage": {
-        "file": "vincent-guth-ISI5DlnYvuY-unsplash.jpg",
-        "alt": "半生",
-        "caption": "<span>Photo by <a href=\"https://unsplash.com/@vingtcent?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Vincent Guth</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
-        "cellClass": "large-10"
-      },
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "vincent-guth-ISI5DlnYvuY-unsplash.jpg"
-      },
-      "contents": "回首半生已逝，除了\n还有很多的疑问\n此生堪惊，此生堪惊\n\n同样的，回首你已逝，除了\n留下给我的迷题\n此生堪惊，此生堪惊\n\n此生堪惊，为了那群银河\n为了那颗死去的星星\n为了天长地久\n\n此生堪惊，为了相遇与重逢\n为了百年孤寂\n为了从此不分离\n\n此生堪惊，为了是非成败\n为了几度夕阳\n为了与你同行\n\n此生堪惊，为了放逐与流浪\n为了真相与解惑\n为了一首歌\n\n此生堪惊，此生堪惊\n为了憾恨，为了给你的诗\n为了今生无悔\n为了今生无悔\n\n13.08.2020, 07:27 am, Thursday.\n",
-      "id": "poetic__published__半生__index",
-      "path": "poetic/published/半生",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "半生"
-    },
-    {
       "title": "几首短诗",
       "excerpt": "宇宙再长\n思念再疯狂\n或是再大的是非成败\n",
       "fullSplitHeadLeft": {
@@ -1511,6 +1474,43 @@
       "directory": "poetic",
       "category": "",
       "slug": "几首短诗"
+    },
+    {
+      "title": "半生",
+      "excerpt": "此生堪惊 为了那群银河\n为了那颗死去的星星\n为了天长地久\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "半生.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "vincent-guth-ISI5DlnYvuY-unsplash.jpg",
+        "alt": "半生",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@vingtcent?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Vincent Guth</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-10"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "vincent-guth-ISI5DlnYvuY-unsplash.jpg"
+      },
+      "contents": "回首半生已逝，除了\n还有很多的疑问\n此生堪惊，此生堪惊\n\n同样的，回首你已逝，除了\n留下给我的迷题\n此生堪惊，此生堪惊\n\n此生堪惊，为了那群银河\n为了那颗死去的星星\n为了天长地久\n\n此生堪惊，为了相遇与重逢\n为了百年孤寂\n为了从此不分离\n\n此生堪惊，为了是非成败\n为了几度夕阳\n为了与你同行\n\n此生堪惊，为了放逐与流浪\n为了真相与解惑\n为了一首歌\n\n此生堪惊，此生堪惊\n为了憾恨，为了给你的诗\n为了今生无悔\n为了今生无悔\n\n13.08.2020, 07:27 am, Thursday.\n",
+      "id": "poetic__published__半生__index",
+      "path": "poetic/published/半生",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "半生"
     },
     {
       "title": "发现诗",
@@ -2079,7 +2079,7 @@
     },
     {
       "title": "藤条",
-      "excerpt": "如果你问我哥姐，我妈最疼是谁，大家都会毫不犹豫的说是我。可是，我就不认同。\n",
+      "excerpt": "如果你问我哥姐，我妈最疼是谁，大家都会不约而同的说是我。可是，我就不认同。\n",
       "fullSplitHeadLeft": {
         "cellClass": "large-8"
       },
@@ -2106,50 +2106,13 @@
         "type": "article",
         "image": "jonathan-pielmayer-gDrUY7QUeng-unsplash.jpg"
       },
-      "contents": "如果你问我哥姐，我妈最疼是谁，大家都会毫不犹豫的说是我。可是，我就不认同。记忆中，挨骂挨藤条最多的好像是我。那壁上挂着的藤条，好像永远是为我而存在的。不管我偷扔掉多少根，妈都会下山在巴刹买过新的挂回去。不然就会在庭前草中寻获，或者在床底发现好几根我偷藏起来的旧藤条。所以，我从来不觉得妈是偏心的。\r\n\r\n不过，如果你问我，谁最懂掏我妈欢心，我能告诉你，那肯定是我。小时我是不会读书的。读字有点障碍，上行接不了下一行。那个上门补习老师来了一两次就摇头向妈辞职。所以一来我就不爱读书，考试都是在最后几名。直到有一次考算数做弊得高分，妈在不知情下特别高兴了好久好几个周，而我从来不告诉妈那是作弊的。妈从来不开心，我不想遭踏了那个微小的快乐。可是我一直耿耿于怀，所以仅有那一次作弊就没再重复了。上了中学努力地在很多课题轻易的考获高分，领回的成绩让妈高兴之后就算大功告成了，反而我常帮同学作弊。\r\n\r\n然而，如果你问我妈，谁缺席她的丧礼，我是千夫所指了。小时我的行动没哥姐那么自由。有很多地方我是不获允许去的，很多朋友不可交，很多话不可说。所以，我只懂上山下山，上学回家。其他的地方我都不懂，也不会去。也许这样的成长中，我常有抱怨，好像等待越狱的笼中鸟。于是上大学时候就去了最远的那间，隔着一个海洋，毕业后去了那个比较远的大城市。之后去了更远的他乡，一去就去了很久，过了好多的春夏秋冬，为了那些是非成败，为了啊不负母亲的等待。直到最后几次跟妈通话，妈无奈调侃的说，“回来时要给你吃藤条”。然后最后一次拨电她没接，之后我们就没再通话了。当我和旧山重逢，回到那最初的地方，只能握住妈用过的手机，她戴过的一副眼镜，她依靠过的拐杖轮椅，还有，还有，一根藤条。原来，生命是握不住的，是一条一去不返的河流。就好像，她也曾握不住，那个一去不返的我。再见时候不过是风花雪月。\r\n\r\n01.09.2021, 05:10 am, Wed.\r\n",
+      "contents": "如果你问我哥姐，我妈最疼是谁，大家都会不约而同的说是我。可是，我就不认同。记忆中，挨骂挨藤条最多的好像是我。那壁上挂着的藤条，好像永远是为我而存在的。不管我偷扔掉多少根，妈都会下山在巴刹买过新的挂回去。不然就会在庭前草中寻获，或者在床底发现好几根我偷藏起来的旧藤条。所以，我从来不觉得妈是偏心的。\r\n\r\n不过，如果你问我，谁最懂掏我妈欢心，我能告诉你，那肯定是我。小时我是不会读书的。读字有点障碍，上行接不了下一行。那个上门补习老师来了一两次就摇头向妈辞职。所以一来我就不爱读书，考试都是在最后几名。直到有一次考算数做弊得高分，妈在不知情下特别高兴了好久好几个周，而我从来不告诉妈那是作弊的。妈从来不开心，我不想遭踏了那个微小的快乐。可是我一直耿耿于怀，所以仅有那一次作弊就没再重复了。上了中学努力地在很多课题轻易的考获高分，领回的成绩让妈高兴之后就算大功告成了，反而我常帮同学作弊。\r\n\r\n然而，如果你问我妈，谁缺席她的丧礼，我是千夫所指了。小时我的行动没哥姐那么自由。有很多地方我是不获允许去的，很多朋友不可交，很多话不可说。所以，我只懂上山下山，上学回家。其他的地方我都不懂，也不会去。也许这样的成长中，我常有抱怨，好像等待越狱的笼中鸟。于是上大学时候就去了最远的那间，隔着一个海洋，毕业后去了那个比较远的大城市。之后去了更远的他乡，一去就去了很久，过了好多的春夏秋冬，为了那些是非成败，为了啊不负母亲的等待。直到最后几次跟妈通话，妈无奈调侃的说，“回来时要给你吃藤条”。然后最后一次拨电她没接，之后我们就没再通话了。当我和旧山重逢，回到那最初的地方，只能握住妈用过的手机，她戴过的一副眼镜，她依靠过的拐杖轮椅，还有，还有，一根藤条。原来，生命是握不住的，是一条一去不返的河流。就好像，她也曾握不住，那个一去不返的我。再见时候不过是风花雪月。\r\n\r\n01.09.2021, 05:10 am, Wed.\r\n",
       "id": "poetic__published__藤条__index",
       "path": "poetic/published/藤条",
       "type": "poetic",
       "directory": "poetic",
       "category": "",
       "slug": "藤条"
-    },
-    {
-      "title": "蟑螂",
-      "excerpt": "也許你已轉世\n長成一朵紅花\n在庭院裡等我走過\n",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8"
-      },
-      "fullSplitHeadRight": {
-        "cellClass": "large-8"
-      },
-      "contentClass": "large-5",
-      "include": "蟑螂.txt",
-      "layout": "flat",
-      "headImage": {
-        "file": "ehud-neuhaus-m04m3xDE1Ho-unsplash.jpg",
-        "alt": "sample alt",
-        "caption": "<span>Photo by <a href=\"https://unsplash.com/@vixenly?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Kym MacKinnon</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
-        "cellClass": "large-7"
-      },
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "ehud-neuhaus-m04m3xDE1Ho-unsplash.jpg"
-      },
-      "contents": "也許你已轉世\n長成一朵紅花\n在庭院裡等我走過\n而我總是錯過了\n失望的你，只能\n無聲的\n凋零了\n\n也許你化做一隻蛾\n夜裡到處散下粉子\n撲向我的黃燈時候\n一隻狡猾的壁虎\n埋伏燈後，在你極快樂\n極幸福之際衝出，\n一口，把你\n吞去了\n\n也許你破孵成為\n一隻壁虎在我的牆上\n嘰嘰喳喳，我一氣之下\n捉下你丟進了馬桶\n你在水邊瘋狂的掙扎，\n瘋狂的，和我\n四目交投求饒\n而我狠心的把你\n冲掉了\n\n於是你索性定居夢中\n儘管我到了天涯海角\n你一路在夢裡等候\n等我經過\n但是我每次總是忘了\n你已為我跋盡千山\n住在萬里長湖之外\n而只常滿懷幸福的\n与你重逢\n\n某天你變成一隻蟑螂\n在廚房中撿拾地上的碎餅來吃\n而還來不及感受那個\n極低微的幸福，就被我\n用蚊油在你的背上一噴\n你在地上，又再一次\n掙扎又無助，悲傷的\n再死去\n\n15.05.2016, 01:35 am, Wednesday.\n",
-      "id": "poetic__published__蟑螂__index",
-      "path": "poetic/published/蟑螂",
-      "type": "poetic",
-      "directory": "poetic",
-      "category": "",
-      "slug": "蟑螂"
     },
     {
       "title": "許望",
@@ -2187,6 +2150,43 @@
       "directory": "poetic",
       "category": "",
       "slug": "許望"
+    },
+    {
+      "title": "蟑螂",
+      "excerpt": "也許你已轉世\n長成一朵紅花\n在庭院裡等我走過\n",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8"
+      },
+      "fullSplitHeadRight": {
+        "cellClass": "large-8"
+      },
+      "contentClass": "large-5",
+      "include": "蟑螂.txt",
+      "layout": "flat",
+      "headImage": {
+        "file": "ehud-neuhaus-m04m3xDE1Ho-unsplash.jpg",
+        "alt": "sample alt",
+        "caption": "<span>Photo by <a href=\"https://unsplash.com/@vixenly?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Kym MacKinnon</a> on <a href=\"https://unsplash.com/collections/11456707/nature?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n",
+        "cellClass": "large-7"
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "ehud-neuhaus-m04m3xDE1Ho-unsplash.jpg"
+      },
+      "contents": "也許你已轉世\n長成一朵紅花\n在庭院裡等我走過\n而我總是錯過了\n失望的你，只能\n無聲的\n凋零了\n\n也許你化做一隻蛾\n夜裡到處散下粉子\n撲向我的黃燈時候\n一隻狡猾的壁虎\n埋伏燈後，在你極快樂\n極幸福之際衝出，\n一口，把你\n吞去了\n\n也許你破孵成為\n一隻壁虎在我的牆上\n嘰嘰喳喳，我一氣之下\n捉下你丟進了馬桶\n你在水邊瘋狂的掙扎，\n瘋狂的，和我\n四目交投求饒\n而我狠心的把你\n冲掉了\n\n於是你索性定居夢中\n儘管我到了天涯海角\n你一路在夢裡等候\n等我經過\n但是我每次總是忘了\n你已為我跋盡千山\n住在萬里長湖之外\n而只常滿懷幸福的\n与你重逢\n\n某天你變成一隻蟑螂\n在廚房中撿拾地上的碎餅來吃\n而還來不及感受那個\n極低微的幸福，就被我\n用蚊油在你的背上一噴\n你在地上，又再一次\n掙扎又無助，悲傷的\n再死去\n\n15.05.2016, 01:35 am, Wednesday.\n",
+      "id": "poetic__published__蟑螂__index",
+      "path": "poetic/published/蟑螂",
+      "type": "poetic",
+      "directory": "poetic",
+      "category": "",
+      "slug": "蟑螂"
     },
     {
       "title": "诗的成因",
@@ -3773,6 +3773,51 @@
       "slug": "dreamers"
     },
     {
+      "title": "Spark",
+      "createdOn": "2010-03-30T17:00:00.000Z",
+      "excerpt": "Stars don't spark forever, nor do our loves.\n",
+      "tags": [
+        "impermanence"
+      ],
+      "fontSizes": {
+        "headExcerpt": "font-size-large"
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-6",
+        "bgImage": "orion-nebula-11001_1920.jpg",
+        "imgCaption": "Image by <a href=\"https://pixabay.com/users/WikiImages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11053\">WikiImages</a> from <a href=\"https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11053\">Pixabay</a>\n"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "orion-nebula-11001_1920-cover.jpg",
+        "bgStyle": ""
+      },
+      "hide": [
+        "contents"
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "orion-nebula-11001_1920.jpg"
+      },
+      "contents": "<p>Stars don&#39;t spark forever, nor do our loves.</p>\n",
+      "id": "origins__posts__published__spark__index",
+      "path": "origins/posts/published/spark",
+      "type": "origin",
+      "directory": "origins",
+      "category": "posts",
+      "slug": "spark"
+    },
+    {
       "title": "Starry Nights",
       "createdOn": "2012-12-26T17:33:00.000Z",
       "excerpt": "I know everything ends the same: I still try to remember your face that time has taken it away - I remember nothing but starry nights.\n",
@@ -3818,51 +3863,6 @@
       "directory": "origins",
       "category": "posts",
       "slug": "starry-nights"
-    },
-    {
-      "title": "Spark",
-      "createdOn": "2010-03-30T17:00:00.000Z",
-      "excerpt": "Stars don't spark forever, nor do our loves.\n",
-      "tags": [
-        "impermanence"
-      ],
-      "fontSizes": {
-        "headExcerpt": "font-size-large"
-      },
-      "layout": "single",
-      "fullSingleHead": {
-        "gridClass": "dark-mode image-background",
-        "cellClass": "large-6",
-        "bgImage": "orion-nebula-11001_1920.jpg",
-        "imgCaption": "Image by <a href=\"https://pixabay.com/users/WikiImages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11053\">WikiImages</a> from <a href=\"https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=11053\">Pixabay</a>\n"
-      },
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "inline-gold",
-        "bgImage": "orion-nebula-11001_1920-cover.jpg",
-        "bgStyle": ""
-      },
-      "hide": [
-        "contents"
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "orion-nebula-11001_1920.jpg"
-      },
-      "contents": "<p>Stars don&#39;t spark forever, nor do our loves.</p>\n",
-      "id": "origins__posts__published__spark__index",
-      "path": "origins/posts/published/spark",
-      "type": "origin",
-      "directory": "origins",
-      "category": "posts",
-      "slug": "spark"
     },
     {
       "title": "The Most Beautiful Place",
@@ -4530,64 +4530,6 @@
       "slug": "a-better-day-will-come"
     },
     {
-      "title": "Poetics  (Penguin Classics)",
-      "createdOn": "2020-08-03T13:30:00.000Z",
-      "excerpt": "\"All human beings by nature desire knowledge - a fundamental premise of Aristotle’s understanding of what it is to be human...\n",
-      "tags": [
-        "malcolmheath",
-        "poetics",
-        "aristotle"
-      ],
-      "coverTitle": {
-        "sectionClass": "square-container image-background",
-        "headerClass": "inline-gold",
-        "bgImage": "mario-klassen-dYswqbzvopw-unsplash-cover.jpg",
-        "bgStyle": ""
-      },
-      "layout": "single",
-      "fullSingleHead": {
-        "content": "> All human beings by nature desire knowledge.\n\n Aristotle in [Poetics  (Penguin Classics)](https://amzn.to/3qANAmi \"Poetics  (Penguin Classics)\"), by Malcolm Heath, 1996. {.line-before}\n",
-        "gridClass": "dark-mode image-background",
-        "cellClass": "large-5",
-        "bgImage": "mario-klassen-dYswqbzvopw-unsplash.jpg",
-        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@marioklassen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Mario Klassen</a> on <a href=\"https://unsplash.com/s/photos/study-room?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
-      },
-      "adImage": {
-        "file": "51rxDzC74yL._SX321_BO1,204,203,200_.jpg",
-        "title": "Poetics  (Penguin Classics)",
-        "link": "https://amzn.to/3qANAmi",
-        "caption": "",
-        "cellClass": "medium-6",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> ‘All human beings by nature desire knowledge.’ This, the opening sentence\nof the *Metaphysics* (980aI), states a fundamental premise of Aristotle’s\nunderstanding of what it is to be human. He points out as evidence for his\nclaim the pleasure we take in looking at things and assimilating information\nthrough our senses. Sensation is of course shared with many other animals,\nand the accretion of sensation through memory into experience is shared\nwith some. But humans are unique in their capacity to derive universal\njudgements from their experiences. Animals act by instinct or acquired\nhabit, but humans are capable of acting from understanding: they know (as\na dog might know) *that* this is the thing to do in a certain situation, but they\nmay also understand (as a dog cannot) *why* it is the thing to do. This is what\nAristotle calls in Greek *tekhnê*; the word is conventionally translated as\n‘craft’, ‘skill’ or ‘art’, but Aristotle defines *tekhnê* as a productive capacity\ninformed by an understanding of its intrinsic rationale (cf. *Nicomachean\nEthics*, 1140a20f,). For Aristotle, the evolution of human culture is in large\npart the evolution of *tekhnê*. The first arts which human beings developed\nwere those concerned with producing the necessities of their existence.\nThen came recreational arts - those which, while not necessary, enhance the\nquality of human life. In due course, activities arose which simply satisfy\nthe desire to know (Aristotle’s example is mathematics). Ultimately,\nphilosophy emerged. Philosophy is rooted in the basic human instinct to\nseek knowledge: the world puzzles us and arouses our sense of wonder, and\nso prompts us to look for explanations. Philosophy is therefore the\nsophisticated descendant of primitive myth-making responses to an\nastonishing world.\n\nMalcolm Heath, [Poetics  (Penguin Classics)](https://amzn.to/3qANAmi \"Poetics  (Penguin Classics)\"), 1996. {.line-before}\n"
-        }
-      ],
-      "advert": true,
-      "sponsor": true,
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "mario-klassen-dYswqbzvopw-unsplash.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__all-human-beings-by-nature-desire-knowledge__index",
-      "path": "origins/quotes/published/all-human-beings-by-nature-desire-knowledge",
-      "type": "origin",
-      "directory": "origins",
-      "category": "quotes",
-      "slug": "all-human-beings-by-nature-desire-knowledge"
-    },
-    {
       "title": "And Our Faces, My Heart, Brief as Photos",
       "createdOn": "2020-06-18T15:46:00.000Z",
       "excerpt": "\"According to whether we are in the same place or separated one from the other, I know you twice...\n",
@@ -4650,6 +4592,64 @@
       "slug": "according-to-whether-we-are-in-the-same-place-or-separated-one"
     },
     {
+      "title": "Poetics  (Penguin Classics)",
+      "createdOn": "2020-08-03T13:30:00.000Z",
+      "excerpt": "\"All human beings by nature desire knowledge - a fundamental premise of Aristotle’s understanding of what it is to be human...\n",
+      "tags": [
+        "malcolmheath",
+        "poetics",
+        "aristotle"
+      ],
+      "coverTitle": {
+        "sectionClass": "square-container image-background",
+        "headerClass": "inline-gold",
+        "bgImage": "mario-klassen-dYswqbzvopw-unsplash-cover.jpg",
+        "bgStyle": ""
+      },
+      "layout": "single",
+      "fullSingleHead": {
+        "content": "> All human beings by nature desire knowledge.\n\n Aristotle in [Poetics  (Penguin Classics)](https://amzn.to/3qANAmi \"Poetics  (Penguin Classics)\"), by Malcolm Heath, 1996. {.line-before}\n",
+        "gridClass": "dark-mode image-background",
+        "cellClass": "large-5",
+        "bgImage": "mario-klassen-dYswqbzvopw-unsplash.jpg",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@marioklassen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Mario Klassen</a> on <a href=\"https://unsplash.com/s/photos/study-room?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "adImage": {
+        "file": "51rxDzC74yL._SX321_BO1,204,203,200_.jpg",
+        "title": "Poetics  (Penguin Classics)",
+        "link": "https://amzn.to/3qANAmi",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> ‘All human beings by nature desire knowledge.’ This, the opening sentence\nof the *Metaphysics* (980aI), states a fundamental premise of Aristotle’s\nunderstanding of what it is to be human. He points out as evidence for his\nclaim the pleasure we take in looking at things and assimilating information\nthrough our senses. Sensation is of course shared with many other animals,\nand the accretion of sensation through memory into experience is shared\nwith some. But humans are unique in their capacity to derive universal\njudgements from their experiences. Animals act by instinct or acquired\nhabit, but humans are capable of acting from understanding: they know (as\na dog might know) *that* this is the thing to do in a certain situation, but they\nmay also understand (as a dog cannot) *why* it is the thing to do. This is what\nAristotle calls in Greek *tekhnê*; the word is conventionally translated as\n‘craft’, ‘skill’ or ‘art’, but Aristotle defines *tekhnê* as a productive capacity\ninformed by an understanding of its intrinsic rationale (cf. *Nicomachean\nEthics*, 1140a20f,). For Aristotle, the evolution of human culture is in large\npart the evolution of *tekhnê*. The first arts which human beings developed\nwere those concerned with producing the necessities of their existence.\nThen came recreational arts - those which, while not necessary, enhance the\nquality of human life. In due course, activities arose which simply satisfy\nthe desire to know (Aristotle’s example is mathematics). Ultimately,\nphilosophy emerged. Philosophy is rooted in the basic human instinct to\nseek knowledge: the world puzzles us and arouses our sense of wonder, and\nso prompts us to look for explanations. Philosophy is therefore the\nsophisticated descendant of primitive myth-making responses to an\nastonishing world.\n\nMalcolm Heath, [Poetics  (Penguin Classics)](https://amzn.to/3qANAmi \"Poetics  (Penguin Classics)\"), 1996. {.line-before}\n"
+        }
+      ],
+      "advert": true,
+      "sponsor": true,
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "mario-klassen-dYswqbzvopw-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__all-human-beings-by-nature-desire-knowledge__index",
+      "path": "origins/quotes/published/all-human-beings-by-nature-desire-knowledge",
+      "type": "origin",
+      "directory": "origins",
+      "category": "quotes",
+      "slug": "all-human-beings-by-nature-desire-knowledge"
+    },
+    {
       "title": "Humans",
       "createdOn": "2020-08-09T15:57:00.000Z",
       "excerpt": "\"All that\nexploration, all that progress, all those dreams and grand notions, and that’s\nwhere we end up: trapped on our planet by a prison we’ve made from our\nown trash....\n",
@@ -4708,6 +4708,68 @@
       "directory": "origins",
       "category": "quotes",
       "slug": "and-thats-where-we-end-up-trapped-on-our-planet"
+    },
+    {
+      "title": "Why Look at Animals?",
+      "createdOn": "2020-07-14T01:28:00.000Z",
+      "excerpt": "\"Animals are born, are sentient and are mortal. In these things they resemble man...\n",
+      "tags": [
+        "johnberger",
+        "whylookatanimals",
+        "zoo"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "content": "> Animals are born, are sentient and are mortal. In these things they resemble man. In their superficial anatomy — less in their deep anatomy — in their habits, in their time, in their physical capacities, they differ from man. They are both like and unlike.\n\nJohn Berger, [Why Look at Animals?](https://amzn.to/2YNIOGA \"Why Look at Animals?\") 2009. {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "sarah-stockman-XRC-YQT46AU-unsplash.jpg",
+        "bgStyle": "'background-position': 'top center'\n",
+        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@sarahslimpie?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">sarah stockman</a> on <a href=\"https://unsplash.com/s/photos/zoo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
+      },
+      "coverImage": {
+        "file": "cover-sarah-stockman-XRC-YQT46AU-unsplash.jpg",
+        "title": "Why Look at Animals?"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "book-cover-why-look-at-animals.jpg",
+        "title": "Why Look at Animals?",
+        "link": "https://amzn.to/2YNIOGA",
+        "caption": "",
+        "cellClass": "medium-6",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> Animals are born, are sentient and are mortal. In these things they resemble man. In their superficial anatomy — less in their deep anatomy — in their habits, in their time, in their physical capacities, they differ from man. They are both like and unlike.\n\n> The eyes of an animal when they consider a man are attentive and wary. The same animal may well look at other species in the same way. He does not reserve a special look for man. But by no other species except man will the animal’s look be recognised as familiar. Other animals are held by the look. Man becomes aware of himself returning the look.\n\n> Everywhere animals disappear. In zoos they constitute the living monument to their own disappearance. And in doing so, they provoked their last metaphor.\n\n> All sites of enforced marginalisation — ghettos, shanty towns, prisons, madhouses, concentration camps — have something in common with zoos. But it is both too easy and too evasive to use the zoo as a symbol. The zoo is a demonstration of the relations between man and animals; nothing else.\n\nJohn Berger, [Why Look at Animals?](https://amzn.to/2YNIOGA \"Why Look at Animals?\") 2009. {.line-before}\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "sarah-stockman-XRC-YQT46AU-unsplash.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__animals-are-born-are-sentient-and-are-mortal-in-these-things-they-resemble-man__index",
+      "path": "origins/quotes/published/animals-are-born-are-sentient-and-are-mortal-in-these-things-they-resemble-man",
+      "type": "origin",
+      "directory": "origins",
+      "category": "quotes",
+      "slug": "animals-are-born-are-sentient-and-are-mortal-in-these-things-they-resemble-man"
     },
     {
       "title": "Until the End of Time",
@@ -4832,68 +4894,6 @@
       "directory": "origins",
       "category": "quotes",
       "slug": "every-breath-you-take-contains-atoms-forged-in-the-blistering-furnaces-deep-inside-stars"
-    },
-    {
-      "title": "Why Look at Animals?",
-      "createdOn": "2020-07-14T01:28:00.000Z",
-      "excerpt": "\"Animals are born, are sentient and are mortal. In these things they resemble man...\n",
-      "tags": [
-        "johnberger",
-        "whylookatanimals",
-        "zoo"
-      ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8",
-        "content": "> Animals are born, are sentient and are mortal. In these things they resemble man. In their superficial anatomy — less in their deep anatomy — in their habits, in their time, in their physical capacities, they differ from man. They are both like and unlike.\n\nJohn Berger, [Why Look at Animals?](https://amzn.to/2YNIOGA \"Why Look at Animals?\") 2009. {.line-before}\n"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "sarah-stockman-XRC-YQT46AU-unsplash.jpg",
-        "bgStyle": "'background-position': 'top center'\n",
-        "imgCaption": "<span>Photo by <a href=\"https://unsplash.com/@sarahslimpie?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">sarah stockman</a> on <a href=\"https://unsplash.com/s/photos/zoo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>\n"
-      },
-      "coverImage": {
-        "file": "cover-sarah-stockman-XRC-YQT46AU-unsplash.jpg",
-        "title": "Why Look at Animals?"
-      },
-      "coverTitle": {
-        "sectionClass": null,
-        "headerClass": null,
-        "bgImage": null,
-        "bgStyle": null
-      },
-      "adImage": {
-        "file": "book-cover-why-look-at-animals.jpg",
-        "title": "Why Look at Animals?",
-        "link": "https://amzn.to/2YNIOGA",
-        "caption": "",
-        "cellClass": "medium-6",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> Animals are born, are sentient and are mortal. In these things they resemble man. In their superficial anatomy — less in their deep anatomy — in their habits, in their time, in their physical capacities, they differ from man. They are both like and unlike.\n\n> The eyes of an animal when they consider a man are attentive and wary. The same animal may well look at other species in the same way. He does not reserve a special look for man. But by no other species except man will the animal’s look be recognised as familiar. Other animals are held by the look. Man becomes aware of himself returning the look.\n\n> Everywhere animals disappear. In zoos they constitute the living monument to their own disappearance. And in doing so, they provoked their last metaphor.\n\n> All sites of enforced marginalisation — ghettos, shanty towns, prisons, madhouses, concentration camps — have something in common with zoos. But it is both too easy and too evasive to use the zoo as a symbol. The zoo is a demonstration of the relations between man and animals; nothing else.\n\nJohn Berger, [Why Look at Animals?](https://amzn.to/2YNIOGA \"Why Look at Animals?\") 2009. {.line-before}\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "sarah-stockman-XRC-YQT46AU-unsplash.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__animals-are-born-are-sentient-and-are-mortal-in-these-things-they-resemble-man__index",
-      "path": "origins/quotes/published/animals-are-born-are-sentient-and-are-mortal-in-these-things-they-resemble-man",
-      "type": "origin",
-      "directory": "origins",
-      "category": "quotes",
-      "slug": "animals-are-born-are-sentient-and-are-mortal-in-these-things-they-resemble-man"
     },
     {
       "title": "Cosmos: The Story of Cosmic Evolution, Science and Civilisation",
@@ -5262,66 +5262,6 @@
       "slug": "this-is-time-familiar-and-intimate"
     },
     {
-      "title": "The Poetics of Space",
-      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
-      "createdOn": "2019-05-01T01:20:00.000Z",
-      "tags": [
-        "gastonbachelard",
-        "thepoeticsofspace"
-      ],
-      "layout": "split",
-      "fullSplitHeadLeft": {
-        "cellClass": "large-8",
-        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/3FbyK9D \"The Poetics of Space\"), 1958. {.line-before}\n"
-      },
-      "fullSplitHeadRight": {
-        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "bgStyle": "'background-position': 'bottom center'\n"
-      },
-      "coverImage": {
-        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
-        "title": "Sample Title"
-      },
-      "coverTitle": {
-        "sectionClass": null,
-        "headerClass": null,
-        "bgImage": null,
-        "bgStyle": null
-      },
-      "adImage": {
-        "file": "book-the-poetics-of-space.jpg",
-        "title": "The Poetics of Space",
-        "link": "https://amzn.to/3FbyK9D",
-        "caption": "",
-        "cellClass": "medium-4",
-        "figcaptionGridClass": "small-padding-collapse",
-        "figcaptioncellClass": null
-      },
-      "listContents": [
-        {
-          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/3FbyK9D \"The Poetics of Space\"), 1958. {.line-before}\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
-      },
-      "contents": "",
-      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index",
-      "path": "origins/quotes/published/we-are-unable-to-relive-duration-that-has-been-destroyed",
-      "type": "origin",
-      "directory": "origins",
-      "category": "quotes",
-      "slug": "we-are-unable-to-relive-duration-that-has-been-destroyed"
-    },
-    {
       "title": "About Time: From Sun Dials to Quantum Clocks, How the Cosmos Shapes our Lives - And We Shape the Cosmos",
       "createdOn": "2020-06-18T06:04:00.000Z",
       "excerpt": "\"Time after time, we have never been anything other than collaborators with the universe...\n",
@@ -5413,6 +5353,66 @@
       "directory": "origins",
       "category": "quotes",
       "slug": "time-after-time"
+    },
+    {
+      "title": "The Poetics of Space",
+      "excerpt": "\"We are unable to relive duration that has been destroyed...\n",
+      "createdOn": "2019-05-01T01:20:00.000Z",
+      "tags": [
+        "gastonbachelard",
+        "thepoeticsofspace"
+      ],
+      "layout": "split",
+      "fullSplitHeadLeft": {
+        "cellClass": "large-8",
+        "content": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/3FbyK9D \"The Poetics of Space\"), 1958. {.line-before}\n"
+      },
+      "fullSplitHeadRight": {
+        "bgImage": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "bgStyle": "'background-position': 'bottom center'\n"
+      },
+      "coverImage": {
+        "file": "60960944_142433740242511_7822571419432273703_n.jpg",
+        "title": "Sample Title"
+      },
+      "coverTitle": {
+        "sectionClass": null,
+        "headerClass": null,
+        "bgImage": null,
+        "bgStyle": null
+      },
+      "adImage": {
+        "file": "book-the-poetics-of-space.jpg",
+        "title": "The Poetics of Space",
+        "link": "https://amzn.to/3FbyK9D",
+        "caption": "",
+        "cellClass": "medium-4",
+        "figcaptionGridClass": "small-padding-collapse",
+        "figcaptioncellClass": null
+      },
+      "listContents": [
+        {
+          "contents": "> We are unable to relive duration that has been destroyed. We only can think of it, in the line of an abstract time that is deprived of all thickness.\n\n> I only read and re-read what I like, with a bit of reader's pride mixed in with much enthusiasm. But whereas pride usually develop into a massive sentiment that weighs upon the entire psyche, the touch of pride that is born of adherence to the felicity of an image, remains secret and unobtrusive. It is with within us, mere readers that we are, it is for us, and for us alone. It is a homely sort of pride. Nobody knows that in reading we are re-living our temptations to be poet. All readers who have a certain passion for reading, nurture and repress, though reading, the desire to become a writer. When the page we have just read is too near perfection, our modesty suppresses this desire. But it reappears, nevertheless. In any case, every reader who re-reads a work that he likes, knows that its pages concern him.\n\nGaston Bachelard, [The Poetics of Space](https://amzn.to/3FbyK9D \"The Poetics of Space\"), 1958. {.line-before}\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "60960944_142433740242511_7822571419432273703_n.jpg"
+      },
+      "contents": "",
+      "id": "origins__quotes__published__we-are-unable-to-relive-duration-that-has-been-destroyed__index",
+      "path": "origins/quotes/published/we-are-unable-to-relive-duration-that-has-been-destroyed",
+      "type": "origin",
+      "directory": "origins",
+      "category": "quotes",
+      "slug": "we-are-unable-to-relive-duration-that-has-been-destroyed"
     },
     {
       "title": "Big Bang: The Origin of the Universe",
@@ -5553,284 +5553,6 @@
       "directory": "art",
       "category": "",
       "slug": "place"
-    },
-    {
-      "title": "Looking",
-      "year": "1997 - 2000",
-      "excerpt": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>",
-      "order": 3,
-      "tags": [
-        "sketching",
-        "people",
-        "portrait"
-      ],
-      "coverImage": {
-        "file": "Looking_01.jpg",
-        "title": "Looking"
-      },
-      "listImages": [
-        {
-          "file": "Looking_01.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_02.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_03.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_04.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_05.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_06.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_07.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_08.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_09.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_10.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_11.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_12.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_13.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_14.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_15.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_16.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_17.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_18.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_19.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_20.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_21.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_22.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_23.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_24.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_25.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_26.jpg",
-          "title": "Looking"
-        },
-        {
-          "file": "Looking_27.jpg"
-        }
-      ],
-      "layout": "single",
-      "headImages": [
-        {
-          "file": "Looking_21.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_12.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_23.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_04.jpg",
-          "alt": "Looking"
-        },
-        {
-          "file": "Looking_27.jpg",
-          "alt": "Looking"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Looking_01_OG.jpg"
-      },
-      "contents": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>\n",
-      "id": "art__published__looking__index",
-      "path": "art/published/looking",
-      "type": "art",
-      "directory": "art",
-      "category": "",
-      "slug": "looking"
-    },
-    {
-      "title": "Rising",
-      "year": "1998 - 1999",
-      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
-      "order": 2,
-      "tags": [
-        "sketching",
-        "people"
-      ],
-      "coverImage": {
-        "file": "Rising_01.jpg",
-        "title": "Rising"
-      },
-      "listImages": [
-        {
-          "file": "Rising_01.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_05.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_06.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_07.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_08.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_09.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_10.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_11.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_12.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_13.jpg",
-          "title": "Rising"
-        },
-        {
-          "file": "Rising_14.jpg",
-          "title": "Rising"
-        }
-      ],
-      "layout": "single",
-      "headImages": [
-        {
-          "file": "Rising_01.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_02.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_03.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        },
-        {
-          "file": "Rising_04.jpg",
-          "alt": "Rising",
-          "style": "'background-size': 'contain'\n"
-        }
-      ],
-      "meta": {
-        "title": null,
-        "description": null,
-        "keywords": null
-      },
-      "og": {
-        "title": null,
-        "description": null,
-        "type": "article",
-        "image": "Rising_08.jpg"
-      },
-      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
-      "id": "art__published__rising__index",
-      "path": "art/published/rising",
-      "type": "art",
-      "directory": "art",
-      "category": "",
-      "slug": "rising"
     },
     {
       "title": "Dust",
@@ -6152,6 +5874,284 @@
       "directory": "art",
       "category": "",
       "slug": "waiting"
+    },
+    {
+      "title": "Looking",
+      "year": "1997 - 2000",
+      "excerpt": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>",
+      "order": 3,
+      "tags": [
+        "sketching",
+        "people",
+        "portrait"
+      ],
+      "coverImage": {
+        "file": "Looking_01.jpg",
+        "title": "Looking"
+      },
+      "listImages": [
+        {
+          "file": "Looking_01.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_02.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_03.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_04.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_05.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_06.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_07.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_08.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_09.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_10.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_11.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_12.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_13.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_14.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_15.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_16.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_17.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_18.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_19.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_20.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_21.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_22.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_23.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_24.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_25.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_26.jpg",
+          "title": "Looking"
+        },
+        {
+          "file": "Looking_27.jpg"
+        }
+      ],
+      "layout": "single",
+      "headImages": [
+        {
+          "file": "Looking_21.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_12.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_23.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_04.jpg",
+          "alt": "Looking"
+        },
+        {
+          "file": "Looking_27.jpg",
+          "alt": "Looking"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Looking_01_OG.jpg"
+      },
+      "contents": "<p>&quot;Looking&quot; is a collection of sketches from 1997 - 2000 depicting portraits of looking and contemplating.</p>\n",
+      "id": "art__published__looking__index",
+      "path": "art/published/looking",
+      "type": "art",
+      "directory": "art",
+      "category": "",
+      "slug": "looking"
+    },
+    {
+      "title": "Rising",
+      "year": "1998 - 1999",
+      "excerpt": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>",
+      "order": 2,
+      "tags": [
+        "sketching",
+        "people"
+      ],
+      "coverImage": {
+        "file": "Rising_01.jpg",
+        "title": "Rising"
+      },
+      "listImages": [
+        {
+          "file": "Rising_01.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_05.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_06.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_07.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_08.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_09.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_10.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_11.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_12.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_13.jpg",
+          "title": "Rising"
+        },
+        {
+          "file": "Rising_14.jpg",
+          "title": "Rising"
+        }
+      ],
+      "layout": "single",
+      "headImages": [
+        {
+          "file": "Rising_01.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_02.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_03.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        },
+        {
+          "file": "Rising_04.jpg",
+          "alt": "Rising",
+          "style": "'background-size': 'contain'\n"
+        }
+      ],
+      "meta": {
+        "title": null,
+        "description": null,
+        "keywords": null
+      },
+      "og": {
+        "title": null,
+        "description": null,
+        "type": "article",
+        "image": "Rising_08.jpg"
+      },
+      "contents": "<p>&quot;Rising&quot; is a collection of sketches from 1998 - 1999 depicting people in &quot;motions&quot;.</p>\n",
+      "id": "art__published__rising__index",
+      "path": "art/published/rising",
+      "type": "art",
+      "directory": "art",
+      "category": "",
+      "slug": "rising"
     }
   ],
   "feeds": [
@@ -6177,6 +6177,124 @@
       "directory": "feeds",
       "category": "digital",
       "slug": "hands-on-nuxtjs-web-development"
+    },
+    {
+      "title": "Starry Nights",
+      "createdOn": "2012-12-26T17:33:00.000Z",
+      "excerpt": "I know everything ends the same: I still try to remember your face...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "jake-weirick-Zu6wtAvLWgE-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/posts/starry-nights",
+      "contents": "",
+      "id": "feeds__posts__published__starry-nights__index",
+      "path": "feeds/posts/published/starry-nights",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "starry-nights"
+    },
+    {
+      "title": "The Most Beautiful Place",
+      "createdOn": "2007-06-06T22:12:00.000Z",
+      "excerpt": "The most beautiful place is never in the sky nor is too far away, it is the face where...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/posts/the-most-beautiful-place",
+      "contents": "",
+      "id": "feeds__posts__published__the-most-beautiful-place__index",
+      "path": "feeds/posts/published/the-most-beautiful-place",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "the-most-beautiful-place"
+    },
+    {
+      "title": "关口",
+      "createdOn": "2021-01-02T08:40:00.000Z",
+      "excerpt": "曾经我有一本小圣经，我从马来西亚带去荷兰，再带进伦敦，再搭七八小时的巴士，披星载月往普利茅斯带去。。。\n",
+      "coverImage": {
+        "file": "hao-han-iWh8vVPMkp0-unsplash-feed.jpg",
+        "title": "关口"
+      },
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "hao-han-iWh8vVPMkp0-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/posts/关口",
+      "contents": "",
+      "id": "feeds__posts__published__关口__index",
+      "path": "feeds/posts/published/关口",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "关口"
+    },
+    {
+      "title": "Virus",
+      "createdOn": "2020-03-19T19:22:00.000Z",
+      "excerpt": "All viruses want to live too. They once were happily...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "isaac-quesada-3afJNfKkbH8-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'top center'\n"
+      },
+      "link": "/origins/posts/virus",
+      "contents": "",
+      "id": "feeds__posts__published__virus__index",
+      "path": "feeds/posts/published/virus",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "virus"
+    },
+    {
+      "title": "太阳都会老",
+      "createdOn": "2020-05-25T09:42:00.000Z",
+      "excerpt": "太阳都会老，莫说凡人。月亮也会老，莫说青春...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "ingmar-aNeAaXWr2fg-unsplash-feed.jpg",
+        "bgStyle": "'background-position': 'center center'\n"
+      },
+      "link": "/origins/posts/太阳都会老",
+      "contents": "",
+      "id": "feeds__posts__published__太阳都会老__index",
+      "path": "feeds/posts/published/太阳都会老",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "太阳都会老"
+    },
+    {
+      "title": "饶人",
+      "createdOn": "2019-12-17T12:51:00.000Z",
+      "excerpt": "原来，无论藏到任何最不闪亮的城市，你仍然不饶人...\n",
+      "coverTitle": {
+        "sectionClass": "square-container flex-center text-center image-background",
+        "headerClass": "dark-mode",
+        "bgImage": "pic-03-feed.jpg",
+        "bgStyle": "'background-position': 'center center'\n"
+      },
+      "link": "/origins/posts/饶人",
+      "contents": "",
+      "id": "feeds__posts__published__饶人__index",
+      "path": "feeds/posts/published/饶人",
+      "type": "feed",
+      "directory": "feeds",
+      "category": "posts",
+      "slug": "饶人"
     },
     {
       "title": "Truce",
@@ -6349,7 +6467,7 @@
     {
       "title": "A Cat From My Next Door",
       "createdOn": "2021-09-01T14:24:00.000Z",
-      "excerpt": "如果你问我哥姐，我妈最疼是谁，大家都会毫不犹豫的说是我。可是，我就不认同。。。\n",
+      "excerpt": "如果你问我哥姐，我妈最疼是谁，大家都会不约而同的说是我。可是，我就不认同。。。\n",
       "coverImage": {
         "file": "jonathan-pielmayer-gDrUY7QUeng-unsplash-feed.jpg",
         "title": "藤条"
@@ -6571,124 +6689,6 @@
       "directory": "feeds",
       "category": "quotes",
       "slug": "this-is-time-familiar-and-intimate"
-    },
-    {
-      "title": "Starry Nights",
-      "createdOn": "2012-12-26T17:33:00.000Z",
-      "excerpt": "I know everything ends the same: I still try to remember your face...\n",
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "jake-weirick-Zu6wtAvLWgE-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/posts/starry-nights",
-      "contents": "",
-      "id": "feeds__posts__published__starry-nights__index",
-      "path": "feeds/posts/published/starry-nights",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "posts",
-      "slug": "starry-nights"
-    },
-    {
-      "title": "The Most Beautiful Place",
-      "createdOn": "2007-06-06T22:12:00.000Z",
-      "excerpt": "The most beautiful place is never in the sky nor is too far away, it is the face where...\n",
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "ihor-malytskyi-3SDi-7dKwR0-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/posts/the-most-beautiful-place",
-      "contents": "",
-      "id": "feeds__posts__published__the-most-beautiful-place__index",
-      "path": "feeds/posts/published/the-most-beautiful-place",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "posts",
-      "slug": "the-most-beautiful-place"
-    },
-    {
-      "title": "Virus",
-      "createdOn": "2020-03-19T19:22:00.000Z",
-      "excerpt": "All viruses want to live too. They once were happily...\n",
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "isaac-quesada-3afJNfKkbH8-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/posts/virus",
-      "contents": "",
-      "id": "feeds__posts__published__virus__index",
-      "path": "feeds/posts/published/virus",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "posts",
-      "slug": "virus"
-    },
-    {
-      "title": "关口",
-      "createdOn": "2021-01-02T08:40:00.000Z",
-      "excerpt": "曾经我有一本小圣经，我从马来西亚带去荷兰，再带进伦敦，再搭七八小时的巴士，披星载月往普利茅斯带去。。。\n",
-      "coverImage": {
-        "file": "hao-han-iWh8vVPMkp0-unsplash-feed.jpg",
-        "title": "关口"
-      },
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "hao-han-iWh8vVPMkp0-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'top center'\n"
-      },
-      "link": "/origins/posts/关口",
-      "contents": "",
-      "id": "feeds__posts__published__关口__index",
-      "path": "feeds/posts/published/关口",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "posts",
-      "slug": "关口"
-    },
-    {
-      "title": "太阳都会老",
-      "createdOn": "2020-05-25T09:42:00.000Z",
-      "excerpt": "太阳都会老，莫说凡人。月亮也会老，莫说青春...\n",
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "ingmar-aNeAaXWr2fg-unsplash-feed.jpg",
-        "bgStyle": "'background-position': 'center center'\n"
-      },
-      "link": "/origins/posts/太阳都会老",
-      "contents": "",
-      "id": "feeds__posts__published__太阳都会老__index",
-      "path": "feeds/posts/published/太阳都会老",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "posts",
-      "slug": "太阳都会老"
-    },
-    {
-      "title": "饶人",
-      "createdOn": "2019-12-17T12:51:00.000Z",
-      "excerpt": "原来，无论藏到任何最不闪亮的城市，你仍然不饶人...\n",
-      "coverTitle": {
-        "sectionClass": "square-container flex-center text-center image-background",
-        "headerClass": "dark-mode",
-        "bgImage": "pic-03-feed.jpg",
-        "bgStyle": "'background-position': 'center center'\n"
-      },
-      "link": "/origins/posts/饶人",
-      "contents": "",
-      "id": "feeds__posts__published__饶人__index",
-      "path": "feeds/posts/published/饶人",
-      "type": "feed",
-      "directory": "feeds",
-      "category": "posts",
-      "slug": "饶人"
     }
   ]
 }
